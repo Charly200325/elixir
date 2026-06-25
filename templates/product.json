@@ -584,6 +584,21 @@
             "margin_bottom": 5
           }
         },
+        "facebook_review_pRHPbW": {
+          "type": "facebook_review",
+          "settings": {
+            "username": "Jane Smith",
+            "review_content": "I absolutely love this product! It's been a game changer for me. The quality is exceptional and it works exactly as described. Shipping was fast and the customer service was outstanding. Highly recommend to anyone looking for this type of solution.",
+            "star_color": "#1877f2",
+            "empty_star_color": "#ccd0d5",
+            "username_font_size": 10.8,
+            "content_font_size": 10.2,
+            "meta_font_size": 9.4,
+            "action_button_font_size": 10,
+            "margin_top": 8,
+            "margin_bottom": 8
+          }
+        },
         "divider_yp8EHi": {
           "type": "divider",
           "settings": {
@@ -749,6 +764,7 @@
         "payment_icons_4M99Bi",
         "money_back_guarantee_kbK7cN",
         "replica_warning_Gjgh6b",
+        "facebook_review_pRHPbW",
         "divider_yp8EHi",
         "carousel_default_video_akUGBF",
         "carousel_default_video_6k7bGt",
