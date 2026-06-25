@@ -587,27 +587,27 @@
         "customer_review_Qyk4Aa": {
           "type": "customer_review",
           "settings": {
-            "reviewer_name": "Lauren J.",
-            "review_text": "This product exceeded my expectations. The quality is outstanding and I would highly recommend it to anyone.",
+            "reviewer_name": "Sophie L.",
+            "review_text": "Les nuits étaient insupportable dans mon appart, et poser une clim n'était pas une option en location. Installé en 10 min, le ventilateur a tout changé, l’air circule enfin et je dors beaucoup mieux.",
             "rating": 5,
-            "background_color_start": "#ffffff",
-            "background_color_end": "#f8f8f8",
+            "background_color_start": "#DFEDFC",
+            "background_color_end": "#DFEDFC",
             "text_color": "#000000",
-            "border_color": "#dcdcdc",
+            "border_color": "#FFFFFF",
             "border_radius": 8,
-            "border_style": "dashed",
+            "border_style": "solid",
             "show_shadow": true,
             "star_color": "#ffb800",
-            "reviewer_name_size": 16,
+            "reviewer_name_size": 14,
             "review_text_size": 14,
-            "star_size": 16,
+            "star_size": 19,
             "avatar_size_desktop": 75,
             "avatar_size_mobile": 65,
-            "margin_top": 15,
+            "margin_top": 0,
             "margin_right": 0,
-            "margin_bottom": 15,
+            "margin_bottom": 10,
             "margin_left": 0,
-            "verified_icon_color": "#4caf50",
+            "verified_icon_color": "#141B4D",
             "review_text_color": "#666666"
           }
         },
@@ -757,6 +757,9 @@
         "carousel_default_video_eH4e7V",
         "faq",
         "video_carousel_standalone_xw3T8p"
+      ],
+      "custom_css": [
+        ".customer-review-avatar-container {display: none;}"
       ],
       "settings": {
         "use_theme_colors": false,
