@@ -295,13 +295,14 @@
           "settings": {
             "quantity_1": 1,
             "title_1": "1x Ventilateur de Plafond",
-            "compare_price_1": 0,
+            "price_1": 23,
+            "compare_price_1": 13,
             "description_1": "✔ Livraison offerte     ✔ Télécommande incluse",
             "show_badge_1": false,
             "badge_1": "",
             "quantity_2": 2,
-            "title_2": "Bundle of 2",
-            "description_2": "",
+            "title_2": "2x Ventilateur de Plafond",
+            "description_2": "✔ Livraison offerte     ✔ Télécommande incluse",
             "show_badge_2": true,
             "badge_2": "POPULAR",
             "quantity_3": 3,
@@ -336,6 +337,7 @@
         },
         "quantity_break_BwGDzW": {
           "type": "quantity_break",
+          "disabled": true,
           "settings": {
             "show_radio_buttons": true,
             "enable_variant_selection": false,
