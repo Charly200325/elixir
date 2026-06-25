@@ -1204,8 +1204,9 @@
         "product_column_HQQ9kd": {
           "type": "product_column",
           "settings": {
-            "product_name": "Our Product",
-            "product_subtitle": "Original",
+            "product_name": "Ventilateur de plafond",
+            "product_subtitle": "",
+            "product_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_21.03.19.png",
             "product_image_size": 80,
             "product_image_size_tablet": 80,
             "product_image_size_mobile": 75,
@@ -1223,33 +1224,12 @@
             "subtitle_icon_color": "#000000"
           }
         },
-        "product_column_DF3TFg": {
-          "type": "product_column",
-          "settings": {
-            "product_name": "Others",
-            "product_subtitle": "Knock-off",
-            "product_image_size": 80,
-            "product_image_size_tablet": 60,
-            "product_image_size_mobile": 50,
-            "subtitle_custom_icon": "",
-            "show_subtitle_icon": true,
-            "use_subtitle_background": true,
-            "subtitle_border_color": "#ffffff",
-            "highlight_column": false,
-            "highlight_color": "#ef4a65",
-            "use_highlight_gradient": false,
-            "highlight_gradient_start_color": "#ef4a65",
-            "highlight_gradient_end_color": "#ff6b9d",
-            "highlight_gradient_angle": 45,
-            "subtitle_glass_color": "#ffffff",
-            "subtitle_icon_color": "#000000"
-          }
-        },
         "product_column_8iR6JG": {
           "type": "product_column",
           "settings": {
-            "product_name": "Others",
-            "product_subtitle": "Knock-off",
+            "product_name": "Ventilateur sur pied",
+            "product_subtitle": "",
+            "product_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_21.08.30.png",
             "product_image_size": 80,
             "product_image_size_tablet": 60,
             "product_image_size_mobile": 50,
@@ -1335,7 +1315,6 @@
       },
       "block_order": [
         "product_column_HQQ9kd",
-        "product_column_DF3TFg",
         "product_column_8iR6JG",
         "feature_row_DrAYGc",
         "feature_row_W4Fwxw",
