@@ -541,6 +541,19 @@
             "margin_bottom": 5
           }
         },
+        "divider_9kcrFc": {
+          "type": "divider",
+          "settings": {
+            "color": "#e0e0e0",
+            "style": "solid",
+            "thickness": 1,
+            "width": "100%",
+            "max_width": "100%",
+            "alignment": "center",
+            "margin_top": 10,
+            "margin_bottom": 10
+          }
+        },
         "money_back_guarantee_kbK7cN": {
           "type": "money_back_guarantee",
           "disabled": true,
@@ -611,19 +624,6 @@
             "review_text_color": "#666666"
           }
         },
-        "divider_yp8EHi": {
-          "type": "divider",
-          "settings": {
-            "color": "#e4f9ff",
-            "style": "solid",
-            "thickness": 1,
-            "width": "100%",
-            "max_width": "100%",
-            "alignment": "center",
-            "margin_top": 0,
-            "margin_bottom": 10
-          }
-        },
         "carousel_default_video_akUGBF": {
           "type": "carousel_default_video",
           "settings": {
@@ -672,7 +672,7 @@
             "margin_bottom": 5,
             "border_radius": 10,
             "border_color": "#e5e5e5",
-            "border_style": "full",
+            "border_style": "bottom_only",
             "question_color": "#211a28",
             "question_bg_color": "#ffffff",
             "answer_color": "#211a28",
@@ -680,15 +680,15 @@
             "accordion_mode": true,
             "question_1": "Description",
             "use_product_description_for_question_1": false,
-            "answer_1": "<p>Product description goes here.</p>",
-            "question_2": "How to use",
-            "answer_2": "<p>Usage instructions go here.</p>",
-            "question_3": "Features",
-            "answer_3": "<p>Key features go here.</p>",
-            "question_4": "Frequently Asked Questions",
-            "answer_4": "<p>Common questions and answers go here.</p>",
-            "question_5": "Shipping & Returns",
-            "answer_5": "<p>Shipping and return policy details go here.</p>",
+            "answer_1": "<p>Quand il fait chaud, ce n'est pas seulement la température : c'est l'air qui stagne et rend la pièce lourde, surtout la nuit. Ce ventilateur 2-en-1 se visse sur votre douille E27, à la place d'une ampoule : vous gardez la lumière et vous ajoutez un brassage d'air doux depuis le plafond.</p>",
+            "question_2": "Caractéristiques",
+            "answer_2": "<ul><li><strong>Installation :</strong> douille E27 standard, sans câblage ni électricien</li><li><strong>Fixation :</strong> support à vis fourni pour une stabilité renforcée</li><li><strong>Diamètre :</strong> 52 cm, 6 pales</li><li><strong>Puissance :</strong> 40 W</li><li><strong>Éclairage :</strong> LED dimmable, 3 températures de couleur</li><li><strong>Ventilation :</strong> 3 vitesses + minuterie</li><li><strong>Commande :</strong> télécommande incluse</li><li><strong>Pièces recommandées :</strong> jusqu'à ~15 m² (chambre, bureau, studio, petite pièce)</li><li><strong>Niveau sonore :</strong> conçu pour rester discret en petite vitesse (&lt;30 dB)</li></ul>",
+            "question_3": "Utilisation & Entretien",
+            "answer_3": "<p>Coupez le courant, retirez l'ampoule, vissez le ventilateur sur la douille E27. Pour une stabilité maximale, fixez le support fourni au plafond.</p><p>Rétablissez le courant, puis réglez lumière, vitesse et minuterie depuis la télécommande. Dépoussiérez les pales de temps en temps avec un chiffon sec.</p>",
+            "question_4": "Livraison & garantie",
+            "answer_4": "<p>Livraison gratuite en 4 à 7 jours ouvrés et expédition sous 24-48 h.</p><p>Garantie 30 jours satisfait ou remboursé, retours simplifiés et support 100 % français.</p>",
+            "question_5": "",
+            "answer_5": "",
             "question_6": "",
             "answer_6": "",
             "question_7": "",
@@ -699,36 +699,6 @@
             "answer_9": "",
             "question_10": "",
             "answer_10": ""
-          }
-        },
-        "video_carousel_standalone_xw3T8p": {
-          "type": "video_carousel_standalone",
-          "settings": {
-            "heading": "See it in action",
-            "heading_size": 24,
-            "heading_color": "#211a28",
-            "scrollbar_color": "#211a28",
-            "disable_sound_controls": false,
-            "enable_autoplay": false,
-            "show_sound_controls_autoplay": false,
-            "play_button_size": 30,
-            "sound_button_size": 30,
-            "play_button_bg_color": "#000000",
-            "play_button_bg_opacity": 35,
-            "sound_button_bg_color": "#000000",
-            "sound_button_bg_opacity": 35,
-            "hide_scrollbar": false,
-            "video_size": 150,
-            "show_social_badge": true,
-            "social_platform": "instagram",
-            "view_count": 4.4,
-            "badge_text": "Over",
-            "badge_suffix": "M Views On Instagram",
-            "use_gradient_text": true,
-            "badge_background_color": "#ffffff",
-            "badge_text_color": "#211a28",
-            "margin_top": 0,
-            "margin_bottom": 0
           }
         }
       },
@@ -747,16 +717,15 @@
         "add_to_cart_T6xGgJ",
         "guarantee_badges_QyjYFA",
         "payment_icons_4M99Bi",
+        "divider_9kcrFc",
         "money_back_guarantee_kbK7cN",
         "replica_warning_Gjgh6b",
         "customer_review_Qyk4Aa",
-        "divider_yp8EHi",
         "carousel_default_video_akUGBF",
         "carousel_default_video_6k7bGt",
         "carousel_default_video_DX3XK4",
         "carousel_default_video_eH4e7V",
-        "faq",
-        "video_carousel_standalone_xw3T8p"
+        "faq"
       ],
       "custom_css": [
         ".customer-review-avatar-container {display: none;}"
