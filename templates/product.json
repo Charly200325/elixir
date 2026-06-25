@@ -543,6 +543,7 @@
         },
         "money_back_guarantee_kbK7cN": {
           "type": "money_back_guarantee",
+          "disabled": true,
           "settings": {
             "text_small": "Less than 1%",
             "text_large": "of customers claim our 30-Day Money Back Guarantee",
@@ -567,13 +568,13 @@
         "replica_warning_Gjgh6b": {
           "type": "replica_warning",
           "settings": {
-            "warning_title": "Watch Out For Cheap Replicas.",
-            "warning_text": "Only our brand guarantees the high quality product used by thousands for pain relief.",
-            "background_color": "#ffffff",
-            "text_color": "#f42e75",
-            "border_color": "#f42e75",
-            "icon_background_color": "#ffffff",
-            "icon_color": "#f42e75",
+            "warning_title": "Dernières unités disponibles",
+            "warning_text": "Forte demande en ce moment. Commandez maintenant avant rupture de stock - prochain réassort prévu en septembre.",
+            "background_color": "#F49C9C",
+            "text_color": "#000000",
+            "border_color": "#F49C9C",
+            "icon_background_color": "#000000",
+            "icon_color": "#F49C9C",
             "title_font_size": 20,
             "text_font_size": 14,
             "border_width": 1,
