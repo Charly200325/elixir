@@ -769,65 +769,6 @@
         "main_image_portrait_adaptation": false
       }
     },
-    "scrolling_features_bar_AhP6EL": {
-      "type": "scrolling-features-bar",
-      "blocks": {
-        "feature_item_WJdNbm": {
-          "type": "feature_item",
-          "settings": {
-            "text": "",
-            "icon_type": "image",
-            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>",
-            "icon_image": "shopify://shop_images/9_e7ffed68-505d-4187-845e-726b60a05fc3.webp"
-          }
-        },
-        "feature_item_CJxhgK": {
-          "type": "feature_item",
-          "settings": {
-            "text": "",
-            "icon_type": "image",
-            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zm-6 0H5V6h9v2zm-9 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm12 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z\"></path></svg>",
-            "icon_image": "shopify://shop_images/11_545e1dc5-eefe-4a18-b317-66dc206dff58.webp"
-          }
-        },
-        "feature_item_VMc6KP": {
-          "type": "feature_item",
-          "settings": {
-            "text": "",
-            "icon_type": "image",
-            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"></path></svg>",
-            "icon_image": "shopify://shop_images/10_37417e18-ef63-4044-88fe-ec4a09d86412.avif"
-          }
-        }
-      },
-      "block_order": [
-        "feature_item_WJdNbm",
-        "feature_item_CJxhgK",
-        "feature_item_VMc6KP"
-      ],
-      "settings": {
-        "use_theme_colors": false,
-        "vertical_padding": 15,
-        "item_gap": 60,
-        "mobile_item_gap": 30,
-        "font_size": 10,
-        "mobile_font_size": 12,
-        "letter_spacing": 0.5,
-        "uppercase_text": true,
-        "icon_size": 20,
-        "mobile_icon_size": 16,
-        "icon_spacing": 10,
-        "icon_type": "svg",
-        "slider_direction": "left",
-        "scrolling_velocity": 15,
-        "pause_on_hover": true,
-        "background_color": "#211a28",
-        "text_color": "#ffffff",
-        "icon_color": "#ffffff",
-        "use_gradient_background": false,
-        "background_gradient": ""
-      }
-    },
     "sticky_add_to_cart_NJqgUd": {
       "type": "sticky-add-to-cart",
       "disabled": true,
@@ -864,6 +805,15 @@
         "delivery_date_display_format": "weekday_month_day",
         "turn_off_delivery_date": false,
         "delivery_text_prefix": "Get It By"
+      }
+    },
+    "custom_liquid_tjMeaF": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section id=\"shopify-section-template--28557026754942__logo_bar_GBNY9W\" class=\"shopify-section\"><section class=\"logo-bar\" id=\"LogoBar-template--28557026754942__logo_bar_GBNY9W\" style=\"background-color: #141b4d;\"><div class=\"logo-bar__marquee\">\n      <div class=\"logo-bar__track\" style=\"animation-duration: 48s;\"><div class=\"logo-bar__item\"><img src=\"//baugmann.com/cdn/shop/files/10_37417e18-ef63-4044-88fe-ec4a09d86412.webp?v=1768763363&amp;width=350\" alt=\"\" loading=\"lazy\"></div><div class=\"logo-bar__item\"><img src=\"//baugmann.com/cdn/shop/files/8_41a09ed4-4b70-43a2-a1b6-44e35eb15370.webp?v=1768763334&amp;width=350\" alt=\"\" loading=\"lazy\"></div><div class=\"logo-bar__item\"><img src=\"//baugmann.com/cdn/shop/files/11_545e1dc5-eefe-4a18-b317-66dc206dff58.webp?v=1768763301&amp;width=350\" alt=\"\" loading=\"lazy\"></div><div class=\"logo-bar__item\"><img src=\"//baugmann.com/cdn/shop/files/9_e7ffed68-505d-4187-845e-726b60a05fc3.webp?v=1768763271&amp;width=350\" alt=\"\" loading=\"lazy\"></div><div class=\"logo-bar__item\"><img src=\"//baugmann.com/cdn/shop/files/10_37417e18-ef63-4044-88fe-ec4a09d86412.webp?v=1768763363&amp;width=350\" alt=\"\" loading=\"lazy\"></div><div class=\"logo-bar__item\"><img src=\"//baugmann.com/cdn/shop/files/8_41a09ed4-4b70-43a2-a1b6-44e35eb15370.webp?v=1768763334&amp;width=350\" alt=\"\" loading=\"lazy\"></div><div class=\"logo-bar__item\"><img src=\"//baugmann.com/cdn/shop/files/11_545e1dc5-eefe-4a18-b317-66dc206dff58.webp?v=1768763301&amp;width=350\" alt=\"\" loading=\"lazy\"></div><div class=\"logo-bar__item\"><img src=\"//baugmann.com/cdn/shop/files/9_e7ffed68-505d-4187-845e-726b60a05fc3.webp?v=1768763271&amp;width=350\" alt=\"\" loading=\"lazy\"></div><div class=\"logo-bar__item\" aria-hidden=\"true\">\n              <img src=\"//baugmann.com/cdn/shop/files/10_37417e18-ef63-4044-88fe-ec4a09d86412.webp?v=1768763363&amp;width=350\" alt=\"\" loading=\"lazy\">\n            </div><div class=\"logo-bar__item\" aria-hidden=\"true\">\n              <img src=\"//baugmann.com/cdn/shop/files/8_41a09ed4-4b70-43a2-a1b6-44e35eb15370.webp?v=1768763334&amp;width=350\" alt=\"\" loading=\"lazy\">\n            </div><div class=\"logo-bar__item\" aria-hidden=\"true\">\n              <img src=\"//baugmann.com/cdn/shop/files/11_545e1dc5-eefe-4a18-b317-66dc206dff58.webp?v=1768763301&amp;width=350\" alt=\"\" loading=\"lazy\">\n            </div><div class=\"logo-bar__item\" aria-hidden=\"true\">\n              <img src=\"//baugmann.com/cdn/shop/files/9_e7ffed68-505d-4187-845e-726b60a05fc3.webp?v=1768763271&amp;width=350\" alt=\"\" loading=\"lazy\">\n            </div><div class=\"logo-bar__item\" aria-hidden=\"true\">\n              <img src=\"//baugmann.com/cdn/shop/files/10_37417e18-ef63-4044-88fe-ec4a09d86412.webp?v=1768763363&amp;width=350\" alt=\"\" loading=\"lazy\">\n            </div><div class=\"logo-bar__item\" aria-hidden=\"true\">\n              <img src=\"//baugmann.com/cdn/shop/files/8_41a09ed4-4b70-43a2-a1b6-44e35eb15370.webp?v=1768763334&amp;width=350\" alt=\"\" loading=\"lazy\">\n            </div><div class=\"logo-bar__item\" aria-hidden=\"true\">\n              <img src=\"//baugmann.com/cdn/shop/files/11_545e1dc5-eefe-4a18-b317-66dc206dff58.webp?v=1768763301&amp;width=350\" alt=\"\" loading=\"lazy\">\n            </div><div class=\"logo-bar__item\" aria-hidden=\"true\">\n              <img src=\"//baugmann.com/cdn/shop/files/9_e7ffed68-505d-4187-845e-726b60a05fc3.webp?v=1768763271&amp;width=350\" alt=\"\" loading=\"lazy\">\n            </div></div>\n    </div></section>\n\n<style>\n  #LogoBar-template--28557026754942__logo_bar_GBNY9W { padding: 8px 0; overflow: hidden; }\n  #LogoBar-template--28557026754942__logo_bar_GBNY9W .logo-bar__heading {\n    text-align: center; margin: 0 0 4px;\n    color: #c1dcfb;\n    font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 600;\n  }\n  #LogoBar-template--28557026754942__logo_bar_GBNY9W .logo-bar__marquee {\n    position: relative; width: 100%; overflow: hidden;\n    -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);\n            mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);\n  }\n  #LogoBar-template--28557026754942__logo_bar_GBNY9W .logo-bar__track {\n    display: flex; width: max-content; align-items: center;\n    animation-name: logobar-template--28557026754942__logo_bar_GBNY9W;\n    animation-timing-function: linear; animation-iteration-count: infinite;\n  }\n  #LogoBar-template--28557026754942__logo_bar_GBNY9W .logo-bar__item { flex: 0 0 auto; padding: 0 10px; }\n  #LogoBar-template--28557026754942__logo_bar_GBNY9W .logo-bar__item img {\n    display: block; height: 32px; width: auto; object-fit: contain;\n    opacity: 0.9;\n    filter: brightness(0) invert(1);\n  }\n  \n  @keyframes logobar-template--28557026754942__logo_bar_GBNY9W { from { transform: translateX(0); } to { transform: translateX(-50%); } }\n  @media (prefers-reduced-motion: reduce) {\n    #LogoBar-template--28557026754942__logo_bar_GBNY9W .logo-bar__track { animation: none; flex-wrap: wrap; justify-content: center; row-gap: 16px; }\n  }\n  @media (max-width: 749px) {\n    #LogoBar-template--28557026754942__logo_bar_GBNY9W .logo-bar__item img { height: 22px; }\n  }\n</style>\n\n</section>",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product_benefits_NWiWMe": {
@@ -2178,8 +2128,8 @@
   },
   "order": [
     "main",
-    "scrolling_features_bar_AhP6EL",
     "sticky_add_to_cart_NJqgUd",
+    "custom_liquid_tjMeaF",
     "product_benefits_NWiWMe",
     "divider_Q7nmRz",
     "image_with_text_9Vm4Bn",
