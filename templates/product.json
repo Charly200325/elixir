@@ -1198,6 +1198,133 @@
         "padding_bottom": 0
       }
     },
+    "statistics_column_XrYU7w": {
+      "type": "statistics-column",
+      "blocks": {
+        "statistic_AP6ntG": {
+          "type": "statistic",
+          "settings": {
+            "number": "500K+",
+            "title": "Happy Customers",
+            "description": "Customers trust us with their business worldwide"
+          }
+        },
+        "statistic_KEeFFJ": {
+          "type": "statistic",
+          "settings": {
+            "number": "99%",
+            "title": "Satisfaction Rate",
+            "description": "Customer satisfaction is our top priority"
+          }
+        },
+        "statistic_FbGVjB": {
+          "type": "statistic",
+          "settings": {
+            "number": "24/7",
+            "title": "Support Available",
+            "description": "Round-the-clock customer support when you need it"
+          }
+        }
+      },
+      "block_order": [
+        "statistic_AP6ntG",
+        "statistic_KEeFFJ",
+        "statistic_FbGVjB"
+      ],
+      "name": "Statistics Column",
+      "settings": {
+        "use_theme_colors": false,
+        "override_theme_section_background": false,
+        "heading": "Our Impact",
+        "heading_accent": "Statistics",
+        "subtitle": "",
+        "heading_color": "#000000",
+        "heading_size_mobile": 28,
+        "heading_size_desktop": 36,
+        "subtitle_color": "#666666",
+        "subtitle_size_mobile": 14,
+        "subtitle_size_desktop": 16,
+        "override_global_accent": false,
+        "accent_color": "#EF4A65",
+        "use_accent_gradient": false,
+        "accent_text_gradient": "linear-gradient(45deg, rgba(239, 74, 101, 1), rgba(255, 107, 157, 1) 100%)",
+        "accent_text_margin_left": 0,
+        "accent_font_family": "inherit",
+        "accent_font_style": "normal",
+        "accent_font_weight": "inherit",
+        "number_color": "#000000",
+        "number_gradient": "linear-gradient(135deg, rgba(0, 0, 0, 1), rgba(102, 102, 102, 1) 100%)",
+        "number_size_mobile": 36,
+        "number_size_desktop": 48,
+        "title_color": "#000000",
+        "title_size_mobile": 18,
+        "title_size_desktop": 22,
+        "title_line_height": 1.2,
+        "description_color": "#666666",
+        "description_size_mobile": 14,
+        "description_size_desktop": 16,
+        "description_line_height": 1.4,
+        "enable_two_column_layout": false,
+        "center_text_vertically": false,
+        "enable_counter_animation": true,
+        "contain_section": true,
+        "container_padding_top": 40,
+        "container_padding_right": 40,
+        "container_padding_bottom": 40,
+        "container_padding_left": 40,
+        "container_padding_top_mobile": 20,
+        "container_padding_right_mobile": 20,
+        "container_padding_bottom_mobile": 20,
+        "container_padding_left_mobile": 20,
+        "container_border_radius": 12,
+        "container_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(248, 248, 248, 1) 100%)",
+        "enable_border": false,
+        "border_width": 1,
+        "border_style": "solid",
+        "border_color": "#E5E7EB",
+        "enable_shadow": false,
+        "section_padding_top_desktop": 0,
+        "section_padding_bottom_desktop": 0,
+        "section_padding_left_desktop": 15,
+        "section_padding_right_desktop": 15,
+        "section_padding_top_mobile": 0,
+        "section_padding_bottom_mobile": 0,
+        "section_padding_left_mobile": 15,
+        "section_padding_right_mobile": 15,
+        "image_border_radius": 8,
+        "image_position_desktop": "right",
+        "image_position_mobile": "above",
+        "show_disclaimer": true,
+        "disclaimer_text": "* Based on internal studies and customer feedback surveys.",
+        "disclaimer_color": "#666666",
+        "disclaimer_icon_color": "#007acc",
+        "disclaimer_background_color": "#f8f8f8",
+        "disclaimer_size_mobile": 14,
+        "disclaimer_size_desktop": 16,
+        "disclaimer_line_height": 1.4,
+        "disclaimer_padding_top": 16,
+        "disclaimer_padding_bottom": 16,
+        "disclaimer_padding_left": 16,
+        "disclaimer_padding_right": 16,
+        "disclaimer_border_radius": 8,
+        "disclaimer_border_style": "none",
+        "disclaimer_border_width": 1,
+        "disclaimer_border_color": "#e0e0e0",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "section_background": "linear-gradient(135deg, rgba(248, 248, 248, 1), rgba(255, 255, 255, 1) 100%)",
+        "divider_color": "#e0e0e0"
+      }
+    },
+    "custom_liquid_pUttRQ": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<section id=\"shopify-section-template--28049627316550__alize_silmtr_pp\" class=\"shopify-section\">\n\n<section class=\"alz-section alz-silmtr alz-reveal is-visible\" aria-labelledby=\"alz-silmtr-title-template--28049627316550__alize_silmtr_pp\">\n  <div class=\"alz-container\">\n\n    <header class=\"alz-silmtr__head\"><p class=\"alz-eyebrow\">Performance</p><h2 id=\"alz-silmtr-title-template--28049627316550__alize_silmtr_pp\" class=\"alz-silmtr__title\">\n        Moteur DC : silence garanti.\n      </h2><p class=\"alz-lede\">Ce modèle tourne à 28 dB en utilisation normale. Vous dormez tranquille, vous travaillez sans gêne.</p></header>\n\n    <div class=\"alz-silmtr__chart is-visible\" data-silmtr=\"\"><div class=\"alz-silmtr__row\">\n            <div class=\"alz-silmtr__label\">Chuchotement</div>\n            <div class=\"alz-silmtr__bar-wrap\">\n              <div class=\"alz-silmtr__bar\" data-silmtr-bar=\"\" style=\"--target-pct: 40%;\">\n                <span class=\"alz-silmtr__value\">20 dB</span>\n              </div>\n            </div>\n          </div><div class=\"alz-silmtr__row alz-silmtr__row--brand\">\n            <div class=\"alz-silmtr__label\">Ce ventilateur</div>\n            <div class=\"alz-silmtr__bar-wrap\">\n              <div class=\"alz-silmtr__bar\" data-silmtr-bar=\"\" style=\"--target-pct: 56%;\">\n                <span class=\"alz-silmtr__value\">28 dB</span>\n              </div>\n            </div>\n          </div><div class=\"alz-silmtr__row\">\n            <div class=\"alz-silmtr__label\">Conversation</div>\n            <div class=\"alz-silmtr__bar-wrap\">\n              <div class=\"alz-silmtr__bar\" data-silmtr-bar=\"\" style=\"--target-pct: 70%;\">\n                <span class=\"alz-silmtr__value\">35 dB</span>\n              </div>\n            </div>\n          </div><div class=\"alz-silmtr__row\">\n            <div class=\"alz-silmtr__label\">Climatisation</div>\n            <div class=\"alz-silmtr__bar-wrap\">\n              <div class=\"alz-silmtr__bar\" data-silmtr-bar=\"\" style=\"--target-pct: 100%;\">\n                <span class=\"alz-silmtr__value\">50 dB</span>\n              </div>\n            </div>\n          </div></div><p class=\"alz-silmtr__footnote\">Mesures à 1,5 m, vitesse 3/6. Tolérance ±2 dB.</p></div>\n</section>\n\n\n\n<script>\n  (function() {\n    'use strict';\n    const charts = document.querySelectorAll('[data-silmtr]');\n    if (!('IntersectionObserver' in window)) {\n      charts.forEach(c => c.classList.add('is-visible'));\n      return;\n    }\n    const io = new IntersectionObserver((entries) => {\n      entries.forEach(e => {\n        if (e.isIntersecting) {\n          e.target.classList.add('is-visible');\n          io.unobserve(e.target);\n        }\n      });\n    }, { threshold: 0.25 });\n    charts.forEach(c => io.observe(c));\n  })();\n</script>\n\n\n</section>",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product_comparison_ahRqAP": {
       "type": "product-comparison",
       "blocks": {
@@ -2151,6 +2278,8 @@
     "image_with_text_9Vm4Bn",
     "steps_NPBhYa",
     "custom_liquid_8FpgQ9",
+    "statistics_column_XrYU7w",
+    "custom_liquid_pUttRQ",
     "product_comparison_ahRqAP",
     "4_cards_dYNPWM",
     "divider_eHNkdm",
