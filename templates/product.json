@@ -991,6 +991,7 @@
         "paragraph_xdBbmd",
         "bullet_list_4nhqWM"
       ],
+      "disabled": true,
       "name": "Image with Text",
       "settings": {
         "use_theme_colors": false,
@@ -1117,7 +1118,7 @@
         "use_theme_colors": false,
         "background_type": "gradient",
         "section_background_color": "#ffffff",
-        "section_background_gradient": "linear-gradient(135deg, #ffffff 0%, #f8f8f8 100%)",
+        "section_background_gradient": "linear-gradient(135deg, rgba(255, 255, 255, 1), rgba(248, 248, 248, 1) 100%)",
         "padding_top": 60,
         "padding_bottom": 60,
         "padding_horizontal": 20,
