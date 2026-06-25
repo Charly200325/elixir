@@ -16,7 +16,7 @@
           "type": "reviews",
           "settings": {
             "use_theme_colors": false,
-            "star_color": "#FBA302",
+            "star_color": "#fba302",
             "empty_star_color": "#e0e0e0",
             "star_spacing": -5,
             "rating_text_content": "<p>4,8 sur 2489 avis</p>",
@@ -50,8 +50,8 @@
           "settings": {
             "price_color": "#211a28",
             "compare_price_color": "#c2c2c2",
-            "sale_badge_bg_color": "#D3E8FE",
-            "sale_badge_text_color": "#141B4D",
+            "sale_badge_bg_color": "#d3e8fe",
+            "sale_badge_text_color": "#141b4d",
             "save_badge_enable_border": false,
             "save_badge_border_color": "#000000",
             "save_badge_border_width": 1,
@@ -142,7 +142,7 @@
             "custom_icon_5": "",
             "use_custom_icon_6": false,
             "custom_icon_6": "",
-            "icon_color": "#FBA40B",
+            "icon_color": "#fba40b",
             "text_color": "#333333",
             "icon_size": 20,
             "text_size": 17,
@@ -228,7 +228,7 @@
             "custom_highlight_color_off_theme": "#211a28",
             "custom_bg_color_off_theme": "#ffffff",
             "highlight_color": "#211a28",
-            "dot_color": "#EE3429",
+            "dot_color": "#ee3429",
             "bg_color": "#e4f9ff",
             "enable_border": false,
             "border_color": "#e5e5e5",
@@ -497,9 +497,9 @@
             "custom_icon": "",
             "icon_size": 20,
             "button_border_color": "#000000",
-            "buy_box_button_bg_color": "#EE3429",
+            "buy_box_button_bg_color": "#ee3429",
             "button_text_color": "#ffffff",
-            "buy_box_button_hover_color": "#FBA40B",
+            "buy_box_button_hover_color": "#fba40b",
             "price_color": "#ffffff",
             "custom_button_padding_y": 18,
             "custom_button_font_size": 18,
@@ -517,7 +517,7 @@
             "badge_2_text": "Retours simplifiés",
             "badge_2_icon": "custom",
             "badge_2_custom_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" width=\"128\" height=\"128\">\n\n  <!-- Arrow path -->\n  <path d=\"M12 5 L5 12 L12 19\" fill=\"none\" stroke=\"#121B4C\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n\n  <!-- Curve -->\n  <path d=\"M5 12 H14\n           C18 12 20 14 20 18\n           C20 21 18 23 15 23\" fill=\"none\" stroke=\"#121B4C\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n\n</svg>",
-            "icon_color": "#121B4C",
+            "icon_color": "#121b4c",
             "text_color": "#000000",
             "container_margin_top": -5,
             "container_margin_right": 0,
@@ -583,11 +583,11 @@
           "settings": {
             "warning_title": "Dernières unités disponibles",
             "warning_text": "Forte demande en ce moment. Commandez maintenant avant rupture de stock - prochain réassort prévu en septembre.",
-            "background_color": "#F49C9C",
+            "background_color": "#f49c9c",
             "text_color": "#000000",
-            "border_color": "#F49C9C",
+            "border_color": "#f49c9c",
             "icon_background_color": "#000000",
-            "icon_color": "#F49C9C",
+            "icon_color": "#f49c9c",
             "title_font_size": 20,
             "text_font_size": 14,
             "border_width": 1,
@@ -603,10 +603,10 @@
             "reviewer_name": "Sophie L.",
             "review_text": "Les nuits étaient insupportable dans mon appart, et poser une clim n'était pas une option en location. Installé en 10 min, le ventilateur a tout changé, l’air circule enfin et je dors beaucoup mieux.",
             "rating": 5,
-            "background_color_start": "#DFEDFC",
-            "background_color_end": "#DFEDFC",
+            "background_color_start": "#dfedfc",
+            "background_color_end": "#dfedfc",
             "text_color": "#000000",
-            "border_color": "#FFFFFF",
+            "border_color": "#ffffff",
             "border_radius": 8,
             "border_style": "solid",
             "show_shadow": true,
@@ -620,7 +620,7 @@
             "margin_right": 0,
             "margin_bottom": 10,
             "margin_left": 0,
-            "verified_icon_color": "#141B4D",
+            "verified_icon_color": "#141b4d",
             "review_text_color": "#666666"
           }
         },
@@ -927,7 +927,7 @@
       "settings": {
         "use_theme_colors": false,
         "divider_style": "wavy",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "flip_direction": true,
         "keep_proportion": false,
         "color": "#5d5aaf",
@@ -1087,7 +1087,7 @@
             "image_background_color": "#000000",
             "step_title": "1. Vissez-le, tout simplement",
             "step_description": "Retirez votre ampoule et vissez votre nouveau ventilateur sur la douille standard (E27) de votre plafond. Aucun éclairage nécessaire.",
-            "content_background_color": "#DFEDFC"
+            "content_background_color": "#dfedfc"
           }
         },
         "step_qpC4YG": {
@@ -1097,7 +1097,7 @@
             "image_background_color": "#000000",
             "step_title": "2. Ajustez et Contrôlez",
             "step_description": "Utilisez la télécommande incluse pour allumer l'éclairage LED, régler sa luminosité et sa température, et activer les 3 vitesses du ventilateur.",
-            "content_background_color": "#DFEDFC"
+            "content_background_color": "#dfedfc"
           }
         },
         "step_4RDRDk": {
@@ -1107,7 +1107,7 @@
             "image_background_color": "#000000",
             "step_title": "3. Détendez-vous au frais",
             "step_description": "Détendez-vous et profitez d'une brise rafraîchissante et d'un éclairage personnalisée, le tout dans un silence total.",
-            "content_background_color": "#DFEDFC"
+            "content_background_color": "#dfedfc"
           }
         }
       },
@@ -1231,6 +1231,7 @@
         "statistic_KEeFFJ",
         "statistic_FbGVjB"
       ],
+      "disabled": true,
       "name": "Statistics Column",
       "settings": {
         "use_theme_colors": false,
@@ -1245,7 +1246,7 @@
         "subtitle_size_mobile": 14,
         "subtitle_size_desktop": 16,
         "override_global_accent": false,
-        "accent_color": "#EF4A65",
+        "accent_color": "#ef4a65",
         "use_accent_gradient": false,
         "accent_text_gradient": "linear-gradient(45deg, rgba(239, 74, 101, 1), rgba(255, 107, 157, 1) 100%)",
         "accent_text_margin_left": 0,
@@ -1281,7 +1282,7 @@
         "enable_border": false,
         "border_width": 1,
         "border_style": "solid",
-        "border_color": "#E5E7EB",
+        "border_color": "#e5e7eb",
         "enable_shadow": false,
         "section_padding_top_desktop": 0,
         "section_padding_bottom_desktop": 0,
@@ -1320,9 +1321,9 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<section id=\"shopify-section-template--28049627316550__alize_silmtr_pp\" class=\"shopify-section\">\n\n<section class=\"alz-section alz-silmtr alz-reveal is-visible\" aria-labelledby=\"alz-silmtr-title-template--28049627316550__alize_silmtr_pp\">\n  <div class=\"alz-container\">\n\n    <header class=\"alz-silmtr__head\"><p class=\"alz-eyebrow\">Performance</p><h2 id=\"alz-silmtr-title-template--28049627316550__alize_silmtr_pp\" class=\"alz-silmtr__title\">\n        Moteur DC : silence garanti.\n      </h2><p class=\"alz-lede\">Ce modèle tourne à 28 dB en utilisation normale. Vous dormez tranquille, vous travaillez sans gêne.</p></header>\n\n    <div class=\"alz-silmtr__chart is-visible\" data-silmtr=\"\"><div class=\"alz-silmtr__row\">\n            <div class=\"alz-silmtr__label\">Chuchotement</div>\n            <div class=\"alz-silmtr__bar-wrap\">\n              <div class=\"alz-silmtr__bar\" data-silmtr-bar=\"\" style=\"--target-pct: 40%;\">\n                <span class=\"alz-silmtr__value\">20 dB</span>\n              </div>\n            </div>\n          </div><div class=\"alz-silmtr__row alz-silmtr__row--brand\">\n            <div class=\"alz-silmtr__label\">Ce ventilateur</div>\n            <div class=\"alz-silmtr__bar-wrap\">\n              <div class=\"alz-silmtr__bar\" data-silmtr-bar=\"\" style=\"--target-pct: 56%;\">\n                <span class=\"alz-silmtr__value\">28 dB</span>\n              </div>\n            </div>\n          </div><div class=\"alz-silmtr__row\">\n            <div class=\"alz-silmtr__label\">Conversation</div>\n            <div class=\"alz-silmtr__bar-wrap\">\n              <div class=\"alz-silmtr__bar\" data-silmtr-bar=\"\" style=\"--target-pct: 70%;\">\n                <span class=\"alz-silmtr__value\">35 dB</span>\n              </div>\n            </div>\n          </div><div class=\"alz-silmtr__row\">\n            <div class=\"alz-silmtr__label\">Climatisation</div>\n            <div class=\"alz-silmtr__bar-wrap\">\n              <div class=\"alz-silmtr__bar\" data-silmtr-bar=\"\" style=\"--target-pct: 100%;\">\n                <span class=\"alz-silmtr__value\">50 dB</span>\n              </div>\n            </div>\n          </div></div><p class=\"alz-silmtr__footnote\">Mesures à 1,5 m, vitesse 3/6. Tolérance ±2 dB.</p></div>\n</section>\n\n\n\n<script>\n  (function() {\n    'use strict';\n    const charts = document.querySelectorAll('[data-silmtr]');\n    if (!('IntersectionObserver' in window)) {\n      charts.forEach(c => c.classList.add('is-visible'));\n      return;\n    }\n    const io = new IntersectionObserver((entries) => {\n      entries.forEach(e => {\n        if (e.isIntersecting) {\n          e.target.classList.add('is-visible');\n          io.unobserve(e.target);\n        }\n      });\n    }, { threshold: 0.25 });\n    charts.forEach(c => io.observe(c));\n  })();\n</script>\n\n\n</section>",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "custom_liquid": "<div class=\"alz-section alz-silmtr alz-reveal is-visible\" style=\"padding: 60px 0; background-color: #DFEDFC; font-family: system-ui, -apple-system, sans-serif;\">\n  <div class=\"alz-container\" style=\"max-width: 1000px; margin: 0 auto; padding: 0 20px;\">\n\n    <header class=\"alz-silmtr__head\" style=\"text-align: center; margin-bottom: 40px;\">\n      <p class=\"alz-eyebrow\" style=\"text-transform: uppercase; letter-spacing: 2px; font-size: 13px; margin-bottom: 12px; color: #b58257; font-weight: 600;\">Performance</p>\n      <h2 class=\"alz-silmtr__title\" style=\"font-size: 2.8rem; margin: 0 0 20px 0; font-weight: 500; color: #000; letter-spacing: -1px;\">\n        Moteur DC : silence garanti.\n      </h2>\n      <p class=\"alz-lede\" style=\"font-size: 1.25rem; color: #666; max-width: 650px; margin: 0 auto; line-height: 1.5;\">\n        Ce modèle tourne à 28 dB en utilisation normale. Vous dormez tranquille, vous travaillez sans gêne.\n      </p>\n    </header>\n\n    <div class=\"alz-silmtr__chart\" style=\"display: flex; flex-direction: column; gap: 16px; max-width: 800px; margin: 0 auto;\">\n      \n      <div class=\"alz-silmtr__row\" style=\"display: flex; align-items: center; justify-content: space-between;\">\n        <div class=\"alz-silmtr__label\" style=\"width: 160px; font-weight: 500; color: #555; font-size: 16px;\">Chuchotement</div>\n        <div class=\"alz-silmtr__bar-wrap\" style=\"flex: 1; background-color: #edeae4; border-radius: 20px; height: 42px; overflow: hidden;\">\n          <div class=\"alz-silmtr__bar\" style=\"background-color: #8c8984; height: 100%; width: 40%; border-radius: 20px; display: flex; align-items: center; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;\">\n            <span class=\"alz-silmtr__value\" style=\"color: #fff; font-weight: 600; font-size: 14px;\">20 dB</span>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"alz-silmtr__row\" style=\"display: flex; align-items: center; justify-content: space-between;\">\n        <div class=\"alz-silmtr__label\" style=\"width: 160px; font-weight: 700; color: #000; font-size: 16px;\">Ce ventilateur</div>\n        <div class=\"alz-silmtr__bar-wrap\" style=\"flex: 1; background-color: #edeae4; border-radius: 20px; height: 42px; overflow: hidden;\">\n          <div class=\"alz-silmtr__bar\" style=\"background-color: #344234; height: 100%; width: 56%; border-radius: 20px; display: flex; align-items: center; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;\">\n            <span class=\"alz-silmtr__value\" style=\"color: #fff; font-weight: 600; font-size: 14px;\">28 dB</span>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"alz-silmtr__row\" style=\"display: flex; align-items: center; justify-content: space-between;\">\n        <div class=\"alz-silmtr__label\" style=\"width: 160px; font-weight: 500; color: #555; font-size: 16px;\">Conversation</div>\n        <div class=\"alz-silmtr__bar-wrap\" style=\"flex: 1; background-color: #edeae4; border-radius: 20px; height: 42px; overflow: hidden;\">\n          <div class=\"alz-silmtr__bar\" style=\"background-color: #8c8984; height: 100%; width: 70%; border-radius: 20px; display: flex; align-items: center; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;\">\n            <span class=\"alz-silmtr__value\" style=\"color: #fff; font-weight: 600; font-size: 14px;\">35 dB</span>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"alz-silmtr__row\" style=\"display: flex; align-items: center; justify-content: space-between;\">\n        <div class=\"alz-silmtr__label\" style=\"width: 160px; font-weight: 500; color: #555; font-size: 16px;\">Climatisation</div>\n        <div class=\"alz-silmtr__bar-wrap\" style=\"flex: 1; background-color: #edeae4; border-radius: 20px; height: 42px; overflow: hidden;\">\n          <div class=\"alz-silmtr__bar\" style=\"background-color: #8c8984; height: 100%; width: 100%; border-radius: 20px; display: flex; align-items: center; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;\">\n            <span class=\"alz-silmtr__value\" style=\"color: #fff; font-weight: 600; font-size: 14px;\">50 dB</span>\n          </div>\n        </div>\n      </div>\n\n    </div>\n\n    <p class=\"alz-silmtr__footnote\" style=\"text-align: center; font-size: 13px; color: #8c8984; margin-top: 35px; font-style: italic;\">\n      Mesures à 1,5 m, vitesse 3/6. Tolérance ±2 dB.\n    </p>\n\n  </div>\n</div>",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product_comparison_ahRqAP": {
@@ -1488,8 +1489,8 @@
         "use_gradient_background": true,
         "background_color": "#ffffff",
         "gradient_direction": 175,
-        "gradient_color_1": "#141B4D",
-        "gradient_color_2": "#141B4D",
+        "gradient_color_1": "#141b4d",
+        "gradient_color_2": "#141b4d",
         "text_color": "#211a28",
         "subtitle_color": "#211a28",
         "highlighted_text_color": "#ffffff",
