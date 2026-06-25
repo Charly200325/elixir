@@ -775,25 +775,28 @@
         "feature_item_WJdNbm": {
           "type": "feature_item",
           "settings": {
-            "text": "PREMIUM QUALITY",
-            "icon_type": "svg",
-            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>"
+            "text": "",
+            "icon_type": "image",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>",
+            "icon_image": "shopify://shop_images/9_e7ffed68-505d-4187-845e-726b60a05fc3.webp"
           }
         },
         "feature_item_CJxhgK": {
           "type": "feature_item",
           "settings": {
-            "text": "FAST SHIPPING",
-            "icon_type": "svg",
-            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zm-6 0H5V6h9v2zm-9 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm12 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z\"></path></svg>"
+            "text": "",
+            "icon_type": "image",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zm-6 0H5V6h9v2zm-9 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm12 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z\"></path></svg>",
+            "icon_image": "shopify://shop_images/11_545e1dc5-eefe-4a18-b317-66dc206dff58.webp"
           }
         },
         "feature_item_VMc6KP": {
           "type": "feature_item",
           "settings": {
-            "text": "SATISFACTION GUARANTEED",
-            "icon_type": "svg",
-            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"></path></svg>"
+            "text": "",
+            "icon_type": "image",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"></path></svg>",
+            "icon_image": "shopify://shop_images/10_37417e18-ef63-4044-88fe-ec4a09d86412.avif"
           }
         }
       },
@@ -807,7 +810,7 @@
         "vertical_padding": 15,
         "item_gap": 60,
         "mobile_item_gap": 30,
-        "font_size": 14,
+        "font_size": 10,
         "mobile_font_size": 12,
         "letter_spacing": 0.5,
         "uppercase_text": true,
