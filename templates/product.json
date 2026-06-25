@@ -584,19 +584,31 @@
             "margin_bottom": 5
           }
         },
-        "facebook_review_pRHPbW": {
-          "type": "facebook_review",
+        "customer_review_Qyk4Aa": {
+          "type": "customer_review",
           "settings": {
-            "username": "Jane Smith",
-            "review_content": "I absolutely love this product! It's been a game changer for me. The quality is exceptional and it works exactly as described. Shipping was fast and the customer service was outstanding. Highly recommend to anyone looking for this type of solution.",
-            "star_color": "#1877f2",
-            "empty_star_color": "#ccd0d5",
-            "username_font_size": 10.8,
-            "content_font_size": 10.2,
-            "meta_font_size": 9.4,
-            "action_button_font_size": 10,
-            "margin_top": 8,
-            "margin_bottom": 8
+            "reviewer_name": "Lauren J.",
+            "review_text": "This product exceeded my expectations. The quality is outstanding and I would highly recommend it to anyone.",
+            "rating": 5,
+            "background_color_start": "#ffffff",
+            "background_color_end": "#f8f8f8",
+            "text_color": "#000000",
+            "border_color": "#dcdcdc",
+            "border_radius": 8,
+            "border_style": "dashed",
+            "show_shadow": true,
+            "star_color": "#ffb800",
+            "reviewer_name_size": 16,
+            "review_text_size": 14,
+            "star_size": 16,
+            "avatar_size_desktop": 75,
+            "avatar_size_mobile": 65,
+            "margin_top": 15,
+            "margin_right": 0,
+            "margin_bottom": 15,
+            "margin_left": 0,
+            "verified_icon_color": "#4caf50",
+            "review_text_color": "#666666"
           }
         },
         "divider_yp8EHi": {
@@ -718,33 +730,6 @@
             "margin_top": 0,
             "margin_bottom": 0
           }
-        },
-        "customer_review_XcjYbg": {
-          "type": "customer_review",
-          "settings": {
-            "reviewer_name": "Lauren J.",
-            "review_text": "This product exceeded my expectations. The quality is outstanding and I would highly recommend it to anyone.",
-            "rating": 5,
-            "background_color_start": "#ffffff",
-            "background_color_end": "#ffffff",
-            "text_color": "#211a28",
-            "border_color": "#211a28",
-            "border_radius": 8,
-            "border_style": "dashed",
-            "show_shadow": true,
-            "star_color": "#211a28",
-            "reviewer_name_size": 16,
-            "review_text_size": 14,
-            "star_size": 16,
-            "avatar_size_desktop": 75,
-            "avatar_size_mobile": 65,
-            "margin_top": 5,
-            "margin_right": 0,
-            "margin_bottom": 15,
-            "margin_left": 0,
-            "verified_icon_color": "#211a28",
-            "review_text_color": "#211a28"
-          }
         }
       },
       "block_order": [
@@ -764,15 +749,14 @@
         "payment_icons_4M99Bi",
         "money_back_guarantee_kbK7cN",
         "replica_warning_Gjgh6b",
-        "facebook_review_pRHPbW",
+        "customer_review_Qyk4Aa",
         "divider_yp8EHi",
         "carousel_default_video_akUGBF",
         "carousel_default_video_6k7bGt",
         "carousel_default_video_DX3XK4",
         "carousel_default_video_eH4e7V",
         "faq",
-        "video_carousel_standalone_xw3T8p",
-        "customer_review_XcjYbg"
+        "video_carousel_standalone_xw3T8p"
       ],
       "settings": {
         "use_theme_colors": false,
