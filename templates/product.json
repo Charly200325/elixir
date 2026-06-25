@@ -155,6 +155,19 @@
             "margin_bottom": 10
           }
         },
+        "divider_7L3TAA": {
+          "type": "divider",
+          "settings": {
+            "color": "#e0e0e0",
+            "style": "solid",
+            "thickness": 1,
+            "width": "100%",
+            "max_width": "100%",
+            "alignment": "center",
+            "margin_top": 10,
+            "margin_bottom": 10
+          }
+        },
         "custom_text_Qra839": {
           "type": "custom_text",
           "disabled": true,
@@ -206,27 +219,27 @@
         "shipping_notice": {
           "type": "shipping_notice",
           "settings": {
-            "notice_text_before": "In Stock, Order Today To Receive It By",
+            "notice_text_before": "Stock limité - expédition le :",
             "notice_text_after": "",
-            "days_ahead": 2,
+            "days_ahead": 1,
             "show_suffix": true,
             "custom_shipping_text": "#211a28",
             "custom_date_color": "#211a28",
             "custom_highlight_color_off_theme": "#211a28",
             "custom_bg_color_off_theme": "#ffffff",
             "highlight_color": "#211a28",
-            "dot_color": "#08d227",
+            "dot_color": "#EE3429",
             "bg_color": "#e4f9ff",
-            "enable_border": true,
+            "enable_border": false,
             "border_color": "#e5e5e5",
             "border_width": 1,
-            "border_style": "solid",
+            "border_style": "dotted",
             "font_size": 12,
             "container_margin_top": 5,
             "container_margin_bottom": 0,
             "enable_animation": true,
             "suffix_text": ".",
-            "text_alignment": "left"
+            "text_alignment": "center"
           }
         },
         "custom_text_CwrTfG": {
@@ -561,6 +574,7 @@
         "price",
         "custom_text_VEHNzL",
         "bullet_list_CV8Fqx",
+        "divider_7L3TAA",
         "custom_text_Qra839",
         "shipping_notice",
         "custom_text_CwrTfG",
