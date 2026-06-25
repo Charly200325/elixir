@@ -50,8 +50,8 @@
           "settings": {
             "price_color": "#211a28",
             "compare_price_color": "#c2c2c2",
-            "sale_badge_bg_color": "#fdeeee",
-            "sale_badge_text_color": "#ff0029",
+            "sale_badge_bg_color": "#D3E8FE",
+            "sale_badge_text_color": "#141B4D",
             "save_badge_enable_border": false,
             "save_badge_border_color": "#000000",
             "save_badge_border_width": 1,
@@ -67,15 +67,15 @@
             "save_icon_position_y": 0,
             "save_badge_padding_v": 5,
             "save_badge_padding_h": 6,
-            "custom_save_text": "",
-            "save_badge_display_type": "percentage",
+            "custom_save_text": "Économisez",
+            "save_badge_display_type": "custom_amount",
             "custom_save_amount": ""
           }
         },
         "custom_text_VEHNzL": {
           "type": "custom_text",
           "settings": {
-            "text": "<p>The only <strong>product you need.</strong> Made of the best quality. <em>Your placeholder text goes here.</em></p>",
+            "text": "<p>Rafraîchissez vos pièces sans climatisation.</p>",
             "show_description": false,
             "description": "<p>Add additional descriptive text here</p>",
             "description_font_size": 12,
@@ -86,7 +86,7 @@
             "accent_text": "Accent Text",
             "accent_text_position": "before",
             "use_accent_gradient": true,
-            "accent_text_gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+            "accent_text_gradient": "linear-gradient(135deg, rgba(102, 126, 234, 1), rgba(118, 75, 162, 1) 100%)",
             "accent_text_color": "#667eea",
             "accent_text_font_size": 16,
             "accent_text_font_weight": "semibold",
