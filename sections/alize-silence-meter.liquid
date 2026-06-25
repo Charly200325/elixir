@@ -1,0 +1,175 @@
+<section class="alz-section alz-silmtr alz-reveal" aria-labelledby="alz-silmtr-title-{{ section.id }}">
+  <div class="alz-container">
+
+    <header class="alz-silmtr__head">
+      {% if section.settings.eyebrow != blank %}
+        <p class="alz-eyebrow">{{ section.settings.eyebrow }}</p>
+      {% endif %}
+
+      {% if section.settings.title != blank %}
+        <h2 id="alz-silmtr-title-{{ section.id }}" class="alz-silmtr__title">
+          {{ section.settings.title }}
+        </h2>
+      {% endif %}
+
+      {% if section.settings.lede != blank %}
+        <p class="alz-lede">{{ section.settings.lede }}</p>
+      {% endif %}
+    </header>
+
+    <div class="alz-silmtr__chart" data-silmtr>
+      {% for block in section.blocks %}
+        <div class="alz-silmtr__row {% if block.settings.is_brand %}alz-silmtr__row--brand{% endif %}" {{ block.shopify_attributes }}>
+          <div class="alz-silmtr__label">{{ block.settings.label }}</div>
+          <div class="alz-silmtr__bar-wrap">
+            <div class="alz-silmtr__bar" data-silmtr-bar style="--target-pct: {{ block.settings.percentage }}%;">
+              <span class="alz-silmtr__value">{{ block.settings.value }}</span>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    {% if section.settings.footnote != blank %}
+      <p class="alz-silmtr__footnote">{{ section.settings.footnote }}</p>
+    {% endif %}
+
+  </div>
+</section>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    'use strict';
+    // Sélectionne uniquement le graphique de cette section spécifique
+    const charts = document.querySelectorAll('#shopify-section-{{ section.id }} [data-silmtr]');
+    
+    if (!('IntersectionObserver' in window)) {
+      charts.forEach(c => c.classList.add('is-visible'));
+      return;
+    }
+    
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => {
+        if (e.isIntersecting) {
+          e.target.classList.add('is-visible');
+          io.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.25 });
+    
+    charts.forEach(c => io.observe(c));
+  });
+</script>
+
+{% schema %}
+{
+  "name": "Comparateur Sonore",
+  "tag": "section",
+  "class": "shopify-section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Surtitre",
+      "default": "PERFORMANCE"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Titre",
+      "default": "Moteur DC : silence garanti."
+    },
+    {
+      "type": "textarea",
+      "id": "lede",
+      "label": "Description",
+      "default": "Ce modèle tourne à 28 dB en utilisation normale. Vous dormez tranquille, vous travaillez sans gêne."
+    },
+    {
+      "type": "text",
+      "id": "footnote",
+      "label": "Note de bas de page",
+      "default": "Mesures à 1,5 m, vitesse 3/6. Tolérance ±2 dB."
+    }
+  ],
+  "blocks": [
+    {
+      "type": "bar",
+      "name": "Barre de niveau",
+      "settings": [
+        {
+          "type": "text",
+          "id": "label",
+          "label": "Libellé",
+          "default": "Bruit"
+        },
+        {
+          "type": "text",
+          "id": "value",
+          "label": "Valeur (ex: 28 dB)",
+          "default": "20 dB"
+        },
+        {
+          "type": "range",
+          "id": "percentage",
+          "min": 0,
+          "max": 100,
+          "step": 1,
+          "unit": "%",
+          "label": "Largeur de la barre",
+          "default": 50
+        },
+        {
+          "type": "checkbox",
+          "id": "is_brand",
+          "label": "Mettre en évidence (Couleur de la marque)",
+          "default": false
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Comparateur Sonore",
+      "blocks": [
+        {
+          "type": "bar",
+          "settings": {
+            "label": "Chuchotement",
+            "value": "20 dB",
+            "percentage": 40,
+            "is_brand": false
+          }
+        },
+        {
+          "type": "bar",
+          "settings": {
+            "label": "Ce ventilateur",
+            "value": "28 dB",
+            "percentage": 56,
+            "is_brand": true
+          }
+        },
+        {
+          "type": "bar",
+          "settings": {
+            "label": "Conversation",
+            "value": "35 dB",
+            "percentage": 70,
+            "is_brand": false
+          }
+        },
+        {
+          "type": "bar",
+          "settings": {
+            "label": "Climatisation",
+            "value": "50 dB",
+            "percentage": 100,
+            "is_brand": false
+          }
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
