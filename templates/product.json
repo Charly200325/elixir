@@ -294,8 +294,9 @@
           "type": "quantity_bundle",
           "settings": {
             "quantity_1": 1,
-            "title_1": "Single",
-            "description_1": "",
+            "title_1": "1x Ventilateur de Plafond",
+            "compare_price_1": 0,
+            "description_1": "✔ Livraison offerte     ✔ Télécommande incluse",
             "show_badge_1": false,
             "badge_1": "",
             "quantity_2": 2,
@@ -335,7 +336,6 @@
         },
         "quantity_break_BwGDzW": {
           "type": "quantity_break",
-          "disabled": true,
           "settings": {
             "show_radio_buttons": true,
             "enable_variant_selection": false,
