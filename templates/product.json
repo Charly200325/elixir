@@ -927,7 +927,7 @@
       "settings": {
         "use_theme_colors": false,
         "divider_style": "wavy",
-        "background_color": "#f8f8f8",
+        "background_color": "#FFFFFF",
         "flip_direction": true,
         "keep_proportion": false,
         "color": "#5d5aaf",
@@ -1083,28 +1083,31 @@
         "step_PJMFgk": {
           "type": "step",
           "settings": {
+            "step_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_20.29.43.png",
             "image_background_color": "#000000",
-            "step_title": "1. Choose Your Product",
-            "step_description": "Browse our collection and select the perfect product for your needs.",
-            "content_background_color": "#ffffff"
+            "step_title": "1. Vissez-le, tout simplement",
+            "step_description": "Retirez votre ampoule et vissez votre nouveau ventilateur sur la douille standard (E27) de votre plafond. Aucun éclairage nécessaire.",
+            "content_background_color": "#DFEDFC"
           }
         },
         "step_qpC4YG": {
           "type": "step",
           "settings": {
+            "step_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_20.45.01.png",
             "image_background_color": "#000000",
-            "step_title": "2. Apply Consistently",
-            "step_description": "Apply your product consistently for 3 to 6 weeks.",
-            "content_background_color": "#ffffff"
+            "step_title": "2. Ajustez et Contrôlez",
+            "step_description": "Utilisez la télécommande incluse pour allumer l'éclairage LED, régler sa luminosité et sa température, et activer les 3 vitesses du ventilateur.",
+            "content_background_color": "#DFEDFC"
           }
         },
         "step_4RDRDk": {
           "type": "step",
           "settings": {
+            "step_image": "shopify://shop_images/IMG.LIFESTYLE_1060x_8c08345d-e97f-4fcf-8a09-493fc4718163.webp",
             "image_background_color": "#000000",
-            "step_title": "3. Say Hello To New Lips",
-            "step_description": "Personalize your selection with available customization options.",
-            "content_background_color": "#ffffff"
+            "step_title": "3. Détendez-vous au frais",
+            "step_description": "Détendez-vous et profitez d'une brise rafraîchissante et d'un éclairage personnalisée, le tout dans un silence total.",
+            "content_background_color": "#DFEDFC"
           }
         }
       },
@@ -1119,8 +1122,8 @@
         "background_type": "gradient",
         "section_background_color": "#ffffff",
         "section_background_gradient": "linear-gradient(135deg, rgba(255, 255, 255, 1), rgba(248, 248, 248, 1) 100%)",
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 0,
+        "padding_bottom": 20,
         "padding_horizontal": 20,
         "title": "How",
         "title_highlight": "It Works",
