@@ -541,6 +541,45 @@
             "margin_bottom": 10
           }
         },
+        "divider_U8hLqJ": {
+          "type": "divider",
+          "settings": {
+            "color": "#e0e0e0",
+            "style": "solid",
+            "thickness": 1,
+            "width": "100%",
+            "max_width": "100%",
+            "alignment": "center",
+            "margin_top": 10,
+            "margin_bottom": 10
+          }
+        },
+        "shipping_notice_NRr3JY": {
+          "type": "shipping_notice",
+          "settings": {
+            "notice_text_before": "Stock limité - expédition le :",
+            "notice_text_after": "",
+            "days_ahead": 1,
+            "show_suffix": true,
+            "custom_shipping_text": "#211a28",
+            "custom_date_color": "#211a28",
+            "custom_highlight_color_off_theme": "#211a28",
+            "custom_bg_color_off_theme": "#ffffff",
+            "highlight_color": "#211a28",
+            "dot_color": "#ee3429",
+            "bg_color": "#e4f9ff",
+            "enable_border": false,
+            "border_color": "#e5e5e5",
+            "border_width": 1,
+            "border_style": "dotted",
+            "font_size": 14,
+            "container_margin_top": 5,
+            "container_margin_bottom": 0,
+            "enable_animation": true,
+            "suffix_text": ".",
+            "text_alignment": "center"
+          }
+        },
         "variant_selector_8HePq7": {
           "type": "variant_selector",
           "settings": {
@@ -621,6 +660,8 @@
         "title_CPV6CJ",
         "price_nmgNHc",
         "bullet_list_zwgrpy",
+        "divider_U8hLqJ",
+        "shipping_notice_NRr3JY",
         "variant_selector_8HePq7",
         "custom_image_NrfULy"
       ],
