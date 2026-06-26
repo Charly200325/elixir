@@ -1926,6 +1926,7 @@
         "statistic_dhpdtF",
         "statistic_74KbgM"
       ],
+      "disabled": true,
       "name": "Statistics Column",
       "settings": {
         "use_theme_colors": false,
@@ -2062,6 +2063,7 @@
         "benefit_ybHHta",
         "benefit_jYzLxy"
       ],
+      "disabled": true,
       "settings": {
         "heading": "You Can Expect",
         "empty_text": "No benefits currently listed.",
@@ -2092,6 +2094,7 @@
     },
     "divider_kz9pE7": {
       "type": "divider",
+      "disabled": true,
       "name": "Divider",
       "settings": {
         "use_theme_colors": false,
