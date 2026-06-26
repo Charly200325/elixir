@@ -925,6 +925,192 @@
         "padding_bottom": 0
       }
     },
+    "product_comparison_cwR3bT": {
+      "type": "product-comparison",
+      "blocks": {
+        "product_column_DxGkGL": {
+          "type": "product_column",
+          "settings": {
+            "product_name": "Ventilateur de plafond",
+            "product_subtitle": "",
+            "product_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_21.03.19.png",
+            "product_image_size": 80,
+            "product_image_size_tablet": 80,
+            "product_image_size_mobile": 75,
+            "subtitle_custom_icon": "",
+            "show_subtitle_icon": true,
+            "use_subtitle_background": true,
+            "subtitle_border_color": "#ffffff",
+            "highlight_column": true,
+            "highlight_color": "#c2e9fb",
+            "use_highlight_gradient": true,
+            "highlight_gradient_start_color": "#fffdfd47",
+            "highlight_gradient_end_color": "#ffffff45",
+            "highlight_gradient_angle": 90,
+            "subtitle_glass_color": "#ffffff",
+            "subtitle_icon_color": "#000000"
+          }
+        },
+        "product_column_rYTz9y": {
+          "type": "product_column",
+          "settings": {
+            "product_name": "Ventilateur sur pied",
+            "product_subtitle": "",
+            "product_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_21.08.30.png",
+            "product_image_size": 80,
+            "product_image_size_tablet": 60,
+            "product_image_size_mobile": 50,
+            "subtitle_custom_icon": "",
+            "show_subtitle_icon": true,
+            "use_subtitle_background": true,
+            "subtitle_border_color": "#ffffff",
+            "highlight_column": false,
+            "highlight_color": "#ef4a65",
+            "use_highlight_gradient": false,
+            "highlight_gradient_start_color": "#ef4a65",
+            "highlight_gradient_end_color": "#ff6b9d",
+            "highlight_gradient_angle": 45,
+            "subtitle_glass_color": "#ffffff",
+            "subtitle_icon_color": "#000000"
+          }
+        },
+        "feature_row_nz8QXz": {
+          "type": "feature_row",
+          "settings": {
+            "feature_name": "Ne prend aucune place au sol",
+            "show_icon": true,
+            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" width=\"24\" height=\"24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><path d=\"M12 8v8\"></path><path d=\"M8 12h8\"></path></svg>",
+            "value_type": "checkmark",
+            "value_1": "yes",
+            "text_value_1": "Yes",
+            "value_2": "no",
+            "text_value_2": "No"
+          }
+        },
+        "feature_row_4GYcEV": {
+          "type": "feature_row",
+          "settings": {
+            "feature_name": "Aucun câble, aucune gaine",
+            "show_icon": true,
+            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
+            "value_type": "checkmark",
+            "value_1": "yes",
+            "text_value_1": "Yes",
+            "value_2": "no",
+            "text_value_2": "No"
+          }
+        },
+        "feature_row_iFTFRG": {
+          "type": "feature_row",
+          "settings": {
+            "feature_name": "Éclaire aussi la pièce (2-en-1)",
+            "show_icon": true,
+            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
+            "value_type": "checkmark",
+            "value_1": "yes",
+            "text_value_1": "Yes",
+            "value_2": "no",
+            "text_value_2": "No"
+          }
+        },
+        "feature_row_rf7MmG": {
+          "type": "feature_row",
+          "settings": {
+            "feature_name": "Prix abordable",
+            "show_icon": true,
+            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
+            "value_type": "checkmark",
+            "value_1": "yes",
+            "text_value_1": "Yes",
+            "value_2": "no",
+            "text_value_2": "No"
+          }
+        },
+        "feature_row_ygJxnq": {
+          "type": "feature_row",
+          "settings": {
+            "feature_name": "Installation sans électricien",
+            "show_icon": true,
+            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
+            "value_type": "checkmark",
+            "value_1": "yes",
+            "text_value_1": "Yes",
+            "value_2": "yes",
+            "text_value_2": "No"
+          }
+        }
+      },
+      "block_order": [
+        "product_column_DxGkGL",
+        "product_column_rYTz9y",
+        "feature_row_nz8QXz",
+        "feature_row_4GYcEV",
+        "feature_row_iFTFRG",
+        "feature_row_rf7MmG",
+        "feature_row_ygJxnq"
+      ],
+      "settings": {
+        "use_theme_colors": false,
+        "show_heading": true,
+        "title_part_1": "",
+        "title_part_2": "Versa?",
+        "title_part_1_color": "#ffffff",
+        "title_part_2_color": "#ffffff",
+        "subheading": "",
+        "desktop_description": "",
+        "show_description_on_mobile": false,
+        "heading_size": 40,
+        "subheading_size": 13,
+        "heading_line_height": 1.2,
+        "subheading_color": "#ffffff",
+        "desktop_description_size_mobile": 14,
+        "desktop_description_size_desktop": 16,
+        "override_global_accent": false,
+        "accent_text_margin_left": 4,
+        "use_accent_gradient": true,
+        "accent_text_gradient": "linear-gradient(177deg, rgba(25, 23, 77, 1) 2.158%, rgba(20, 27, 77, 1) 87%, rgba(255, 107, 157, 1) 100%)",
+        "accent_font_family": "serif",
+        "accent_font_style": "italic",
+        "accent_font_weight": "300",
+        "table_column_width": 47,
+        "center_text_column_desktop": false,
+        "table_width": 1400,
+        "text_column_padding_mobile": 20,
+        "text_column_padding_desktop": 40,
+        "product_title_size": 21,
+        "subtitle_size": 10,
+        "feature_name_size": 17,
+        "text_value_size": 14,
+        "product_title_size_mobile": 16,
+        "subtitle_size_mobile": 10,
+        "feature_name_size_mobile": 12,
+        "text_value_size_mobile": 11,
+        "use_gradient_background": true,
+        "background_color": "#ffffff",
+        "gradient_direction": 175,
+        "gradient_color_1": "#141b4d",
+        "gradient_color_2": "#141b4d",
+        "text_color": "#211a28",
+        "subtitle_color": "#211a28",
+        "highlighted_text_color": "#ffffff",
+        "highlighted_subtitle_color": "#ffffff",
+        "highlighted_check_color": "#ffffff",
+        "highlighted_x_color": "#ffffff",
+        "border_color": "#ffffff45",
+        "icon_color": "#ffffff",
+        "check_color": "#ffffff",
+        "x_color": "#ffffff",
+        "highlight_border_radius": 8,
+        "use_highlight_border": true,
+        "highlight_border_color": "#ffffff33",
+        "highlight_border_width": 1,
+        "unhighlighted_text_color": "#ffffff",
+        "unhighlighted_subtitle_color": "#ffffff",
+        "unhighlighted_icon_color": "#ffffff",
+        "unhighlighted_check_color": "#ffffff",
+        "unhighlighted_x_color": "#ffffff"
+      }
+    },
     "satisfaction_guarantee_8heP99": {
       "type": "satisfaction-guarantee",
       "settings": {
@@ -1008,6 +1194,7 @@
     "custom_liquid_JJGdc3",
     "product_benefits_aMMR9W",
     "custom_liquid_6EggRU",
+    "product_comparison_cwR3bT",
     "satisfaction_guarantee_8heP99"
   ]
 }
