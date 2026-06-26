@@ -1280,6 +1280,103 @@
         "rating_summary_border_color": "#f2f2f7",
         "rating_summary_border_radius": 50
       }
+    },
+    "store_faq_PTDJ6X": {
+      "type": "store-faq",
+      "blocks": {
+        "faq_item_6P6ezf": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Comment on l'installe ?",
+            "answer": "<p>Vous coupez le courant, vous retirez votre ampoule et vous vissez le ventilateur sur la douille E27. Pour une stabilité maximale, vous fixez le support fourni au plafond. Comptez moins de 10 minutes, sans électricien ni câblage.</p>"
+          }
+        },
+        "faq_item_GPGQpN": {
+          "type": "faq_item",
+          "settings": {
+            "question": "C'est compatible avec ma douille ? Je suis locataire.",
+            "answer": "<p>Oui, sur les douilles E27 standard, à condition qu'elle soit bien fixée au plafond. Aucune intervention sur l'électricité n'est nécessaire, c'est donc adapté à la location. Le support à vis fourni sert uniquement à renforcer la stabilité.</p>"
+          }
+        },
+        "faq_item_nbpHFi": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Est-ce assez puissant pour ma pièce ?",
+            "answer": "<p>Il est conçu pour les chambres, bureaux, studios et petites pièces jusqu'à environ 15 m². Le flux d'air se ressent au centre de la pièce. Pour un grand salon ouvert, mieux vaut un ventilateur plus large.</p>"
+          }
+        },
+        "faq_item_37bMAk": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Est-ce que c'est silencieux pour dormir ?",
+            "answer": "<p>En petite vitesse, il est conçu pour rester discret et convient à un usage nocturne dans une petite pièce. Les vitesses plus élevées se font davantage entendre, comme tout ventilateur. Ce n'est pas un appareil totalement silencieux, mais un brassage doux la nuit.</p>"
+          }
+        },
+        "faq_item_9xW6wk": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Est-ce que ça tient bien, et est-ce sûr ?",
+            "answer": "<p>Le ventilateur se visse dans la douille et le support à vis fourni renforce la fixation au plafond. Une fois posé, les pales restent en hauteur, hors de portée des enfants et des animaux. Suivez la notice pour un montage stable.</p>"
+          }
+        },
+        "faq_item_MAU6YM": {
+          "type": "faq_item",
+          "disabled": true,
+          "settings": {
+            "question": "Est-ce que ça tient bien, et est-ce sûr ?",
+            "answer": "<p>La télécommande est incluse et pilote la lumière, la vitesse et la minuterie. En cas de problème, vous êtes couvert par la garantie 30 jours et notre support français, avec remplacement selon conditions.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_6P6ezf",
+        "faq_item_GPGQpN",
+        "faq_item_nbpHFi",
+        "faq_item_37bMAk",
+        "faq_item_9xW6wk",
+        "faq_item_MAU6YM"
+      ],
+      "settings": {
+        "use_theme_colors": false,
+        "heading": "FAQ",
+        "subtitle": "",
+        "heading_color": "#040404",
+        "section_padding": 60,
+        "container_padding_mobile": 15,
+        "container_padding_desktop": 15,
+        "section_bg_color": "#ffffff",
+        "border_radius": 8,
+        "border_color": "#e4f9ff",
+        "border_style": "full",
+        "question_color": "#1773b0",
+        "question_bg_color": "#ffffff",
+        "answer_color": "#1773b0",
+        "answer_bg_color": "#ffffff",
+        "accordion_mode": true,
+        "image_border_radius": 8,
+        "center_when_no_image": false,
+        "center_max_width": 600,
+        "two_column_desktop": false,
+        "column_gap": 30,
+        "faq_item_spacing": 0,
+        "individual_item_borders": false,
+        "question_padding_top": 15,
+        "question_padding_bottom": 15,
+        "question_padding_left": 20,
+        "question_padding_right": 20,
+        "answer_padding_top": 15,
+        "answer_padding_bottom": 15,
+        "answer_padding_left": 20,
+        "answer_padding_right": 20,
+        "heading_font_size": 36,
+        "heading_font_size_mobile": 38,
+        "subtitle_font_size": 16,
+        "subtitle_font_size_mobile": 14,
+        "question_font_size": 16,
+        "question_font_size_mobile": 14,
+        "answer_font_size": 14,
+        "answer_font_size_mobile": 13
+      }
     }
   },
   "order": [
@@ -1294,6 +1391,7 @@
     "product_benefits_aMMR9W",
     "custom_liquid_6EggRU",
     "product_comparison_cwR3bT",
-    "customer_reviews_carousel_peh8AG"
+    "customer_reviews_carousel_peh8AG",
+    "store_faq_PTDJ6X"
   ]
 }
