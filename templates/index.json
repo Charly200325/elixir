@@ -651,6 +651,30 @@
             "card_border_radius": 10
           }
         },
+        "guarantee_badges_h7e4V3": {
+          "type": "guarantee_badges",
+          "settings": {
+            "badge_1_show": true,
+            "badge_1_text": "30 jours satisfait ou remboursé",
+            "badge_1_icon": "custom",
+            "badge_1_custom_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 64 64\" width=\"128\" height=\"128\">\n\n  <!-- Shield (strong, premium) -->\n  <path d=\"M32 2 L56 12 V28\n           C56 45 46 56 32 63\n           C18 56 8 45 8 28\n           V12 Z\" fill=\"#121B4C\"></path>\n\n  <!-- Check (stronger presence) -->\n  <path d=\"M22 34 L29 41 L44 24\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n\n</svg>",
+            "badge_2_show": true,
+            "badge_2_text": "Retours simplifiés",
+            "badge_2_icon": "custom",
+            "badge_2_custom_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" width=\"128\" height=\"128\">\n\n  <!-- Arrow path -->\n  <path d=\"M12 5 L5 12 L12 19\" fill=\"none\" stroke=\"#121B4C\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n\n  <!-- Curve -->\n  <path d=\"M5 12 H14\n           C18 12 20 14 20 18\n           C20 21 18 23 15 23\" fill=\"none\" stroke=\"#121B4C\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n\n</svg>",
+            "icon_color": "#121b4c",
+            "text_color": "#000000",
+            "container_margin_top": -5,
+            "container_margin_right": 0,
+            "container_margin_bottom": 15,
+            "container_margin_left": 0,
+            "font_size": 11,
+            "icon_size": 12,
+            "gap": 6,
+            "align_center": true,
+            "mobile_stack": false
+          }
+        },
         "custom_image_NrfULy": {
           "type": "custom_image",
           "settings": {
@@ -680,6 +704,7 @@
         "shipping_notice_NRr3JY",
         "quantity_bundle_AWkrAp",
         "add_to_cart_RD6dGy",
+        "guarantee_badges_h7e4V3",
         "custom_image_NrfULy"
       ],
       "name": "Product Details",
