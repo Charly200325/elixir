@@ -48,7 +48,7 @@
     "button_gradient_hover_start": "#FCB141",
     "button_gradient_hover_end": "#FCB141",
     "enable_gradient_shine": true,
-    "enable_global_button_styling": false,
+    "enable_global_button_styling": true,
     "page_width": 1200,
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
