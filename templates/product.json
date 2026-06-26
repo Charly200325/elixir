@@ -1976,28 +1976,6 @@
         "empty_text_color": "#888888"
       }
     },
-    "divider_kz9pE7": {
-      "type": "divider",
-      "disabled": true,
-      "name": "Divider",
-      "settings": {
-        "use_theme_colors": false,
-        "divider_style": "wavy",
-        "background_color": "rgba(0,0,0,0)",
-        "flip_direction": true,
-        "keep_proportion": false,
-        "color": "#5d5aaf",
-        "height": 50,
-        "show_border": false,
-        "border_color": "#e0e0e0",
-        "border_width": 1,
-        "border_style": "solid",
-        "use_gradient": false,
-        "gradient_background": "linear-gradient(135deg, rgba(102, 126, 234, 1), rgba(118, 75, 162, 1) 100%)",
-        "padding_top": 0,
-        "padding_bottom": 20
-      }
-    },
     "customer_reviews_carousel_A6rqPE": {
       "type": "customer-reviews-carousel",
       "blocks": {
@@ -2342,7 +2320,6 @@
     "before_after_comparison_dg6PAy",
     "statistics_column_M3Cxtb",
     "benefits_carousel_eXPzCJ",
-    "divider_kz9pE7",
     "customer_reviews_carousel_A6rqPE",
     "satisfaction_guarantee_J4ypTy",
     "store_faq_Lpd3PW"
