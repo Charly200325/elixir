@@ -61,7 +61,7 @@
       ],
       "settings": {
         "use_theme_colors": true,
-        "show_newsletter": true,
+        "show_newsletter": false,
         "newsletter_title": "Subscribe to our emails",
         "newsletter_subtitle": "Get the latest updates and special offers",
         "newsletter_placeholder": "Enter your email address",
