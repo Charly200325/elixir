@@ -686,6 +686,19 @@
             "margin_bottom": 8
           }
         },
+        "divider_fXWqeK": {
+          "type": "divider",
+          "settings": {
+            "color": "#e0e0e0",
+            "style": "solid",
+            "thickness": 1,
+            "width": "100%",
+            "max_width": "100%",
+            "alignment": "center",
+            "margin_top": 10,
+            "margin_bottom": 10
+          }
+        },
         "replica_warning_Ld3Mti": {
           "type": "replica_warning",
           "settings": {
@@ -705,24 +718,31 @@
             "margin_bottom": 5
           }
         },
-        "custom_image_NrfULy": {
-          "type": "custom_image",
+        "customer_review_YcQ3Th": {
+          "type": "customer_review",
           "settings": {
-            "image_sizing": "auto_height",
-            "image_height": 200,
-            "image_width": 300,
-            "image_max_width": 400,
-            "image_fit": "contain",
-            "alignment": "center",
-            "link": "",
-            "margin_top_mobile": 8,
-            "margin_bottom_mobile": 8,
-            "margin_top_desktop": 8,
-            "margin_bottom_desktop": 8,
-            "container_sizing": "full_width",
-            "container_width": 400,
-            "container_max_width": 600,
-            "high_quality_image": false
+            "reviewer_name": "Sophie L.",
+            "review_text": "Les nuits étaient insupportable dans mon appart, et poser une clim n'était pas une option en location. Installé en 10 min, le ventilateur a tout changé, l’air circule enfin et je dors beaucoup mieux.",
+            "rating": 5,
+            "background_color_start": "#dfedfc",
+            "background_color_end": "#dfedfc",
+            "text_color": "#000000",
+            "border_color": "#ffffff",
+            "border_radius": 8,
+            "border_style": "solid",
+            "show_shadow": true,
+            "star_color": "#ffb800",
+            "reviewer_name_size": 14,
+            "review_text_size": 14,
+            "star_size": 19,
+            "avatar_size_desktop": 75,
+            "avatar_size_mobile": 65,
+            "margin_top": 0,
+            "margin_right": 0,
+            "margin_bottom": 10,
+            "margin_left": 0,
+            "verified_icon_color": "#141b4d",
+            "review_text_color": "#666666"
           }
         }
       },
@@ -736,8 +756,9 @@
         "add_to_cart_RD6dGy",
         "guarantee_badges_h7e4V3",
         "payment_icons_J9Rznw",
+        "divider_fXWqeK",
         "replica_warning_Ld3Mti",
-        "custom_image_NrfULy"
+        "customer_review_YcQ3Th"
       ],
       "name": "Product Details",
       "settings": {
