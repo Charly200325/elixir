@@ -2259,19 +2259,36 @@
             "question": "Est-ce que c'est silencieux pour dormir ?",
             "answer": "<p>En petite vitesse, il est conçu pour rester discret et convient à un usage nocturne dans une petite pièce. Les vitesses plus élevées se font davantage entendre, comme tout ventilateur. Ce n'est pas un appareil totalement silencieux, mais un brassage doux la nuit.</p>"
           }
+        },
+        "faq_item_tApbWr": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Est-ce que ça tient bien, et est-ce sûr ?",
+            "answer": "<p>Le ventilateur se visse dans la douille et le support à vis fourni renforce la fixation au plafond. Une fois posé, les pales restent en hauteur, hors de portée des enfants et des animaux. Suivez la notice pour un montage stable.</p>"
+          }
+        },
+        "faq_item_YhMVTT": {
+          "type": "faq_item",
+          "disabled": true,
+          "settings": {
+            "question": "Est-ce que ça tient bien, et est-ce sûr ?",
+            "answer": "<p>La télécommande est incluse et pilote la lumière, la vitesse et la minuterie. En cas de problème, vous êtes couvert par la garantie 30 jours et notre support français, avec remplacement selon conditions.</p>"
+          }
         }
       },
       "block_order": [
         "faq_item_YYJUL8",
         "faq_item_QKVnRn",
         "faq_item_appL6A",
-        "faq_item_fMQrU3"
+        "faq_item_fMQrU3",
+        "faq_item_tApbWr",
+        "faq_item_YhMVTT"
       ],
       "settings": {
-        "use_theme_colors": true,
+        "use_theme_colors": false,
         "heading": "FAQ",
         "subtitle": "",
-        "heading_color": "#1773b0",
+        "heading_color": "#040404",
         "section_padding": 60,
         "container_padding_mobile": 15,
         "container_padding_desktop": 15,
