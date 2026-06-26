@@ -2242,22 +2242,22 @@
         "faq_item_QKVnRn": {
           "type": "faq_item",
           "settings": {
-            "question": "What payment methods do you accept?",
-            "answer": "<p>We accept major credit cards, PayPal, Shop Pay, and Apple Pay for your convenience and security.</p>"
+            "question": "C'est compatible avec ma douille ? Je suis locataire.",
+            "answer": "<p>Oui, sur les douilles E27 standard, à condition qu'elle soit bien fixée au plafond. Aucune intervention sur l'électricité n'est nécessaire, c'est donc adapté à la location. Le support à vis fourni sert uniquement à renforcer la stabilité.</p>"
           }
         },
         "faq_item_appL6A": {
           "type": "faq_item",
           "settings": {
-            "question": "How long does shipping take?",
-            "answer": "<p>Standard shipping typically takes 3-5 business days within the continental US. International shipping times vary by location.</p>"
+            "question": "Est-ce assez puissant pour ma pièce ?",
+            "answer": "<p>Il est conçu pour les chambres, bureaux, studios et petites pièces jusqu'à environ 15 m². Le flux d'air se ressent au centre de la pièce. Pour un grand salon ouvert, mieux vaut un ventilateur plus large.</p>"
           }
         },
         "faq_item_fMQrU3": {
           "type": "faq_item",
           "settings": {
-            "question": "What is your return policy?",
-            "answer": "<p>We offer a 30-day return policy. If you're not satisfied with your purchase, you can return it within 30 days for a full refund or exchange.</p>"
+            "question": "Est-ce que c'est silencieux pour dormir ?",
+            "answer": "<p>En petite vitesse, il est conçu pour rester discret et convient à un usage nocturne dans une petite pièce. Les vitesses plus élevées se font davantage entendre, comme tout ventilateur. Ce n'est pas un appareil totalement silencieux, mais un brassage doux la nuit.</p>"
           }
         }
       },
