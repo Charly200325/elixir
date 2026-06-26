@@ -330,6 +330,27 @@
         "section_background": "linear-gradient(180deg, rgba(20, 27, 77, 1), rgba(93, 90, 175, 1) 98%)"
       }
     },
+    "divider_bq3zgH": {
+      "type": "divider",
+      "name": "Divider",
+      "settings": {
+        "use_theme_colors": false,
+        "divider_style": "wavy",
+        "background_color": "#ffffff",
+        "flip_direction": true,
+        "keep_proportion": false,
+        "color": "#5d5aaf",
+        "height": 50,
+        "show_border": false,
+        "border_color": "#e0e0e0",
+        "border_width": 1,
+        "border_style": "solid",
+        "use_gradient": false,
+        "gradient_background": "linear-gradient(135deg, rgba(102, 126, 234, 1), rgba(118, 75, 162, 1) 100%)",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "steps_xCqMtc": {
       "type": "steps",
       "blocks": {
@@ -1341,6 +1362,7 @@
     "new_hero_tq9qtW",
     "custom_liquid_63FQnA",
     "product_benefits_UhwtW3",
+    "divider_bq3zgH",
     "steps_xCqMtc",
     "collection_grid_EcDzKr",
     "scrolling_features_bar_PyXUpz",
