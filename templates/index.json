@@ -330,6 +330,118 @@
         "section_background": "linear-gradient(180deg, rgba(20, 27, 77, 1), rgba(93, 90, 175, 1) 98%)"
       }
     },
+    "steps_xCqMtc": {
+      "type": "steps",
+      "blocks": {
+        "step_zK9AB3": {
+          "type": "step",
+          "settings": {
+            "step_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_20.29.43.png",
+            "image_background_color": "#000000",
+            "step_title": "1. Vissez-le, tout simplement",
+            "step_description": "Retirez votre ampoule et vissez votre nouveau ventilateur sur la douille standard (E27) de votre plafond. Aucun éclairage nécessaire.",
+            "content_background_color": "#dfedfc"
+          }
+        },
+        "step_KFpTph": {
+          "type": "step",
+          "settings": {
+            "step_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_20.45.01.png",
+            "image_background_color": "#000000",
+            "step_title": "2. Ajustez et Contrôlez",
+            "step_description": "Utilisez la télécommande incluse pour allumer l'éclairage LED, régler sa luminosité et sa température, et activer les 3 vitesses du ventilateur.",
+            "content_background_color": "#dfedfc"
+          }
+        },
+        "step_ecaNmp": {
+          "type": "step",
+          "settings": {
+            "step_image": "shopify://shop_images/IMG.LIFESTYLE_1060x_8c08345d-e97f-4fcf-8a09-493fc4718163.webp",
+            "image_background_color": "#000000",
+            "step_title": "3. Détendez-vous au frais",
+            "step_description": "Détendez-vous et profitez d'une brise rafraîchissante et d'un éclairage personnalisée, le tout dans un silence total.",
+            "content_background_color": "#dfedfc"
+          }
+        }
+      },
+      "block_order": [
+        "step_zK9AB3",
+        "step_KFpTph",
+        "step_ecaNmp"
+      ],
+      "name": "Steps Results Section",
+      "settings": {
+        "use_theme_colors": false,
+        "background_type": "gradient",
+        "section_background_color": "#ffffff",
+        "section_background_gradient": "linear-gradient(135deg, rgba(255, 255, 255, 1), rgba(248, 248, 248, 1) 100%)",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "padding_horizontal": 20,
+        "title": "Dites Adieu",
+        "title_highlight": "À La Chaleur",
+        "subtitle": "Ne subissez plus la chaleur. Installez votre ventilateur en un clin d'œil et laissez la brise faire le reste.",
+        "content_max_width": 1200,
+        "title_color": "#000000",
+        "highlight_color": "#211a28",
+        "subtitle_color": "#4a4a4a",
+        "title_size_desktop": 34,
+        "title_size_mobile": 34,
+        "subtitle_size_desktop": 18,
+        "subtitle_size_mobile": 14,
+        "step_title_size_desktop": 18,
+        "step_title_size_mobile": 20,
+        "step_description_size_desktop": 12,
+        "step_description_size_mobile": 12,
+        "number_size_desktop": 20,
+        "number_size_mobile": 19,
+        "number_circle_size_desktop": 30,
+        "number_circle_size_mobile": 30,
+        "title_margin_bottom": 16,
+        "title_margin_bottom_tablet": 12,
+        "title_margin_bottom_mobile": 10,
+        "subtitle_margin_top": 0,
+        "subtitle_margin_bottom": 30,
+        "step_item_max_width_750px": 330,
+        "show_step_numbers": false,
+        "show_step_images": true,
+        "desktop_card_layout": "vertical",
+        "desktop_card_width": 280,
+        "desktop_image_width_percent": 40,
+        "enable_mobile_carousel": false,
+        "mobile_image_layout": "compact",
+        "mobile_card_layout": "horizontal",
+        "prev_button_bg": "#ffffff",
+        "prev_button_color": "#000000",
+        "prev_button_border": "#e0e0e0",
+        "next_button_bg": "#211a28",
+        "next_button_color": "#ffffff",
+        "next_button_border": "#211a28",
+        "label_color": "#000000",
+        "number_border_color": "#000000",
+        "number_border_width": 1,
+        "number_border_style": "solid",
+        "number_background_color": "#ffffff",
+        "number_border_radius": 50,
+        "number_font_weight": "600",
+        "step_title_color": "#000000",
+        "description_color": "#000000",
+        "default_card_background": "#ffffff",
+        "default_image_background": "#f5f5f5",
+        "card_border_radius": 12,
+        "disable_image_border_radius": false,
+        "card_border_color": "#e0e0e0",
+        "card_border_style": "solid",
+        "card_border_width": 1,
+        "override_global_accent": true,
+        "use_accent_gradient": false,
+        "accent_text_gradient": "linear-gradient(45deg, rgba(244, 46, 117, 1), rgba(93, 90, 175, 1) 94.964%)",
+        "accent_font_family": "serif",
+        "accent_font_style": "italic",
+        "accent_font_weight": "inherit",
+        "accent_text_margin_left": 0
+      }
+    },
     "collection_grid_EcDzKr": {
       "type": "collection-grid",
       "settings": {
@@ -1229,6 +1341,7 @@
     "new_hero_tq9qtW",
     "custom_liquid_63FQnA",
     "product_benefits_UhwtW3",
+    "steps_xCqMtc",
     "collection_grid_EcDzKr",
     "scrolling_features_bar_PyXUpz",
     "before_after_comparison_DVcRxj",
