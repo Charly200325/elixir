@@ -88,10 +88,27 @@
         "heading_b3enYM": {
           "type": "heading",
           "settings": {
-            "heading": "Le ventilateur qui",
-            "heading_accent": "Change tout.",
+            "heading": "Moins de chaleur.",
+            "heading_accent": "",
             "margin_top": 0,
             "margin_bottom": 16
+          }
+        },
+        "heading_dJHwrQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Plus de confort.",
+            "heading_accent": "Tout l'été.",
+            "margin_top": 0,
+            "margin_bottom": 16
+          }
+        },
+        "subtitle_KxrpwL": {
+          "type": "subtitle",
+          "settings": {
+            "subtitle": "<p>Jusqu'à −50 % sur toute la sélection d'été. Stocks limités.</p>",
+            "margin_top": 0,
+            "margin_bottom": 24
           }
         },
         "benefits_wMxKTD": {
@@ -114,7 +131,7 @@
         "button_ee48LN": {
           "type": "button",
           "settings": {
-            "button_text": "SHOP NOW",
+            "button_text": "J’EN PROFITE",
             "button_link": "",
             "full_width": false,
             "full_width_mobile_only": false,
@@ -126,6 +143,8 @@
       "block_order": [
         "rating_QwgnAk",
         "heading_b3enYM",
+        "heading_dJHwrQ",
+        "subtitle_KxrpwL",
         "benefits_wMxKTD",
         "button_ee48LN"
       ],
