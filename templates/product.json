@@ -1754,6 +1754,7 @@
         "card_njWaLR",
         "card_VPN83A"
       ],
+      "disabled": true,
       "name": "Cards",
       "settings": {
         "use_theme_colors": false,
@@ -1798,6 +1799,7 @@
     },
     "divider_eHNkdm": {
       "type": "divider",
+      "disabled": true,
       "name": "Divider",
       "settings": {
         "use_theme_colors": false,
@@ -1819,6 +1821,7 @@
     },
     "before_after_comparison_dg6PAy": {
       "type": "before-after-comparison",
+      "disabled": true,
       "settings": {
         "use_theme_colors": false,
         "enable_two_column_layout": false,
