@@ -1972,7 +1972,7 @@
         "container_padding_bottom_mobile": 20,
         "container_padding_left_mobile": 20,
         "container_border_radius": 12,
-        "container_background": "linear-gradient(to bottom, #FFFFFF, #F8F8F8)",
+        "container_background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(248, 248, 248, 1) 100%)",
         "enable_border": false,
         "border_width": 1,
         "border_style": "solid",
