@@ -744,6 +744,51 @@
             "verified_icon_color": "#141b4d",
             "review_text_color": "#666666"
           }
+        },
+        "product_faq_6BYew4": {
+          "type": "product_faq",
+          "settings": {
+            "use_theme_colors": true,
+            "items_limit": 5,
+            "image_size": 30,
+            "image_border_radius": 4,
+            "image_fit": "cover",
+            "text_size": 14,
+            "answer_text_size": 13,
+            "item_padding": 3,
+            "question_padding": 8,
+            "margin_top": 5,
+            "margin_bottom": 5,
+            "border_radius": 10,
+            "border_color": "#e5e5e5",
+            "border_style": "bottom_only",
+            "question_color": "#211a28",
+            "question_bg_color": "#ffffff",
+            "answer_color": "#211a28",
+            "answer_bg_color": "#ffffff",
+            "accordion_mode": true,
+            "question_1": "Description",
+            "use_product_description_for_question_1": false,
+            "answer_1": "<p>Quand il fait chaud, ce n'est pas seulement la température : c'est l'air qui stagne et rend la pièce lourde, surtout la nuit. Ce ventilateur 2-en-1 se visse sur votre douille E27, à la place d'une ampoule : vous gardez la lumière et vous ajoutez un brassage d'air doux depuis le plafond.</p>",
+            "question_2": "Caractéristiques",
+            "answer_2": "<ul><li><strong>Installation :</strong> douille E27 standard, sans câblage ni électricien</li><li><strong>Fixation :</strong> support à vis fourni pour une stabilité renforcée</li><li><strong>Diamètre :</strong> 52 cm, 6 pales</li><li><strong>Puissance :</strong> 40 W</li><li><strong>Éclairage :</strong> LED dimmable, 3 températures de couleur</li><li><strong>Ventilation :</strong> 3 vitesses + minuterie</li><li><strong>Commande :</strong> télécommande incluse</li><li><strong>Pièces recommandées :</strong> jusqu'à ~15 m² (chambre, bureau, studio, petite pièce)</li><li><strong>Niveau sonore :</strong> conçu pour rester discret en petite vitesse (&lt;30 dB)</li></ul>",
+            "question_3": "Utilisation & Entretien",
+            "answer_3": "<p>Coupez le courant, retirez l'ampoule, vissez le ventilateur sur la douille E27. Pour une stabilité maximale, fixez le support fourni au plafond.</p><p>Rétablissez le courant, puis réglez lumière, vitesse et minuterie depuis la télécommande. Dépoussiérez les pales de temps en temps avec un chiffon sec.</p>",
+            "question_4": "Livraison & garantie",
+            "answer_4": "<p>Livraison gratuite en 4 à 7 jours ouvrés et expédition sous 24-48 h.</p><p>Garantie 30 jours satisfait ou remboursé, retours simplifiés et support 100 % français.</p>",
+            "question_5": "",
+            "answer_5": "",
+            "question_6": "",
+            "answer_6": "",
+            "question_7": "",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
         }
       },
       "block_order": [
@@ -758,7 +803,8 @@
         "payment_icons_J9Rznw",
         "divider_fXWqeK",
         "replica_warning_Ld3Mti",
-        "customer_review_YcQ3Th"
+        "customer_review_YcQ3Th",
+        "product_faq_6BYew4"
       ],
       "name": "Product Details",
       "settings": {
