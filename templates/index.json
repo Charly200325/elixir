@@ -9,13 +9,70 @@
  */
 {
   "sections": {
+    "scrolling_features_bar_qDzYwX": {
+      "type": "scrolling-features-bar",
+      "blocks": {
+        "feature_item_4mLgxV": {
+          "type": "feature_item",
+          "settings": {
+            "text": "PREMIUM QUALITY",
+            "icon_type": "svg",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>"
+          }
+        },
+        "feature_item_JCBATz": {
+          "type": "feature_item",
+          "settings": {
+            "text": "FAST SHIPPING",
+            "icon_type": "svg",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zm-6 0H5V6h9v2zm-9 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm12 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z\"></path></svg>"
+          }
+        },
+        "feature_item_6gPq8Q": {
+          "type": "feature_item",
+          "settings": {
+            "text": "SATISFACTION GUARANTEED",
+            "icon_type": "svg",
+            "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"></path></svg>"
+          }
+        }
+      },
+      "block_order": [
+        "feature_item_4mLgxV",
+        "feature_item_JCBATz",
+        "feature_item_6gPq8Q"
+      ],
+      "name": "Scrolling Features Bar",
+      "settings": {
+        "use_theme_colors": true,
+        "vertical_padding": 15,
+        "item_gap": 60,
+        "mobile_item_gap": 30,
+        "font_size": 14,
+        "mobile_font_size": 12,
+        "letter_spacing": 0.5,
+        "uppercase_text": true,
+        "icon_size": 20,
+        "mobile_icon_size": 16,
+        "icon_spacing": 10,
+        "icon_type": "svg",
+        "slider_direction": "left",
+        "scrolling_velocity": 15,
+        "pause_on_hover": true,
+        "background_color": "#ef4a65",
+        "text_color": "#FFFFFF",
+        "icon_color": "#000000",
+        "use_gradient_background": false,
+        "background_gradient": ""
+      }
+    },
     "new_hero_tq9qtW": {
       "type": "new-hero",
       "blocks": {
         "rating_QwgnAk": {
           "type": "rating",
           "settings": {
-            "rating_text": "<p>4.8/5 based on 137,135 reviews</p>",
+            "rating_text": "<p>4.9/5 Excellent</p>",
             "enable_container_background": false,
             "container_background_color": "#f8f9fa",
             "container_padding_vertical": 12,
@@ -31,10 +88,27 @@
         "heading_b3enYM": {
           "type": "heading",
           "settings": {
-            "heading": "Premium Product That Solves Your Problem",
-            "heading_accent": "Fastest Solution.",
+            "heading": "Le ventilateur qui",
+            "heading_accent": "Change tout.",
             "margin_top": 0,
             "margin_bottom": 16
+          }
+        },
+        "benefits_wMxKTD": {
+          "type": "benefits",
+          "settings": {
+            "benefits_flex_layout": false,
+            "benefit_1_icon": "filled_circle_check",
+            "benefit_1_custom_svg": "",
+            "benefit_1_text": "Moteur DC silencieux",
+            "benefit_2_icon": "check",
+            "benefit_2_custom_svg": "",
+            "benefit_2_text": "Livraison France offerte",
+            "benefit_3_icon": "filled_circle_check",
+            "benefit_3_custom_svg": "",
+            "benefit_3_text": "Garantie 2 ans & SAV français",
+            "margin_top": 0,
+            "margin_bottom": 24
           }
         },
         "button_ee48LN": {
@@ -52,6 +126,7 @@
       "block_order": [
         "rating_QwgnAk",
         "heading_b3enYM",
+        "benefits_wMxKTD",
         "button_ee48LN"
       ],
       "settings": {
@@ -1084,6 +1159,7 @@
     }
   },
   "order": [
+    "scrolling_features_bar_qDzYwX",
     "new_hero_tq9qtW",
     "as_seen_in_logos_MYKVwT",
     "collection_grid_EcDzKr",
