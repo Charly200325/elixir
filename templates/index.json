@@ -675,6 +675,36 @@
             "mobile_stack": false
           }
         },
+        "payment_icons_J9Rznw": {
+          "type": "payment_icons",
+          "settings": {
+            "custom_payment_icons": "mastercard, american_express, apple_pay, google_pay, shopify_pay, discover, visa",
+            "alignment": "center",
+            "icon_height": 22,
+            "icon_spacing": 6,
+            "margin_top": 8,
+            "margin_bottom": 8
+          }
+        },
+        "replica_warning_Ld3Mti": {
+          "type": "replica_warning",
+          "settings": {
+            "warning_title": "Dernières unités disponibles",
+            "warning_text": "Forte demande en ce moment. Commandez maintenant avant rupture de stock - prochain réassort prévu en septembre.",
+            "background_color": "#f49c9c",
+            "text_color": "#000000",
+            "border_color": "#f49c9c",
+            "icon_background_color": "#000000",
+            "icon_color": "#f49c9c",
+            "title_font_size": 20,
+            "text_font_size": 14,
+            "border_width": 1,
+            "border_radius": 8,
+            "padding": 10,
+            "margin_top": -5,
+            "margin_bottom": 5
+          }
+        },
         "custom_image_NrfULy": {
           "type": "custom_image",
           "settings": {
@@ -705,6 +735,8 @@
         "quantity_bundle_AWkrAp",
         "add_to_cart_RD6dGy",
         "guarantee_badges_h7e4V3",
+        "payment_icons_J9Rznw",
+        "replica_warning_Ld3Mti",
         "custom_image_NrfULy"
       ],
       "name": "Product Details",
