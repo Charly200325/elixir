@@ -505,6 +505,42 @@
             "custom_save_amount": ""
           }
         },
+        "bullet_list_zwgrpy": {
+          "type": "bullet_list",
+          "settings": {
+            "bullet_1": "Ventilation et lumière LED réglables",
+            "bullet_2": "Installation simple en 5 minutes",
+            "bullet_3": "Ventilateur silencieux (<30 dB)",
+            "bullet_4": "",
+            "bullet_5": "",
+            "bullet_6": "",
+            "layout_style": "vertical",
+            "row_gap": 5,
+            "use_custom_icon_1": false,
+            "custom_icon_1": "",
+            "use_custom_icon_2": false,
+            "custom_icon_2": "",
+            "use_custom_icon_3": false,
+            "custom_icon_3": "",
+            "use_custom_icon_4": false,
+            "custom_icon_4": "",
+            "use_custom_icon_5": false,
+            "custom_icon_5": "",
+            "use_custom_icon_6": false,
+            "custom_icon_6": "",
+            "icon_color": "#fba40b",
+            "text_color": "#333333",
+            "icon_size": 20,
+            "text_size": 17,
+            "spacing": 5,
+            "icon_text_gap": 10,
+            "show_bg": false,
+            "bg_color": "#192055",
+            "border_radius": 4,
+            "margin_top": 10,
+            "margin_bottom": 10
+          }
+        },
         "variant_selector_8HePq7": {
           "type": "variant_selector",
           "settings": {
@@ -584,12 +620,13 @@
       "block_order": [
         "title_CPV6CJ",
         "price_nmgNHc",
+        "bullet_list_zwgrpy",
         "variant_selector_8HePq7",
         "custom_image_NrfULy"
       ],
       "name": "Product Details",
       "settings": {
-        "use_theme_colors": true,
+        "use_theme_colors": false,
         "current_product": "ceiling-lamp-185-265v-e27-with-remote-led-30w-ceiling-fan-light-dimming-function-suitable-for-living-room-study-and-home-use-85-265v-lamp-120421646678-xkndx",
         "section_bg_color": "#FFFFFF",
         "blocks_spacing": 4,
