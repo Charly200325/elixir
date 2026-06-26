@@ -921,6 +921,125 @@
         "section_background": "linear-gradient(180deg, rgba(20, 27, 77, 1), rgba(93, 90, 175, 1) 98%)"
       }
     },
+    "product_benefits_gRhkrM": {
+      "type": "product-benefits",
+      "blocks": {
+        "benefit_nNYddB": {
+          "type": "benefit",
+          "settings": {
+            "title": "Installation en 5 minutes",
+            "description": "Se visse directement sur votre douille E27 standard. Aucun câblage complexe ni électricien requis : vissez, allumez, profitez.",
+            "benefit_color": "",
+            "benefit_description_color": "",
+            "use_image": false,
+            "preset_icon": "check",
+            "use_custom_icon": true,
+            "custom_icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z\"></path>\n</svg>"
+          }
+        },
+        "benefit_pf9dKQ": {
+          "type": "benefit",
+          "settings": {
+            "title": "Éclairage LED sur mesure",
+            "description": "Ne sacrifiez pas votre plafonnier. Remplacez votre ampoule par une lumière LED dimmable offrant 3 températures de couleur selon vos envies.",
+            "benefit_color": "",
+            "benefit_description_color": "",
+            "use_image": false,
+            "preset_icon": "clock",
+            "use_custom_icon": true,
+            "custom_icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M9 18h6\"></path>\n  <path d=\"M10 22h4\"></path>\n  <path d=\"M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5\"></path>\n</svg>"
+          }
+        },
+        "benefit_mHxM39": {
+          "type": "benefit",
+          "settings": {
+            "title": "Product Feature",
+            "description": "Describe how this feature benefits your customers and makes your product stand out.",
+            "benefit_color": "",
+            "benefit_description_color": "",
+            "use_image": false,
+            "preset_icon": "check",
+            "use_custom_icon": false,
+            "custom_icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z\"></path></svg>"
+          }
+        },
+        "benefit_mxXwga": {
+          "type": "benefit",
+          "settings": {
+            "title": "Contrôle à distance",
+            "description": "Ajustez les 3 vitesses de ventilation, modifiez l'ambiance lumineuse ou programmez la minuterie grâce à la télécommande incluse.",
+            "benefit_color": "",
+            "benefit_description_color": "",
+            "use_image": false,
+            "preset_icon": "sparkle",
+            "use_custom_icon": true,
+            "custom_icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <rect x=\"7\" y=\"4\" width=\"10\" height=\"16\" rx=\"2\" ry=\"2\"></rect>\n  <line x1=\"12\" y1=\"8\" x2=\"12\" y2=\"8\"></line>\n  <line x1=\"12\" y1=\"12\" x2=\"12\" y2=\"12\"></line>\n  <line x1=\"12\" y1=\"16\" x2=\"12\" y2=\"16\"></line>\n  <path d=\"M10 2a4 4 0 0 1 4 0\"></path>\n</svg>"
+          }
+        },
+        "benefit_4xbX9y": {
+          "type": "benefit",
+          "settings": {
+            "title": "Ultra-silencieux & Discret",
+            "description": "Conçu pour se faire oublier (< 30 dB). Profitez d'un brassage d'air doux pour dormir au frais, tout en libérant l'espace au sol dans votre chambre.",
+            "benefit_color": "",
+            "benefit_description_color": "",
+            "use_image": false,
+            "preset_icon": "heart",
+            "use_custom_icon": true,
+            "custom_icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\">\n  <path d=\"M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z\"></path>\n</svg>"
+          }
+        }
+      },
+      "block_order": [
+        "benefit_nNYddB",
+        "benefit_pf9dKQ",
+        "benefit_mHxM39",
+        "benefit_mxXwga",
+        "benefit_4xbX9y"
+      ],
+      "settings": {
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "padding_left": 25,
+        "padding_right": 25,
+        "image_position_desktop": "right",
+        "heading_size_mobile": 40,
+        "heading_size_desktop": 35,
+        "subtitle_size_mobile": 13,
+        "subtitle_size_desktop": 13,
+        "benefit_title_size_mobile": 14,
+        "benefit_title_size_desktop": 14,
+        "benefit_description_size_mobile": 12,
+        "benefit_description_size_desktop": 12,
+        "accent_color": "#ffffff",
+        "use_theme_colors": false,
+        "override_global_accent": true,
+        "accent_font_family": "serif",
+        "accent_font_style": "italic",
+        "accent_font_weight": "inherit",
+        "use_accent_gradient": false,
+        "accent_text_gradient": "",
+        "accent_text_margin_left": 0,
+        "list_background": "linear-gradient(61deg, rgba(255, 255, 255, 0.2), rgba(255, 253, 253, 0.28) 97%)",
+        "list_border_radius": 8,
+        "border_color": "#ffffff33",
+        "heading_accent": "Vous êtes enfin au frais.",
+        "heading_regular": "Respirez",
+        "subtitle": "Un ventilateur 2-en-1 puissant et ultra-silencieux qui révolutionne votre confort. Vissez-le simplement comme une ampoule classique pour profiter instantanément d'une brise rafraîchissante et d'un éclairage LED sur mesure. Fini l'air lourd, place aux nuits paisibles.",
+        "show_image": true,
+        "media_type": "image",
+        "feature_image": "shopify://shop_images/GIF2.webp",
+        "image_alt": "Feature product image",
+        "video_autoplay": true,
+        "video_muted": true,
+        "video_loop": true,
+        "video_controls": false,
+        "heading_color": "#ffffff",
+        "subtitle_color": "#ffffff",
+        "description_color": "#ffffff",
+        "section_background": "linear-gradient(180deg, rgba(20, 27, 77, 1), rgba(93, 90, 175, 1) 98%)"
+      }
+    },
     "divider_Q7nmRz": {
       "type": "divider",
       "name": "Divider",
@@ -2507,6 +2626,7 @@
     "divider_Q7nmRz",
     "image_with_text_9Vm4Bn",
     "steps_NPBhYa",
+    "product_benefits_gRhkrM",
     "custom_liquid_8FpgQ9",
     "statistics_column_XrYU7w",
     "image_with_text_Y44CHB",
