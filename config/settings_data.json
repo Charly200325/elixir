@@ -305,15 +305,6 @@
               "cart_drawer_progress_active_icon_fill_color": "#ffffff"
             }
           },
-          "cart_money_back_guarantee_CJDB6J": {
-            "type": "cart_money_back_guarantee",
-            "settings": {
-              "show_money_back_guarantee": true,
-              "money_back_guarantee_text": "30 Day Money Back Guarantee",
-              "money_back_guarantee_icon": "seal-check",
-              "money_back_guarantee_color": "#000000"
-            }
-          },
           "cart_social_proof_bar_wwnhTa": {
             "type": "cart-social_proof_bar",
             "settings": {
@@ -327,7 +318,7 @@
           "cart_payment_icon_JY9673": {
             "type": "cart_payment_icon",
             "settings": {
-              "custom_payment_icons": "visa, afterpay, american_express, apple_pay, paypal, google_pay, mastercard, shopify_pay,  maestro, sofort",
+              "custom_payment_icons": "visa, afterpay, american_express, apple_pay, paypal, google_pay, mastercard, shopify_pay,",
               "icon_height": 22,
               "icon_spacing": 6,
               "alignment": "center",
@@ -338,7 +329,6 @@
         },
         "block_order": [
           "cart_progress_bar_UWabED",
-          "cart_money_back_guarantee_CJDB6J",
           "cart_social_proof_bar_wwnhTa",
           "cart_payment_icon_JY9673"
         ],
