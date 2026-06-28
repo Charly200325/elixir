@@ -495,7 +495,7 @@
             "bg_color": "#192055",
             "border_radius": 4,
             "margin_top": 10,
-            "margin_bottom": 10
+            "margin_bottom": 5
           }
         },
         "divider_U8hLqJ": {
@@ -530,7 +530,7 @@
             "border_width": 1,
             "border_style": "dotted",
             "font_size": 14,
-            "container_margin_top": 5,
+            "container_margin_top": -5,
             "container_margin_bottom": 0,
             "enable_animation": true,
             "suffix_text": ".",
@@ -640,7 +640,7 @@
             "icon_height": 22,
             "icon_spacing": 6,
             "margin_top": -13,
-            "margin_bottom": 8
+            "margin_bottom": 5
           }
         },
         "divider_fXWqeK": {
@@ -652,7 +652,7 @@
             "width": "100%",
             "max_width": "100%",
             "alignment": "center",
-            "margin_top": 10,
+            "margin_top": 5,
             "margin_bottom": 10
           }
         },
