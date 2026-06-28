@@ -290,6 +290,28 @@
       "cart-drawer": {
         "type": "cart-drawer",
         "blocks": {
+          "cart_discount_banner_WhtBLm": {
+            "type": "cart-discount-banner",
+            "settings": {
+              "show_discount_banner": false,
+              "discount_banner_prefix": "Congrats!",
+              "discount_banner_middle": "You're saving",
+              "discount_banner_suffix": "on your first subscription",
+              "discount_banner_default_text": "today",
+              "discount_banner_bg_color": "#e6f7ff",
+              "discount_banner_text_color": "#333333",
+              "cart_drawer_discount_bg_color": "#000000",
+              "cart_drawer_discount_text_color": "#ffffff",
+              "cart_drawer_discount_icon_color": "#ffffff",
+              "cart_drawer_discount_border_radius": 4,
+              "cart_drawer_border_radius": 8,
+              "discount_banner_use_gradient": false,
+              "discount_banner_gradient_start_color": "#e6f7ff",
+              "discount_banner_gradient_end_color": "#b3e5fc",
+              "discount_banner_gradient_angle": 90,
+              "discount_banner_icon": "celebration"
+            }
+          },
           "cart_social_proof_bar_wwnhTa": {
             "type": "cart-social_proof_bar",
             "settings": {
@@ -302,6 +324,7 @@
           }
         },
         "block_order": [
+          "cart_discount_banner_WhtBLm",
           "cart_social_proof_bar_wwnhTa"
         ],
         "settings": {
