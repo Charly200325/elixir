@@ -152,7 +152,7 @@
             "bg_color": "#192055",
             "border_radius": 4,
             "margin_top": 10,
-            "margin_bottom": 10
+            "margin_bottom": 5
           }
         },
         "divider_7L3TAA": {
@@ -165,7 +165,7 @@
             "max_width": "100%",
             "alignment": "center",
             "margin_top": 10,
-            "margin_bottom": 10
+            "margin_bottom": -5
           }
         },
         "custom_text_Qra839": {
@@ -538,7 +538,7 @@
             "icon_height": 22,
             "icon_spacing": 6,
             "margin_top": -13,
-            "margin_bottom": 5
+            "margin_bottom": 0
           }
         },
         "divider_9kcrFc": {
