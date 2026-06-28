@@ -308,8 +308,8 @@
           "cart_shipping_protection_D8Mzgm"
         ],
         "settings": {
-          "cart_customization_mode": false,
-          "use_theme_colors_cart_drawer": true,
+          "cart_customization_mode": true,
+          "use_theme_colors_cart_drawer": false,
           "upsell_carousel_mode": false,
           "cart_drawer_primary_background_color": "#ffffff",
           "cart_drawer_bg_gradient": "linear-gradient(135deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0) 100%)",
