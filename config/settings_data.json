@@ -293,9 +293,9 @@
           "cart_social_proof_bar_wwnhTa": {
             "type": "cart-social_proof_bar",
             "settings": {
-              "social_proof_text": "Join 10,000+ happy customers!",
-              "social_proof_icon": "stars",
-              "social_proof_bg_color": "#f5f5f5",
+              "social_proof_text": "LIVRAISON GRATUITE",
+              "social_proof_icon": "none",
+              "social_proof_bg_color": "#D1E7FB",
               "social_proof_text_color": "#121212",
               "social_proof_icon_color": "#121212"
             }
