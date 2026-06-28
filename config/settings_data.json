@@ -318,7 +318,7 @@
           "cart_payment_icon_JY9673": {
             "type": "cart_payment_icon",
             "settings": {
-              "custom_payment_icons": "visa, afterpay, american_express, apple_pay, paypal, google_pay, mastercard, shopify_pay,",
+              "custom_payment_icons": "visa, american_express, apple_pay, paypal, google_pay, mastercard, shopify_pay, maestro",
               "icon_height": 22,
               "icon_spacing": 6,
               "alignment": "center",
