@@ -290,25 +290,22 @@
       "cart-drawer": {
         "type": "cart-drawer",
         "blocks": {
-          "cart_shipping_protection_D8Mzgm": {
-            "type": "cart_shipping_protection",
+          "cart_social_proof_bar_wwnhTa": {
+            "type": "cart-social_proof_bar",
             "settings": {
-              "show_shipping_protection": true,
-              "product_shipping_protection": "",
-              "cart_drawer_sp_heading": "Shipping Protection",
-              "cart_drawer_sp_text": "Protect your order from damage, loss, or theft during shipping",
-              "cart_drawer_shipping_protection_text": "#121212",
-              "cart_drawer_shipping_protection_bg": "#f1f1f1",
-              "cart_drawer_shipping_protection_border": "#a3a3a3",
-              "cart_drawer_shipping_protection_border_size": 0
+              "social_proof_text": "Join 10,000+ happy customers!",
+              "social_proof_icon": "stars",
+              "social_proof_bg_color": "#f5f5f5",
+              "social_proof_text_color": "#121212",
+              "social_proof_icon_color": "#121212"
             }
           }
         },
         "block_order": [
-          "cart_shipping_protection_D8Mzgm"
+          "cart_social_proof_bar_wwnhTa"
         ],
         "settings": {
-          "cart_customization_mode": true,
+          "cart_customization_mode": false,
           "use_theme_colors_cart_drawer": false,
           "upsell_carousel_mode": false,
           "cart_drawer_primary_background_color": "#ffffff",
