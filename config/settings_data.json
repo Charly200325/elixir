@@ -289,6 +289,24 @@
       },
       "cart-drawer": {
         "type": "cart-drawer",
+        "blocks": {
+          "cart_shipping_protection_D8Mzgm": {
+            "type": "cart_shipping_protection",
+            "settings": {
+              "show_shipping_protection": true,
+              "product_shipping_protection": "",
+              "cart_drawer_sp_heading": "Shipping Protection",
+              "cart_drawer_sp_text": "Protect your order from damage, loss, or theft during shipping",
+              "cart_drawer_shipping_protection_text": "#121212",
+              "cart_drawer_shipping_protection_bg": "#f1f1f1",
+              "cart_drawer_shipping_protection_border": "#a3a3a3",
+              "cart_drawer_shipping_protection_border_size": 0
+            }
+          }
+        },
+        "block_order": [
+          "cart_shipping_protection_D8Mzgm"
+        ],
         "settings": {
           "cart_customization_mode": false,
           "use_theme_colors_cart_drawer": true,
