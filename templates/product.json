@@ -1255,6 +1255,9 @@
         "benefit_mxXwga",
         "benefit_4xbX9y"
       ],
+      "custom_css": [
+        ".custom-benefits-list {display: none !important;}"
+      ],
       "settings": {
         "padding_top": 50,
         "padding_bottom": 0,

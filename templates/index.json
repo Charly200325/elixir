@@ -127,9 +127,9 @@
         "rating_text_color": "#211a28",
         "star_color": "#211a28",
         "benefit_text_color": "#211a28",
-        "benefit_icon_color": "#FBA40B",
+        "benefit_icon_color": "#fba40b",
         "use_global_accent_typography": true,
-        "heading_accent_color": "#DFEDFC",
+        "heading_accent_color": "#dfedfc",
         "use_accent_gradient": false,
         "accent_text_gradient": "linear-gradient(45deg, rgba(93, 90, 175, 1), rgba(255, 107, 157, 1) 100%)",
         "accent_font_family": "serif",
@@ -880,6 +880,9 @@
         "benefit_BiaiCE",
         "benefit_nED6B7",
         "benefit_VcL4hb"
+      ],
+      "custom_css": [
+        ".custom-benefits-list {display: none !important;}"
       ],
       "settings": {
         "padding_top": 50,
