@@ -125,7 +125,7 @@
         "badge_bg": "#211a28",
         "badge_text_color": "#ffffff",
         "rating_text_color": "#211a28",
-        "star_color": "#211a28",
+        "star_color": "#000000",
         "benefit_text_color": "#211a28",
         "benefit_icon_color": "#fba40b",
         "use_global_accent_typography": true,
