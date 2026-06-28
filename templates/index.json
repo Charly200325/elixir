@@ -635,7 +635,7 @@
         "payment_icons_J9Rznw": {
           "type": "payment_icons",
           "settings": {
-            "custom_payment_icons": "visa, american_express, apple_pay, paypal, google_pay, mastercard, shopify_pay, maestro",
+            "custom_payment_icons": "visa, american_express, apple_pay, paypal, google_pay, mastercard, shopify_pay, klarna, maestro",
             "alignment": "center",
             "icon_height": 22,
             "icon_spacing": 6,
