@@ -319,7 +319,19 @@
         }
       }
     },
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "2975745137944656958": {
+        "type": "shopify://apps/bl-custom-html-css-js-liquid/blocks/site-wide-code/96fc73ef-2727-4174-82ec-12cfce5b3426",
+        "disabled": false,
+        "settings": {
+          "html_code": "",
+          "css_code": "",
+          "js_code": "",
+          "liquid_code": ""
+        }
+      }
+    }
   },
   "presets": {
     "Default": {
