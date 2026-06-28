@@ -763,6 +763,9 @@
         "customer_review_YcQ3Th",
         "product_faq_6BYew4"
       ],
+      "custom_css": [
+        ".customer-review-avatar-container {display: none;}"
+      ],
       "name": "Product Details",
       "settings": {
         "use_theme_colors": false,
