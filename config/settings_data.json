@@ -352,7 +352,7 @@
           "cart_drawer_fs_icon_default_color": "#808080",
           "cart_drawer_fs_icon_active_color": "#000000",
           "cart_drawer_image_border_radius": 8,
-          "cart_drawer_checkout_button_label": ""
+          "cart_drawer_checkout_button_label": "VALIDER LE PANIER"
         }
       }
     },
