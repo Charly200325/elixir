@@ -939,6 +939,12 @@
         "padding_bottom": 0
       }
     },
+    "1782645214b40b10a1": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
     "product_comparison_cwR3bT": {
       "type": "product-comparison",
       "blocks": {
@@ -1322,6 +1328,7 @@
     "custom_liquid_JJGdc3",
     "product_benefits_aMMR9W",
     "custom_liquid_6EggRU",
+    "1782645214b40b10a1",
     "product_comparison_cwR3bT",
     "customer_reviews_carousel_peh8AG",
     "custom_liquid_qrmRcK"
