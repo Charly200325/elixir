@@ -336,7 +336,7 @@
             "original_price_color": "#999999",
             "original_price_font_size": 11,
             "margin_top": 0,
-            "margin_bottom": 0
+            "margin_bottom": 5
           }
         },
         "quantity_break_BwGDzW": {
@@ -519,7 +519,7 @@
             "badge_2_custom_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 24 24\" width=\"128\" height=\"128\">\n\n  <!-- Arrow path -->\n  <path d=\"M12 5 L5 12 L12 19\" fill=\"none\" stroke=\"#121B4C\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n\n  <!-- Curve -->\n  <path d=\"M5 12 H14\n           C18 12 20 14 20 18\n           C20 21 18 23 15 23\" fill=\"none\" stroke=\"#121B4C\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n\n</svg>",
             "icon_color": "#121b4c",
             "text_color": "#000000",
-            "container_margin_top": -5,
+            "container_margin_top": -10,
             "container_margin_right": 0,
             "container_margin_bottom": 15,
             "container_margin_left": 0,
@@ -537,7 +537,7 @@
             "alignment": "center",
             "icon_height": 22,
             "icon_spacing": 6,
-            "margin_top": -10,
+            "margin_top": -13,
             "margin_bottom": 5
           }
         },
