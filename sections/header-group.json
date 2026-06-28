@@ -11,6 +11,17 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "custom_announcement_bar_PXqcgW": {
+      "type": "custom-announcement-bar",
+      "name": "Announcement Bar",
+      "settings": {
+        "use_theme_colors": true,
+        "text": "<p><strong>OFFRES D'ÉTÉ : JUSQU'À -50% SUR TOUT LE SITE</strong></p>",
+        "background_color": "#000000",
+        "text_color": "#FFFFFF",
+        "font_size": 12
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -33,6 +44,7 @@
     }
   },
   "order": [
+    "custom_announcement_bar_PXqcgW",
     "header"
   ]
 }
