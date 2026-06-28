@@ -1126,15 +1126,6 @@
         "unhighlighted_x_color": "#ffffff"
       }
     },
-    "custom_liquid_WnMk8J": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "customer_reviews_carousel_peh8AG": {
       "type": "customer-reviews-carousel",
       "blocks": {
@@ -1332,7 +1323,6 @@
     "product_benefits_aMMR9W",
     "custom_liquid_6EggRU",
     "product_comparison_cwR3bT",
-    "custom_liquid_WnMk8J",
     "customer_reviews_carousel_peh8AG",
     "custom_liquid_qrmRcK"
   ]
