@@ -67,13 +67,13 @@
           "type": "benefits",
           "settings": {
             "benefits_flex_layout": false,
-            "benefit_1_icon": "filled_circle_check",
+            "benefit_1_icon": "check",
             "benefit_1_custom_svg": "",
             "benefit_1_text": "Rafraîchissez vos pièces sans climatisation",
             "benefit_2_icon": "check",
             "benefit_2_custom_svg": "",
             "benefit_2_text": "Installation simple en 5 minutes",
-            "benefit_3_icon": "filled_circle_check",
+            "benefit_3_icon": "check",
             "benefit_3_custom_svg": "",
             "benefit_3_text": "Ventilateur silencieux (<30 dB)",
             "margin_top": 0,
@@ -101,8 +101,8 @@
         "button_ee48LN"
       ],
       "custom_css": [
-        "@media (max-width: 768px) {.custom-hero__flex {position: relative; } .custom-hero__content {position: absolute; inset: 0; z-index: 2; display: flex; align-items: center; padding: 4vw; } .custom-hero__title, .custom-hero__subtitle, .custom-hero__benefit-item, .custom-hero__rating-text {color: #fff !important; }}",
-        "@media (min-width: 769px) {.custom-hero__content {position: static !important; }}"
+        "@media (max-width:768px){.custom-hero__flex{position:relative; } .custom-hero__content{position:absolute; inset:0; z-index:2; display:flex; align-items:flex-end; padding:4vw 4vw 10vw; } .custom-hero__title, .custom-hero__subtitle, .custom-hero__benefit-item, .custom-hero__rating-text{color:#fff!important; }}",
+        "@media (min-width:769px){.custom-hero__content{position:static!important; } .custom-hero__image{max-height:650px; object-fit:cover; }}"
       ],
       "settings": {
         "use_theme_colors": false,
@@ -126,10 +126,10 @@
         "rating_text_color": "#211a28",
         "star_color": "#211a28",
         "benefit_text_color": "#211a28",
-        "benefit_icon_color": "#211a28",
+        "benefit_icon_color": "#FBA40B",
         "use_global_accent_typography": true,
-        "heading_accent_color": "#211a28",
-        "use_accent_gradient": true,
+        "heading_accent_color": "#DFEDFC",
+        "use_accent_gradient": false,
         "accent_text_gradient": "linear-gradient(45deg, rgba(93, 90, 175, 1), rgba(255, 107, 157, 1) 100%)",
         "accent_font_family": "serif",
         "accent_font_style": "italic",
@@ -164,7 +164,7 @@
         "container_padding_right_mobile": 0,
         "container_padding_bottom_mobile": 0,
         "container_padding_left_mobile": 0,
-        "enable_border": true,
+        "enable_border": false,
         "border_width": 1,
         "border_style": "solid",
         "border_color": "#e5e5e5",
