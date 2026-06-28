@@ -308,11 +308,23 @@
               "social_proof_text_color": "#121212",
               "social_proof_icon_color": "#121212"
             }
+          },
+          "cart_payment_icon_JY9673": {
+            "type": "cart_payment_icon",
+            "settings": {
+              "custom_payment_icons": "visa, afterpay, american_express, apple_pay, paypal, google_pay, mastercard, shopify_pay,  maestro, sofort",
+              "icon_height": 22,
+              "icon_spacing": 6,
+              "alignment": "center",
+              "margin_top": 8,
+              "margin_bottom": 8
+            }
           }
         },
         "block_order": [
           "cart_money_back_guarantee_CJDB6J",
-          "cart_social_proof_bar_wwnhTa"
+          "cart_social_proof_bar_wwnhTa",
+          "cart_payment_icon_JY9673"
         ],
         "settings": {
           "cart_customization_mode": false,
