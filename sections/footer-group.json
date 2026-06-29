@@ -49,7 +49,7 @@
         "social_column_1": {
           "type": "social_column",
           "settings": {
-            "heading": "Follow Us"
+            "heading": ""
           }
         }
       },
@@ -73,7 +73,7 @@
         "brand_description": "",
         "footer_columns": "4",
         "show_footer_bottom": true,
-        "copyright_text": "",
+        "copyright_text": "2026 PASTELMIST",
         "show_payment_icons": true,
         "show_localization": true,
         "enable_country_selector": true,
