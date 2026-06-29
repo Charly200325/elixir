@@ -290,21 +290,6 @@
       "cart-drawer": {
         "type": "cart-drawer",
         "blocks": {
-          "cart_progress_bar_UWabED": {
-            "type": "cart_progress_bar",
-            "settings": {
-              "progress_bar_free_product": "",
-              "shipping_away_text": "You're [missingAmount] away from Free Shipping",
-              "free_product_away_text": "You're [missingAmount] away from [freeProduct]",
-              "shipping_earn_text": "You've earned Free shipping",
-              "free_product_earn_text": "You've earned [freeProduct]",
-              "product_free_custom_id_title": "",
-              "cart_drawer_continue_shopping_text_color": "#ffffff",
-              "cart_drawer_progress_active_color": "#000000",
-              "cart_drawer_progress_inactive_color": "#ececec",
-              "cart_drawer_progress_active_icon_fill_color": "#ffffff"
-            }
-          },
           "cart_social_proof_bar_wwnhTa": {
             "type": "cart-social_proof_bar",
             "settings": {
@@ -328,7 +313,6 @@
           }
         },
         "block_order": [
-          "cart_progress_bar_UWabED",
           "cart_social_proof_bar_wwnhTa",
           "cart_payment_icon_JY9673"
         ],
