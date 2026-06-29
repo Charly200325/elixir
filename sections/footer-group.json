@@ -17,8 +17,8 @@
         "menu_column_1": {
           "type": "menu_column",
           "settings": {
-            "heading": "Products",
-            "menu": ""
+            "heading": "Menu",
+            "menu": "main-menu"
           }
         },
         "menu_column_2": {
@@ -60,14 +60,14 @@
         "social_column_1"
       ],
       "settings": {
-        "use_theme_colors": true,
+        "use_theme_colors": false,
         "show_newsletter": false,
         "newsletter_title": "Subscribe to our emails",
         "newsletter_subtitle": "Get the latest updates and special offers",
         "newsletter_placeholder": "Enter your email address",
         "newsletter_button_text": "Subscribe",
-        "show_brand_column": true,
-        "logo_width": 150,
+        "show_brand_column": false,
+        "logo_width": 300,
         "brand_name": "",
         "logo_description": "",
         "brand_description": "",
@@ -81,9 +81,9 @@
         "show_social": true,
         "show_copyright": true,
         "newsletter_bg_color": "#fdffff",
-        "newsletter_text_color": "#333333",
+        "newsletter_text_color": "#671515",
         "newsletter_button_color": "#007bff",
-        "footer_bg_color": "#181b1d",
+        "footer_bg_color": "#141B4D",
         "footer_text_color": "#b0b0b0",
         "footer_heading_color": "#fdffff",
         "footer_border_color": "#333333",
