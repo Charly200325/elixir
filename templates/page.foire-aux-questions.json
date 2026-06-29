@@ -12,12 +12,157 @@
     "main": {
       "type": "main-page",
       "settings": {
+        "use_theme_colors": true,
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "rich_text_Vdt3NM": {
+      "type": "rich-text",
+      "blocks": {
+        "title_DxbFqE": {
+          "type": "title",
+          "settings": {
+            "title": "Foire aux questions",
+            "accent_text": ""
+          }
+        },
+        "subtitle_nYkCH8": {
+          "type": "subtitle",
+          "settings": {
+            "subtitle": "<p>Notre F.A.Q. a été élaborée à partir de vos questions les plus fréquemment posées.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title_DxbFqE",
+        "subtitle_nYkCH8"
+      ],
+      "name": "Rich Text",
+      "settings": {
+        "use_theme_colors": false,
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 20,
+        "title_font_size": 36,
+        "title_font_size_mobile": 38,
+        "title_line_height": 1.3,
+        "title_margin_bottom": 20,
+        "title_color": "#000000",
+        "use_accent_gradient": false,
+        "accent_color": "#ef4a65",
+        "accent_gradient_start": "#ef4a65",
+        "accent_gradient_end": "#ff6b35",
+        "accent_gradient_angle": 45,
+        "subtitle_font_size": 18,
+        "subtitle_font_size_mobile": 16,
+        "subtitle_line_height": 1.6,
+        "subtitle_margin_bottom": 32,
+        "subtitle_max_width": 700,
+        "subtitle_color": "#666666",
+        "button_font_size": 16,
+        "button_font_size_mobile": 14,
+        "button_padding_vertical": 14,
+        "button_padding_horizontal": 28,
+        "button_border_radius": 4,
+        "button_border_width": 0,
+        "button_margin_top": 24,
+        "button_bg_color": "#000000",
+        "button_text_color": "#ffffff",
+        "button_border_color": "#000000",
+        "button_hover_bg_color": "#333333",
+        "button_hover_text_color": "#ffffff",
+        "section_bg_color": "#ffffff",
+        "section_border_radius": 0
+      }
+    },
+    "store_faq_Fk4h4W": {
+      "type": "store-faq",
+      "blocks": {
+        "faq_item_6Eh786": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How do I place an order?",
+            "answer": "<p>To place an order, simply browse our products, add items to your cart, and proceed to checkout. You can review your order before finalizing your purchase.</p>"
+          }
+        },
+        "faq_item_dgBgXh": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What payment methods do you accept?",
+            "answer": "<p>We accept major credit cards, PayPal, Shop Pay, and Apple Pay for your convenience and security.</p>"
+          }
+        },
+        "faq_item_CTHGRh": {
+          "type": "faq_item",
+          "settings": {
+            "question": "How long does shipping take?",
+            "answer": "<p>Standard shipping typically takes 3-5 business days within the continental US. International shipping times vary by location.</p>"
+          }
+        },
+        "faq_item_THExMN": {
+          "type": "faq_item",
+          "settings": {
+            "question": "What is your return policy?",
+            "answer": "<p>We offer a 30-day return policy. If you're not satisfied with your purchase, you can return it within 30 days for a full refund or exchange.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_6Eh786",
+        "faq_item_dgBgXh",
+        "faq_item_CTHGRh",
+        "faq_item_THExMN"
+      ],
+      "name": "Store FAQ",
+      "settings": {
+        "use_theme_colors": false,
+        "heading": "",
+        "subtitle": "<h3><strong>Comment nous contacter ?</strong></h3>",
+        "heading_color": "#000000",
+        "section_padding": 20,
+        "container_padding_mobile": 0,
+        "container_padding_desktop": 15,
+        "section_bg_color": "#FFFFFF",
+        "border_radius": 8,
+        "border_color": "#e5e5e5",
+        "border_style": "full",
+        "question_color": "#000000",
+        "question_bg_color": "#FFFFFF",
+        "answer_color": "#000000",
+        "answer_bg_color": "#FFFFFF",
+        "accordion_mode": true,
+        "image_border_radius": 8,
+        "center_when_no_image": false,
+        "center_max_width": 600,
+        "two_column_desktop": false,
+        "column_gap": 30,
+        "faq_item_spacing": 0,
+        "individual_item_borders": false,
+        "question_padding_top": 15,
+        "question_padding_bottom": 15,
+        "question_padding_left": 20,
+        "question_padding_right": 20,
+        "answer_padding_top": 15,
+        "answer_padding_bottom": 15,
+        "answer_padding_left": 20,
+        "answer_padding_right": 20,
+        "heading_font_size": 36,
+        "heading_font_size_mobile": 30,
+        "subtitle_font_size": 16,
+        "subtitle_font_size_mobile": 14,
+        "question_font_size": 16,
+        "question_font_size_mobile": 14,
+        "answer_font_size": 14,
+        "answer_font_size_mobile": 13
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_Vdt3NM",
+    "store_faq_Fk4h4W"
   ]
 }
