@@ -306,6 +306,20 @@
             "question": "Puis-je demander un remboursement vers un autre mode de paiement ?",
             "answer": "<p>Nous effectuons les remboursements uniquement vers le mode de paiement utilisé lors de votre commande.</p><p>Si, pour une raison particulière, ce retour vers le moyen de paiement initial n’est pas possible, nous pouvons vous proposer une carte cadeau correspondant au montant total du remboursement.</p>"
           }
+        },
+        "faq_item_hn8LMw": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Le remboursement n'a pas été reçu. Que dois-je faire ?",
+            "answer": "<p>Les remboursements sont toujours effectués sur le mode de paiement utilisé lors de votre achat. Il n’est pas possible de changer de compte ou de carte pour le remboursement.</p><p>Si vous avez changé de carte mais que le compte bancaire d’origine est toujours actif, le remboursement sera crédité sur ce même compte.</p><p>Si vous ne voyez toujours pas le remboursement après plusieurs jours ouvrables, nous vous conseillons de vérifier directement avec votre banque ou votre établissement de paiement, puis de nous contacter avec votre preuve de remboursement manquant afin que nous puissions vérifier de notre côté.</p>"
+          }
+        },
+        "faq_item_JDhycD": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Que se passe-t-il si je dépasse le délai de retour (30 jours) ?",
+            "answer": "<p>Si vous avez dépassé le délai de 30 jours pour effectuer un retour, contactez-nous dès que possible à l’adresse suivante : info@pastelmist.com</p><p>Dans votre message, précisez votre numéro de commande et expliquez la raison du dépassement du délai.</p><p>Même si nous ne sommes pas obligés d’accepter le retour, nous étudierons votre situation et, dans certains cas, nous pourrons envisager une solution adaptée.</p>"
+          }
         }
       },
       "block_order": [
@@ -316,7 +330,9 @@
         "faq_item_Ub8xAh",
         "faq_item_twMXLp",
         "faq_item_bTQQ3B",
-        "faq_item_8wkfiC"
+        "faq_item_8wkfiC",
+        "faq_item_hn8LMw",
+        "faq_item_JDhycD"
       ],
       "name": "Store FAQ",
       "settings": {
