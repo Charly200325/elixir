@@ -568,5 +568,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      "div[data-testid=\"rating-summary-count\"] > span {display: none !important;}"
+    ]
   }
 }
