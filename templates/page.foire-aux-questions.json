@@ -84,8 +84,8 @@
         "faq_item_6Eh786": {
           "type": "faq_item",
           "settings": {
-            "question": "How do I place an order?",
-            "answer": "<p>To place an order, simply browse our products, add items to your cart, and proceed to checkout. You can review your order before finalizing your purchase.</p>"
+            "question": "Comment puis-je vous contacter ?",
+            "answer": "<p>Nous vous invitons d’abord à consulter les articles d’aide disponibles sur notre site. Si vous ne trouvez pas la réponse à votre question, vous pouvez nous contacter :</p><ul><li>via le formulaire de notre page de contact<br/></li><li>ou par e-mail à l’adresse suivante : info@pastelmist.com<br/></li></ul><p>La satisfaction de nos clients est très importante pour nous. Nous répondons généralement sous 24 à 48 heures.</p><p>Merci de n’envoyer qu’un seul message à la fois et d’utiliser une seule méthode de contact pour une même demande, afin de ne pas rallonger les délais de réponse.</p><p>Pour que nous puissions vous aider rapidement, pensez à indiquer un maximum d’informations.</p>"
           }
         },
         "faq_item_dgBgXh": {
@@ -120,19 +120,19 @@
       "settings": {
         "use_theme_colors": false,
         "heading": "",
-        "subtitle": "<h3><strong>Comment nous contacter ?</strong></h3>",
+        "subtitle": "<h3><strong>Comment nous contacter ?👩🏻‍💻</strong></h3>",
         "heading_color": "#000000",
         "section_padding": 20,
         "container_padding_mobile": 0,
         "container_padding_desktop": 15,
-        "section_bg_color": "#FFFFFF",
+        "section_bg_color": "#ffffff",
         "border_radius": 8,
         "border_color": "#e5e5e5",
         "border_style": "full",
         "question_color": "#000000",
-        "question_bg_color": "#FFFFFF",
+        "question_bg_color": "#ffffff",
         "answer_color": "#000000",
-        "answer_bg_color": "#FFFFFF",
+        "answer_bg_color": "#ffffff",
         "accordion_mode": true,
         "image_border_radius": 8,
         "center_when_no_image": false,
