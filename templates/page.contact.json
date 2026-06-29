@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "use_theme_colors": true,
         "padding_top": 36,
@@ -54,7 +55,7 @@
         "text_alignment": "center",
         "mobile_text_alignment": "center",
         "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_bottom": 36,
         "padding_horizontal": 20,
         "title_font_size": 36,
         "title_font_size_mobile": 28,
@@ -71,7 +72,7 @@
         "subtitle_line_height": 1.6,
         "subtitle_margin_bottom": 32,
         "subtitle_max_width": 700,
-        "subtitle_color": "#666666",
+        "subtitle_color": "#000000",
         "button_font_size": 16,
         "button_font_size_mobile": 14,
         "button_padding_vertical": 14,
@@ -103,29 +104,19 @@
           "settings": {
             "subtitle": "<p><strong>Pour chaque demande : </strong>Veuillez nous communiquer votre numéro de commande à quatre chiffres (ex: #6543) ainsi que le numéro de suivi </p><p><strong>Expédition</strong> : Nous expédions vos colis dans un délai de 24 à 48h du lundi au vendredi</p><p><strong>Livraison</strong> : Le délai de livraison vers la France et la Belgique est de 4 à 7 jours ouvrables du lundi au vendredi.</p><p><strong>Suivi de livraison </strong>:<strong> </strong>vous êtes averti par email à chaque étape, veuillez vérifier vos spams.</p><p><strong>Confirmation de commande</strong> : veuillez vérifier vos spams.</p>"
           }
-        },
-        "button_DXAyQY": {
-          "type": "button",
-          "settings": {
-            "use_global_button_styling": true,
-            "button_text": "FAQ",
-            "button_link": "shopify://pages/foire-aux-questions",
-            "button_open_new_tab": false
-          }
         }
       },
       "block_order": [
         "title_4Xpxym",
-        "subtitle_GEBBVQ",
-        "button_DXAyQY"
+        "subtitle_GEBBVQ"
       ],
       "name": "Rich Text",
       "settings": {
         "use_theme_colors": false,
         "text_alignment": "center",
         "mobile_text_alignment": "center",
-        "padding_top": 60,
-        "padding_bottom": 60,
+        "padding_top": 12,
+        "padding_bottom": 12,
         "padding_horizontal": 20,
         "title_font_size": 36,
         "title_font_size_mobile": 28,
@@ -163,7 +154,7 @@
       "type": "contact-form",
       "settings": {
         "use_theme_colors": false,
-        "heading": "",
+        "heading": "Formulaire de contact",
         "heading_size": "h1",
         "background_color": "#ffffff",
         "heading_color": "#000000",
