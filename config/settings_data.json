@@ -19,7 +19,7 @@
     "global_accent_text_gradient_dark": "linear-gradient(45deg, rgba(244, 46, 117, 1), rgba(93, 90, 175, 1) 99%)",
     "global_header_color": "#FFFFFF",
     "global_footer_color": "#211a28",
-    "global_drawer_color": "#211a28",
+    "global_drawer_color": "#FFFFFF",
     "global_drawer_text_color": "#171515",
     "global_dropdown_color": "#211a28",
     "global_section_use_gradient_background": true,
