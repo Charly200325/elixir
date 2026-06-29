@@ -292,6 +292,20 @@
             "question": "Il manque un article dans ma commande. Que dois-je faire ?",
             "answer": "<p>Si un article manque dans votre commande, contactez-nous rapidement afin que nous puissions vérifier la situation et corriger le problème au plus vite.</p><p>Veuillez noter qu’il est possible de recevoir deux numéros de suivi pour une même commande, car certains articles peuvent être expédiés depuis des entrepôts différents.</p><p>Toutes les réclamations pour un article manquant doivent être faites dans un délai de 7 jours suivant la date de livraison indiquée.</p>"
           }
+        },
+        "faq_item_bTQQ3B": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Que se passe-t-il si vous m'envoyez le mauvais article ?",
+            "answer": "<p>Si vous recevez un article qui ne correspond pas à votre commande, contactez-nous rapidement.</p><p>Indiquez-nous votre numéro de commande, l’article reçu et l’article que vous auriez dû recevoir. Notre équipe d’assistance se chargera de corriger l’erreur dans les plus brefs délais.</p><p>Vous devez nous signaler tout article incorrect dans un délai de 7 jours suivant la date de livraison.</p>"
+          }
+        },
+        "faq_item_8wkfiC": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Puis-je demander un remboursement vers un autre mode de paiement ?",
+            "answer": "<p>Nous effectuons les remboursements uniquement vers le mode de paiement utilisé lors de votre commande.</p><p>Si, pour une raison particulière, ce retour vers le moyen de paiement initial n’est pas possible, nous pouvons vous proposer une carte cadeau correspondant au montant total du remboursement.</p>"
+          }
         }
       },
       "block_order": [
@@ -300,7 +314,9 @@
         "faq_item_Un4ER4",
         "faq_item_fbVEqn",
         "faq_item_Ub8xAh",
-        "faq_item_twMXLp"
+        "faq_item_twMXLp",
+        "faq_item_bTQQ3B",
+        "faq_item_8wkfiC"
       ],
       "name": "Store FAQ",
       "settings": {
