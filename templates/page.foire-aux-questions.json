@@ -181,13 +181,21 @@
             "question": "Comment suivre ma commande ?",
             "answer": "<p>Après avoir validé votre achat, vous recevrez un email de confirmation de commande. Cet email contient un récapitulatif de votre commande ainsi que votre numéro de commande.</p><p>Pour suivre votre commande, procédez ainsi :</p><ol><li>Rendez-vous sur la page « Suivre ma commande », disponible dans notre FAQ.<br/></li><li>Recherchez le numéro de suivi qui vous a été envoyé dans un email séparé de l’email de confirmation. Attention, le numéro à quatre chiffres commençant par « # » est votre numéro de commande, ce n’est pas le numéro de suivi.<br/></li><li>Saisissez le numéro de suivi dans la barre prévue à cet effet, puis cliquez sur « Rechercher » pour afficher l’état de votre commande.</li></ol>"
           }
+        },
+        "faq_item_EWz8C7": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Ma commande est retardée, il n'y a pas de mise à jour sur le lien de suivi ?",
+            "answer": "<p>Ma commande est retardée, il n'y a pas de mise à jour sur le lien de suivi ?</p><p>Pour les clients européens, le délai d’expédition est de 1 à 2 jours ouvrables, puis le délai de livraison est de 7 à 9 jours ouvrables. Il est donc possible que le suivi ne se mette pas à jour immédiatement pendant cette période.</p><p>Si votre commande dépasse ces délais ou si vous avez un doute, vous pouvez nous contacter :</p><ul><li>par e-mail : info@pastelmist.com<br/></li><li>via notre formulaire de contact disponible sur notre site.</li></ul>"
+          }
         }
       },
       "block_order": [
         "faq_item_K6kwLd",
         "faq_item_WNYEPn",
         "faq_item_PTKpjz",
-        "faq_item_nb7U9m"
+        "faq_item_nb7U9m",
+        "faq_item_EWz8C7"
       ],
       "name": "Store FAQ",
       "settings": {
