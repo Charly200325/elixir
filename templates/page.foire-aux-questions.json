@@ -268,15 +268,15 @@
         "faq_item_Un4ER4": {
           "type": "faq_item",
           "settings": {
-            "question": "Offrez-vous des frais de port ?",
-            "answer": "<p>Livraison offerte pour toute commande selon nos promotions et réductions exclusives !</p>"
+            "question": "Quel est le statut de mon remboursement ?",
+            "answer": "<p>Une fois votre retour reçu par Pastelmist, il est vérifié avant toute validation.</p><p>Pour être remboursé, le produit doit remplir ces conditions :</p><ul><li>ne pas avoir été endommagé <br/></li><li>être dans son emballage d’origine, en bon état<br/></li></ul><p>Après validation de votre retour, Pastelmist procède au remboursement dans un délai maximum de 15 jours ouvrables.</p>"
           }
         },
         "faq_item_fbVEqn": {
           "type": "faq_item",
           "settings": {
-            "question": "Comment suivre ma commande ?",
-            "answer": "<p>Après avoir validé votre achat, vous recevrez un email de confirmation de commande. Cet email contient un récapitulatif de votre commande ainsi que votre numéro de commande.</p><p>Pour suivre votre commande, procédez ainsi :</p><ol><li>Rendez-vous sur la page « Suivre ma commande », disponible dans notre FAQ.<br/></li><li>Recherchez le numéro de suivi qui vous a été envoyé dans un email séparé de l’email de confirmation. Attention, le numéro à quatre chiffres commençant par « # » est votre numéro de commande, ce n’est pas le numéro de suivi.<br/></li><li>Saisissez le numéro de suivi dans la barre prévue à cet effet, puis cliquez sur « Rechercher » pour afficher l’état de votre commande.</li></ol>"
+            "question": "J'ai reçu un article endommagé / défectueux. Que dois-je faire ?",
+            "answer": "<p>Si vous recevez un article endommagé ou défectueux, voici la marche à suivre :</p><ol><li>Prenez une photo du produit concerné.<br/></li><li>Contactez notre service client et joignez les photos à votre message.<br/></li></ol><p>Si le défaut est confirmé, vous n’aurez pas besoin de renvoyer le produit défectueux.</p>"
           }
         },
         "faq_item_Ub8xAh": {
