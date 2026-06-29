@@ -101,26 +101,91 @@
             "question": "Est-ce que Pastelmist possède un magasin physique ?",
             "answer": "<p>Non, Pastelmist est une boutique en ligne uniquement. Nous n’avons pas de magasin physique.</p><p>Vous pouvez découvrir et acheter tous nos produits directement sur notre site. Ce fonctionnement nous permet de proposer une large gamme d’articles et de les mettre à jour régulièrement.</p><p>Si vous avez des questions sur un produit ou besoin de précisions, vous pouvez nous contacter via notre formulaire en ligne ou notre service client.</p>"
           }
-        },
-        "faq_item_THExMN": {
-          "type": "faq_item",
-          "settings": {
-            "question": "What is your return policy?",
-            "answer": "<p>We offer a 30-day return policy. If you're not satisfied with your purchase, you can return it within 30 days for a full refund or exchange.</p>"
-          }
         }
       },
       "block_order": [
         "faq_item_6Eh786",
         "faq_item_dgBgXh",
-        "faq_item_CTHGRh",
-        "faq_item_THExMN"
+        "faq_item_CTHGRh"
       ],
       "name": "Store FAQ",
       "settings": {
         "use_theme_colors": false,
         "heading": "",
-        "subtitle": "<h3><strong>Comment nous contacter ?👩🏻‍💻</strong></h3>",
+        "subtitle": "<h2><strong>Comment nous contacter ?👩🏻‍💻</strong></h2>",
+        "heading_color": "#000000",
+        "section_padding": 20,
+        "container_padding_mobile": 0,
+        "container_padding_desktop": 15,
+        "section_bg_color": "#ffffff",
+        "border_radius": 8,
+        "border_color": "#e5e5e5",
+        "border_style": "full",
+        "question_color": "#000000",
+        "question_bg_color": "#ffffff",
+        "answer_color": "#000000",
+        "answer_bg_color": "#ffffff",
+        "accordion_mode": true,
+        "image_border_radius": 8,
+        "center_when_no_image": false,
+        "center_max_width": 600,
+        "two_column_desktop": false,
+        "column_gap": 30,
+        "faq_item_spacing": 0,
+        "individual_item_borders": false,
+        "question_padding_top": 15,
+        "question_padding_bottom": 15,
+        "question_padding_left": 20,
+        "question_padding_right": 20,
+        "answer_padding_top": 15,
+        "answer_padding_bottom": 15,
+        "answer_padding_left": 20,
+        "answer_padding_right": 20,
+        "heading_font_size": 36,
+        "heading_font_size_mobile": 30,
+        "subtitle_font_size": 16,
+        "subtitle_font_size_mobile": 14,
+        "question_font_size": 16,
+        "question_font_size_mobile": 14,
+        "answer_font_size": 14,
+        "answer_font_size_mobile": 13
+      }
+    },
+    "store_faq_4Ux3PV": {
+      "type": "store-faq",
+      "blocks": {
+        "faq_item_K6kwLd": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Comment puis-je vous contacter ?",
+            "answer": "<p>Nous vous invitons d’abord à consulter les articles d’aide disponibles sur notre site. Si vous ne trouvez pas la réponse à votre question, vous pouvez nous contacter :</p><ul><li>via le formulaire de notre page de contact<br/></li><li>ou par e-mail à l’adresse suivante : info@pastelmist.com<br/></li></ul><p>La satisfaction de nos clients est très importante pour nous. Nous répondons généralement sous 24 à 48 heures.</p><p>Merci de n’envoyer qu’un seul message à la fois et d’utiliser une seule méthode de contact pour une même demande, afin de ne pas rallonger les délais de réponse.</p><p>Pour que nous puissions vous aider rapidement, pensez à indiquer un maximum d’informations.</p>"
+          }
+        },
+        "faq_item_WNYEPn": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Avez-vous un numéro de téléphone ?",
+            "answer": "<p>Nous avons un numéro de téléphone en cours d’installation, visible en bas de notre site. Toutefois, il est actuellement en maintenance et ne peut pas encore prendre en charge un grand nombre d’appels, car nous ne disposons pas de centre d’appel.</p><p>Pastelmist est une marque conçue pour fonctionner en ligne, y compris pour le service client. Il est possible que vous receviez parfois une réponse automatique, mais tous nos canaux sont gérés par de vraies personnes dont le but est de vous aider rapidement et efficacement.</p><p>Merci pour votre compréhension.</p>"
+          }
+        },
+        "faq_item_PTKpjz": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Est-ce que Pastelmist possède un magasin physique ?",
+            "answer": "<p>Non, Pastelmist est une boutique en ligne uniquement. Nous n’avons pas de magasin physique.</p><p>Vous pouvez découvrir et acheter tous nos produits directement sur notre site. Ce fonctionnement nous permet de proposer une large gamme d’articles et de les mettre à jour régulièrement.</p><p>Si vous avez des questions sur un produit ou besoin de précisions, vous pouvez nous contacter via notre formulaire en ligne ou notre service client.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_K6kwLd",
+        "faq_item_WNYEPn",
+        "faq_item_PTKpjz"
+      ],
+      "name": "Store FAQ",
+      "settings": {
+        "use_theme_colors": false,
+        "heading": "",
+        "subtitle": "<h2>Informations sur les livraisons 🚚</h2>",
         "heading_color": "#000000",
         "section_padding": 20,
         "container_padding_mobile": 0,
@@ -163,6 +228,7 @@
   "order": [
     "main",
     "rich_text_Vdt3NM",
-    "store_faq_Fk4h4W"
+    "store_faq_Fk4h4W",
+    "store_faq_4Ux3PV"
   ]
 }
