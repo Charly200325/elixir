@@ -247,12 +247,110 @@
         "answer_font_size": 14,
         "answer_font_size_mobile": 13
       }
+    },
+    "store_faq_Jx4JUB": {
+      "type": "store-faq",
+      "blocks": {
+        "faq_item_QhRKCR": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Expédition et livraison",
+            "answer": "<p>Nous offrons la livraison gratuite avec suivi pour toutes les commandes supérieures à 50€, en France et en Belgique.<br/><br/>Délai d’expédition : votre colis est envoyé sous 1 à 2 jours ouvrés.<br/><br/>Délai de livraison : comptez ensuite 7 à 9 jours ouvrés pour recevoir votre commande.</p><p>Nous travaillons avec différents transporteurs nationaux et internationaux afin d’assurer une livraison fiable et dans les meilleurs délais.</p><p>Si vous avez un doute concernant la livraison dans votre région, vous pouvez nous écrire à l’adresse suivante : info@pastelmist.com.</p>"
+          }
+        },
+        "faq_item_p7B8Ky": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Quel est le délai de livraison de ma commande ?",
+            "answer": "<p>Le délai de livraison en France et en Belgique est de 7 à 9 jours ouvrés.</p><p>Pendant la période de Noël, ce délai peut être plus long en raison du grand nombre de commandes.</p><p>Dans la plupart des cas, nos colis arrivent en moins de 15 jours ouvrables. Cependant, certains événements comme de grosses promotions, des conditions météo difficiles, des situations géopolitiques ou des ruptures de stock peuvent rallonger le délai.</p><p>Si vous trouvez le délai inhabituellement long, vous pouvez suivre votre colis à tout moment grâce au numéro de suivi que vous avez reçu par e-mail.</p>"
+          }
+        },
+        "faq_item_Un4ER4": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Offrez-vous des frais de port ?",
+            "answer": "<p>Livraison offerte pour toute commande selon nos promotions et réductions exclusives !</p>"
+          }
+        },
+        "faq_item_fbVEqn": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Comment suivre ma commande ?",
+            "answer": "<p>Après avoir validé votre achat, vous recevrez un email de confirmation de commande. Cet email contient un récapitulatif de votre commande ainsi que votre numéro de commande.</p><p>Pour suivre votre commande, procédez ainsi :</p><ol><li>Rendez-vous sur la page « Suivre ma commande », disponible dans notre FAQ.<br/></li><li>Recherchez le numéro de suivi qui vous a été envoyé dans un email séparé de l’email de confirmation. Attention, le numéro à quatre chiffres commençant par « # » est votre numéro de commande, ce n’est pas le numéro de suivi.<br/></li><li>Saisissez le numéro de suivi dans la barre prévue à cet effet, puis cliquez sur « Rechercher » pour afficher l’état de votre commande.</li></ol>"
+          }
+        },
+        "faq_item_Ub8xAh": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Ma commande est retardée, il n'y a pas de mise à jour sur le lien de suivi ?",
+            "answer": "<p>Ma commande est retardée, il n'y a pas de mise à jour sur le lien de suivi ?</p><p>Pour les clients européens, le délai d’expédition est de 1 à 2 jours ouvrables, puis le délai de livraison est de 7 à 9 jours ouvrables. Il est donc possible que le suivi ne se mette pas à jour immédiatement pendant cette période.</p><p>Si votre commande dépasse ces délais ou si vous avez un doute, vous pouvez nous contacter :</p><ul><li>par e-mail : info@pastelmist.com<br/></li><li>via notre formulaire de contact disponible sur notre site.</li></ul>"
+          }
+        },
+        "faq_item_twMXLp": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Commande marquée comme livrée mais non reçue ?",
+            "answer": "<p></p><p>Si votre colis est indiqué comme livré mais que vous ne l’avez pas reçu, commencez par vérifier auprès de vos voisins ou dans votre immeuble (boîte aux lettres, concierge, etc.).</p><p>Si après trois jours ouvrables vous n’avez toujours rien reçu, contactez-nous à l’adresse suivante :<br/><br/>info@pastelmist.com</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_QhRKCR",
+        "faq_item_p7B8Ky",
+        "faq_item_Un4ER4",
+        "faq_item_fbVEqn",
+        "faq_item_Ub8xAh",
+        "faq_item_twMXLp"
+      ],
+      "name": "Store FAQ",
+      "settings": {
+        "use_theme_colors": false,
+        "heading": "",
+        "subtitle": "<h2>Échanges & Retours 🔄</h2>",
+        "heading_color": "#000000",
+        "section_padding": 20,
+        "container_padding_mobile": 0,
+        "container_padding_desktop": 15,
+        "section_bg_color": "#ffffff",
+        "border_radius": 8,
+        "border_color": "#e5e5e5",
+        "border_style": "full",
+        "question_color": "#000000",
+        "question_bg_color": "#ffffff",
+        "answer_color": "#000000",
+        "answer_bg_color": "#ffffff",
+        "accordion_mode": true,
+        "image_border_radius": 8,
+        "center_when_no_image": false,
+        "center_max_width": 600,
+        "two_column_desktop": false,
+        "column_gap": 30,
+        "faq_item_spacing": 0,
+        "individual_item_borders": false,
+        "question_padding_top": 15,
+        "question_padding_bottom": 15,
+        "question_padding_left": 20,
+        "question_padding_right": 20,
+        "answer_padding_top": 15,
+        "answer_padding_bottom": 15,
+        "answer_padding_left": 20,
+        "answer_padding_right": 20,
+        "heading_font_size": 36,
+        "heading_font_size_mobile": 30,
+        "subtitle_font_size": 16,
+        "subtitle_font_size_mobile": 14,
+        "question_font_size": 16,
+        "question_font_size_mobile": 14,
+        "answer_font_size": 14,
+        "answer_font_size_mobile": 13
+      }
     }
   },
   "order": [
     "main",
     "rich_text_Vdt3NM",
     "store_faq_Fk4h4W",
-    "store_faq_4Ux3PV"
+    "store_faq_4Ux3PV",
+    "store_faq_Jx4JUB"
   ]
 }
