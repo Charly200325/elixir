@@ -11,8 +11,8 @@
   "current": {
     "logo": "shopify://shop_images/IMG_0340.png",
     "logo_width": 170,
-    "global_section_background_color": "#141B4D",
-    "global_section_text_color": "#FFFFFF",
+    "global_section_background_color": "#FFFFFF",
+    "global_section_text_color": "#807A7A",
     "global_section_accent_1_color": "#211a28",
     "global_section_accent_2_color": "#5d5aaf",
     "global_accent_text_gradient_light": "linear-gradient(45deg, rgba(244, 46, 117, 1), rgba(93, 90, 175, 1) 100%)",
