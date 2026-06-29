@@ -157,29 +157,37 @@
         "faq_item_K6kwLd": {
           "type": "faq_item",
           "settings": {
-            "question": "Comment puis-je vous contacter ?",
-            "answer": "<p>Nous vous invitons d’abord à consulter les articles d’aide disponibles sur notre site. Si vous ne trouvez pas la réponse à votre question, vous pouvez nous contacter :</p><ul><li>via le formulaire de notre page de contact<br/></li><li>ou par e-mail à l’adresse suivante : info@pastelmist.com<br/></li></ul><p>La satisfaction de nos clients est très importante pour nous. Nous répondons généralement sous 24 à 48 heures.</p><p>Merci de n’envoyer qu’un seul message à la fois et d’utiliser une seule méthode de contact pour une même demande, afin de ne pas rallonger les délais de réponse.</p><p>Pour que nous puissions vous aider rapidement, pensez à indiquer un maximum d’informations.</p>"
+            "question": "Expédition et livraison",
+            "answer": "<p>Nous offrons la livraison gratuite avec suivi pour toutes les commandes supérieures à 50€, en France et en Belgique.<br/><br/>Délai d’expédition : votre colis est envoyé sous 1 à 2 jours ouvrés.<br/><br/>Délai de livraison : comptez ensuite 7 à 9 jours ouvrés pour recevoir votre commande.</p><p>Nous travaillons avec différents transporteurs nationaux et internationaux afin d’assurer une livraison fiable et dans les meilleurs délais.</p><p>Si vous avez un doute concernant la livraison dans votre région, vous pouvez nous écrire à l’adresse suivante : info@pastelmist.com.</p>"
           }
         },
         "faq_item_WNYEPn": {
           "type": "faq_item",
           "settings": {
-            "question": "Avez-vous un numéro de téléphone ?",
-            "answer": "<p>Nous avons un numéro de téléphone en cours d’installation, visible en bas de notre site. Toutefois, il est actuellement en maintenance et ne peut pas encore prendre en charge un grand nombre d’appels, car nous ne disposons pas de centre d’appel.</p><p>Pastelmist est une marque conçue pour fonctionner en ligne, y compris pour le service client. Il est possible que vous receviez parfois une réponse automatique, mais tous nos canaux sont gérés par de vraies personnes dont le but est de vous aider rapidement et efficacement.</p><p>Merci pour votre compréhension.</p>"
+            "question": "Quel est le délai de livraison de ma commande ?",
+            "answer": "<p>Le délai de livraison en France et en Belgique est de 7 à 9 jours ouvrés.</p><p>Pendant la période de Noël, ce délai peut être plus long en raison du grand nombre de commandes.</p><p>Dans la plupart des cas, nos colis arrivent en moins de 15 jours ouvrables. Cependant, certains événements comme de grosses promotions, des conditions météo difficiles, des situations géopolitiques ou des ruptures de stock peuvent rallonger le délai.</p><p>Si vous trouvez le délai inhabituellement long, vous pouvez suivre votre colis à tout moment grâce au numéro de suivi que vous avez reçu par e-mail.</p>"
           }
         },
         "faq_item_PTKpjz": {
           "type": "faq_item",
           "settings": {
-            "question": "Est-ce que Pastelmist possède un magasin physique ?",
-            "answer": "<p>Non, Pastelmist est une boutique en ligne uniquement. Nous n’avons pas de magasin physique.</p><p>Vous pouvez découvrir et acheter tous nos produits directement sur notre site. Ce fonctionnement nous permet de proposer une large gamme d’articles et de les mettre à jour régulièrement.</p><p>Si vous avez des questions sur un produit ou besoin de précisions, vous pouvez nous contacter via notre formulaire en ligne ou notre service client.</p>"
+            "question": "Offrez-vous des frais de port ?",
+            "answer": "<p>Livraison offerte pour toute commande selon nos promotions et réductions exclusives !</p>"
+          }
+        },
+        "faq_item_nb7U9m": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Comment suivre ma commande ?",
+            "answer": "<p>Après avoir validé votre achat, vous recevrez un email de confirmation de commande. Cet email contient un récapitulatif de votre commande ainsi que votre numéro de commande.</p><p>Pour suivre votre commande, procédez ainsi :</p><ol><li>Rendez-vous sur la page « Suivre ma commande », disponible dans notre FAQ.<br/></li><li>Recherchez le numéro de suivi qui vous a été envoyé dans un email séparé de l’email de confirmation. Attention, le numéro à quatre chiffres commençant par « # » est votre numéro de commande, ce n’est pas le numéro de suivi.<br/></li><li>Saisissez le numéro de suivi dans la barre prévue à cet effet, puis cliquez sur « Rechercher » pour afficher l’état de votre commande.</li></ol>"
           }
         }
       },
       "block_order": [
         "faq_item_K6kwLd",
         "faq_item_WNYEPn",
-        "faq_item_PTKpjz"
+        "faq_item_PTKpjz",
+        "faq_item_nb7U9m"
       ],
       "name": "Store FAQ",
       "settings": {
