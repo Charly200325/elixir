@@ -91,15 +91,15 @@
         "faq_item_dgBgXh": {
           "type": "faq_item",
           "settings": {
-            "question": "What payment methods do you accept?",
-            "answer": "<p>We accept major credit cards, PayPal, Shop Pay, and Apple Pay for your convenience and security.</p>"
+            "question": "Avez-vous un numéro de téléphone ?",
+            "answer": "<p>Nous avons un numéro de téléphone en cours d’installation, visible en bas de notre site. Toutefois, il est actuellement en maintenance et ne peut pas encore prendre en charge un grand nombre d’appels, car nous ne disposons pas de centre d’appel.</p><p>Pastelmist est une marque conçue pour fonctionner en ligne, y compris pour le service client. Il est possible que vous receviez parfois une réponse automatique, mais tous nos canaux sont gérés par de vraies personnes dont le but est de vous aider rapidement et efficacement.</p><p>Merci pour votre compréhension.</p>"
           }
         },
         "faq_item_CTHGRh": {
           "type": "faq_item",
           "settings": {
-            "question": "How long does shipping take?",
-            "answer": "<p>Standard shipping typically takes 3-5 business days within the continental US. International shipping times vary by location.</p>"
+            "question": "Est-ce que Pastelmist possède un magasin physique ?",
+            "answer": "<p>Non, Pastelmist est une boutique en ligne uniquement. Nous n’avons pas de magasin physique.</p><p>Vous pouvez découvrir et acheter tous nos produits directement sur notre site. Ce fonctionnement nous permet de proposer une large gamme d’articles et de les mettre à jour régulièrement.</p><p>Si vous avez des questions sur un produit ou besoin de précisions, vous pouvez nous contacter via notre formulaire en ligne ou notre service client.</p>"
           }
         },
         "faq_item_THExMN": {
