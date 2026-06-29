@@ -377,6 +377,135 @@
         "answer_font_size": 14,
         "answer_font_size_mobile": 13
       }
+    },
+    "store_faq_gBJtpF": {
+      "type": "store-faq",
+      "blocks": {
+        "faq_item_XCeePR": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Comment passer une commande sur Pastelmist ?",
+            "answer": "<p>Pour passer une commande sur Pastelmist, suivez ces étapes :</p><ol><li>Trouvez le produit que vous souhaitez commander sur notre site.<br/></li><li>Si nécessaire, choisissez la couleur et la taille souhaitées.<br/></li><li>Vérifiez la quantité que vous voulez commander.<br/></li><li>Cliquez sur \"Ajouter au panier\".<br/></li><li>Consultez votre panier et, lorsque vous êtes prêt, cliquez sur \"Valider le panier\".<br/></li><li>Renseignez les informations demandées : coordonnées, adresse de livraison, numéro de téléphone.<br/></li><li>Si vous avez un code promo, saisissez-le dans le champ prévu et validez-le.</li></ol>"
+          }
+        },
+        "faq_item_7ydbV7": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Quelle est la sécurité de la boutique en ligne Pastelmist ?",
+            "answer": "<p>Nous appliquons des normes de sécurité très strictes pour protéger vos données.</p><p>Lors de vos paiements, vos informations de carte bancaire et vos données personnelles sont chiffrées grâce à la technologie SSL (Secure Socket Layer) et respectent le niveau 1 de la norme PCI, utilisée pour sécuriser les paiements en ligne.</p><p>Nous ne vendons, ne louons et ne partageons jamais vos informations personnelles avec des tiers.</p><p>Si vous avez des questions concernant la sécurité ou la protection de vos données, vous pouvez nous contacter et nous vous répondrons avec plaisir.</p>"
+          }
+        },
+        "faq_item_TUmyGw": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Où appliquer le code de réduction ?",
+            "answer": "<p></p><ol><li>Vérifiez bien l’écriture du code : les majuscules, minuscules et espaces doivent être exactement les mêmes.<br/></li><li>Un seul code de réduction peut être utilisé par commande.<br/></li><li>Lors du paiement, regardez le récapitulatif de votre commande sur le côté droit de la page.<br/></li><li>Repérez le champ \"code de réduction\".<br/></li><li>Tapez votre code dans ce champ.<br/></li><li>Cliquez sur \"Appliquer\".<br/></li><li>Le montant total se mettra automatiquement à jour pour afficher la réduction.<br/></li></ol><p>Si vous avez des questions, vous pouvez nous contacter.</p>"
+          }
+        },
+        "faq_item_FwFDGG": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Quels sont les modes de paiement acceptés ?",
+            "answer": "<p></p><ol><li>Nous acceptons les cartes de crédit et de débit suivantes :<br/>VISA<br/>Mastercard<br/>American Express<br/>Maestro<br/></li><li>Vous pouvez aussi payer via :<br/>Apple Pay<br/>Google Pay<br/></li><li>Notre devise de base est l’euro (€). Si vous commandez depuis l’étranger, le montant final dépendra du taux de change appliqué par votre banque ou votre fournisseur de paiement.<br/></li><li>Les cartes cadeaux prépayées sont également acceptées pour régler votre commande.</li></ol>"
+          }
+        },
+        "faq_item_H46pzP": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Où se trouve mon numéro de commande ?",
+            "answer": "<p></p><ol><li>Le numéro de commande est créé automatiquement lorsque vous finalisez votre achat. C’est un identifiant unique composé d’au moins 4 chiffres.<br/></li><li>Pour le retrouver, consultez l’e-mail de confirmation de commande que nous vous avons envoyé. Pensez aussi à vérifier vos dossiers \"Spams\" ou \"Courriers indésirables\".<br/></li><li>Si vous ne trouvez toujours pas votre numéro de commande, il est possible qu’une erreur se soit glissée dans votre adresse e-mail lors de la commande.</li></ol><p>Dans ce cas, contactez notre service clientèle. Nous pourrons vous aider à retrouver les informations liées à votre commande.</p>"
+          }
+        },
+        "faq_item_A9iHgp": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Il manque un article dans ma commande. Que dois-je faire ?",
+            "answer": "<p>Si un article manque dans votre commande, contactez-nous rapidement afin que nous puissions vérifier la situation et corriger le problème au plus vite.</p><p>Veuillez noter qu’il est possible de recevoir deux numéros de suivi pour une même commande, car certains articles peuvent être expédiés depuis des entrepôts différents.</p><p>Toutes les réclamations pour un article manquant doivent être faites dans un délai de 7 jours suivant la date de livraison indiquée.</p>"
+          }
+        },
+        "faq_item_QAcjhU": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Que se passe-t-il si vous m'envoyez le mauvais article ?",
+            "answer": "<p>Si vous recevez un article qui ne correspond pas à votre commande, contactez-nous rapidement.</p><p>Indiquez-nous votre numéro de commande, l’article reçu et l’article que vous auriez dû recevoir. Notre équipe d’assistance se chargera de corriger l’erreur dans les plus brefs délais.</p><p>Vous devez nous signaler tout article incorrect dans un délai de 7 jours suivant la date de livraison.</p>"
+          }
+        },
+        "faq_item_qdwE4p": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Puis-je demander un remboursement vers un autre mode de paiement ?",
+            "answer": "<p>Nous effectuons les remboursements uniquement vers le mode de paiement utilisé lors de votre commande.</p><p>Si, pour une raison particulière, ce retour vers le moyen de paiement initial n’est pas possible, nous pouvons vous proposer une carte cadeau correspondant au montant total du remboursement.</p>"
+          }
+        },
+        "faq_item_FJy9Vf": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Le remboursement n'a pas été reçu. Que dois-je faire ?",
+            "answer": "<p>Les remboursements sont toujours effectués sur le mode de paiement utilisé lors de votre achat. Il n’est pas possible de changer de compte ou de carte pour le remboursement.</p><p>Si vous avez changé de carte mais que le compte bancaire d’origine est toujours actif, le remboursement sera crédité sur ce même compte.</p><p>Si vous ne voyez toujours pas le remboursement après plusieurs jours ouvrables, nous vous conseillons de vérifier directement avec votre banque ou votre établissement de paiement, puis de nous contacter avec votre preuve de remboursement manquant afin que nous puissions vérifier de notre côté.</p>"
+          }
+        },
+        "faq_item_p6cJ4N": {
+          "type": "faq_item",
+          "settings": {
+            "question": "Que se passe-t-il si je dépasse le délai de retour (30 jours) ?",
+            "answer": "<p>Si vous avez dépassé le délai de 30 jours pour effectuer un retour, contactez-nous dès que possible à l’adresse suivante : info@pastelmist.com</p><p>Dans votre message, précisez votre numéro de commande et expliquez la raison du dépassement du délai.</p><p>Même si nous ne sommes pas obligés d’accepter le retour, nous étudierons votre situation et, dans certains cas, nous pourrons envisager une solution adaptée.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_item_XCeePR",
+        "faq_item_7ydbV7",
+        "faq_item_TUmyGw",
+        "faq_item_FwFDGG",
+        "faq_item_H46pzP",
+        "faq_item_A9iHgp",
+        "faq_item_QAcjhU",
+        "faq_item_qdwE4p",
+        "faq_item_FJy9Vf",
+        "faq_item_p6cJ4N"
+      ],
+      "name": "Store FAQ",
+      "settings": {
+        "use_theme_colors": false,
+        "heading": "",
+        "subtitle": "<h2>Commander 🛍️</h2>",
+        "heading_color": "#000000",
+        "section_padding": 20,
+        "container_padding_mobile": 0,
+        "container_padding_desktop": 15,
+        "section_bg_color": "#ffffff",
+        "border_radius": 8,
+        "border_color": "#e5e5e5",
+        "border_style": "full",
+        "question_color": "#000000",
+        "question_bg_color": "#ffffff",
+        "answer_color": "#000000",
+        "answer_bg_color": "#ffffff",
+        "accordion_mode": true,
+        "image_border_radius": 8,
+        "center_when_no_image": false,
+        "center_max_width": 600,
+        "two_column_desktop": false,
+        "column_gap": 30,
+        "faq_item_spacing": 0,
+        "individual_item_borders": false,
+        "question_padding_top": 15,
+        "question_padding_bottom": 15,
+        "question_padding_left": 20,
+        "question_padding_right": 20,
+        "answer_padding_top": 15,
+        "answer_padding_bottom": 15,
+        "answer_padding_left": 20,
+        "answer_padding_right": 20,
+        "heading_font_size": 36,
+        "heading_font_size_mobile": 30,
+        "subtitle_font_size": 16,
+        "subtitle_font_size_mobile": 14,
+        "question_font_size": 16,
+        "question_font_size_mobile": 14,
+        "answer_font_size": 14,
+        "answer_font_size_mobile": 13
+      }
     }
   },
   "order": [
@@ -384,6 +513,7 @@
     "rich_text_Vdt3NM",
     "store_faq_Fk4h4W",
     "store_faq_4Ux3PV",
-    "store_faq_Jx4JUB"
+    "store_faq_Jx4JUB",
+    "store_faq_gBJtpF"
   ]
 }
