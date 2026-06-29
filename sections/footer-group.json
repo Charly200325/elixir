@@ -24,8 +24,8 @@
         "menu_column_2": {
           "type": "menu_column",
           "settings": {
-            "heading": "Company",
-            "menu": ""
+            "heading": "Contact",
+            "menu": "footer"
           }
         },
         "custom_links_1": {
