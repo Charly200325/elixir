@@ -789,7 +789,8 @@
     <!-- GB! shipping protection product added ENDS -->
     <!-- gb code ends -->
     <script>
-  function fixSaveText() {
+  function fixCartTexts() {
+    // Corrige "SAVE €40" → "Économisez : €40"
     document.querySelectorAll('.gb-price-drawer-saving').forEach(el => {
       el.childNodes.forEach(node => {
         if (node.nodeType === 3 && node.textContent.includes('SAVE')) {
@@ -797,13 +798,22 @@
         }
       });
     });
+
+    // Corrige "Total: 1 Items" → "Total : 1 article" / "Total : 2 articles"
+    document.querySelectorAll('.total_count').forEach(el => {
+      const match = el.textContent.match(/(\d+)/);
+      if (match) {
+        const count = parseInt(match[1], 10);
+        el.textContent = `Total : ${count} ${count > 1 ? 'articles' : 'article'}`;
+      }
+    });
   }
 
   // Premier passage au chargement
-  fixSaveText();
+  fixCartTexts();
 
-  // Surveille le panier (tiroir) qui s'ouvre dynamiquement
-  const observer = new MutationObserver(fixSaveText);
+  // Surveille le panier (tiroir) qui s'ouvre/se met à jour dynamiquement
+  const observer = new MutationObserver(fixCartTexts);
   observer.observe(document.body, { childList: true, subtree: true });
 </script>
   </body>
