@@ -293,6 +293,7 @@
         "blocks": {
           "cart_money_back_guarantee_4DEKiC": {
             "type": "cart_money_back_guarantee",
+            "disabled": true,
             "settings": {
               "show_money_back_guarantee": true,
               "money_back_guarantee_text": "30 jours satisfait ou remboursé",
@@ -343,8 +344,8 @@
           "cart_drawer_divider_color": "#e5e5e5",
           "cart_drawer_checkout_button_bg": "#121212",
           "cart_drawer_checkout_button_text": "#ffffff",
-          "cart_drawer_item_saving_text": "#141B4D",
-          "cart_drawer_item_saving_bg": "#F1F1F1",
+          "cart_drawer_item_saving_text": "#141b4d",
+          "cart_drawer_item_saving_bg": "#f1f1f1",
           "cart_drawer_free_product_label_bg": "#211a28",
           "cart_drawer_free_product_label_text": "#ffffff",
           "cart_drawer_free_product_label_border_radius": 50,
