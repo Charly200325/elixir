@@ -147,6 +147,7 @@
     "cart_type": "drawer",
     "show_vendor": false,
     "show_cart_note": false,
+    "save_text": "Économisez",
     "cart_drawer_collection": "",
     "license_key": "LIC-1757715200878-f6lsug04p",
     "global_section_gradient_color_1": "#f42e75",
@@ -296,7 +297,7 @@
               "show_money_back_guarantee": true,
               "money_back_guarantee_text": "30 jours satisfait ou remboursé",
               "money_back_guarantee_icon": "checkmark",
-              "money_back_guarantee_color": "#141B4D"
+              "money_back_guarantee_color": "#141b4d"
             }
           },
           "cart_social_proof_bar_wwnhTa": {
@@ -570,7 +571,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "div[data-testid=\"rating-summary-count\"] > span {display: none !important;}"
+      "div[data-testid=\"rating-summary-count\"] > span {display: none !important;}",
+      ".cart-drawer,.cart-drawer__inner,.drawer__inner,.drawer {background: #141b4d !important;}"
     ]
   }
 }
