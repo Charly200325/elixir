@@ -788,23 +788,6 @@
 
     <!-- GB! shipping protection product added ENDS -->
     <!-- gb code ends -->
-    <script>
-  function fixSaveText() {
-    document.querySelectorAll('.gb-price-drawer-saving').forEach(el => {
-      el.childNodes.forEach(node => {
-        if (node.nodeType === 3 && node.textContent.includes('SAVE')) {
-          node.textContent = node.textContent.replace('SAVE', 'Économisez :');
-        }
-      });
-    });
-  }
-
-  // Premier passage au chargement
-  fixSaveText();
-
-  // Surveille le panier (tiroir) qui s'ouvre dynamiquement
-  const observer = new MutationObserver(fixSaveText);
-  observer.observe(document.body, { childList: true, subtree: true });
-</script>
+    
   </body>
 </html>
