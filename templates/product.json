@@ -677,11 +677,58 @@
             "answer_10": ""
           }
         },
-        "carousel_default_video_akUGBF": {
+        "video_carousel_standalone_BMEUGm": {
+          "type": "video_carousel_standalone",
+          "settings": {
+            "heading": "",
+            "heading_size": 24,
+            "heading_color": "#333333",
+            "scrollbar_color": "#04c7ff",
+            "disable_sound_controls": false,
+            "enable_autoplay": false,
+            "show_sound_controls_autoplay": false,
+            "play_button_size": 30,
+            "sound_button_size": 30,
+            "play_button_bg_color": "#000000",
+            "play_button_bg_opacity": 35,
+            "sound_button_bg_color": "#000000",
+            "sound_button_bg_opacity": 35,
+            "hide_scrollbar": false,
+            "video_size": 150,
+            "show_social_badge": false,
+            "social_platform": "tiktok",
+            "view_count": 56,
+            "badge_text": "",
+            "badge_suffix": "",
+            "use_gradient_text": false,
+            "badge_background_color": "#f8f9fa",
+            "badge_text_color": "#262626",
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "carousel_default_video_fxecF4": {
           "type": "carousel_default_video",
-          "disabled": true,
           "settings": {
             "video": "shopify://files/videos/0ae6d418803640e288d43f12a3f86150.HD-1080p-7.2Mbps-87559206.mp4",
+            "enable_autoplay": false,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "carousel_default_video_AA88aY": {
+          "type": "carousel_default_video",
+          "settings": {
+            "video": "shopify://files/videos/c1046eb9cc5041ebafee864f1d71a37c.HD-1080p-7.2Mbps-87559213.mp4",
+            "enable_autoplay": false,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
+        },
+        "carousel_default_video_iTAYQC": {
+          "type": "carousel_default_video",
+          "settings": {
+            "video": "shopify://files/videos/ce0603a4718142d4a7227a0d252e17e6.HD-1080p-7.2Mbps-87559208.mp4",
             "enable_autoplay": false,
             "margin_top": 0,
             "margin_bottom": 0
@@ -709,7 +756,10 @@
         "replica_warning_Gjgh6b",
         "customer_review_Qyk4Aa",
         "faq",
-        "carousel_default_video_akUGBF"
+        "video_carousel_standalone_BMEUGm",
+        "carousel_default_video_fxecF4",
+        "carousel_default_video_AA88aY",
+        "carousel_default_video_iTAYQC"
       ],
       "custom_css": [
         ".customer-review-avatar-container {display: none;}"
