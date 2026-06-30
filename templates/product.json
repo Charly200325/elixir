@@ -340,6 +340,12 @@
             "margin_bottom": 5
           }
         },
+        "rapi_rapi_bundle_RUXbFh": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "ceiling-lamp-185-265v-e27-with-remote-led-30w-ceiling-fan-light-dimming-function-suitable-for-living-room-study-and-home-use-85-265v-lamp-120421646678-xkndx"
+          }
+        },
         "quantity_break_BwGDzW": {
           "type": "quantity_break",
           "disabled": true,
@@ -715,6 +721,7 @@
         "shipping_notice",
         "custom_text_CwrTfG",
         "quantity_bundle_QABFpz",
+        "rapi_rapi_bundle_RUXbFh",
         "quantity_break_BwGDzW",
         "add_to_cart_T6xGgJ",
         "guarantee_badges_QyjYFA",
