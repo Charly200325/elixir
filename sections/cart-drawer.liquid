@@ -23,7 +23,7 @@
   🔁 Tip: Use consistent naming like `cart-nameOfBlock` for your snippets
           to keep your cart components modular and easy to navigate.
 {% endcomment %}
-
+Total : {{ cart.item_count }} article{% if cart.item_count > 1 %}s{% endif %}
 {{ 'quantity-popover.css' | asset_url | stylesheet_tag }}
 {{ 'component-card.css' | asset_url | stylesheet_tag }}
 
