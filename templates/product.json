@@ -632,40 +632,6 @@
             "review_text_color": "#666666"
           }
         },
-        "carousel_default_video_akUGBF": {
-          "type": "carousel_default_video",
-          "disabled": true,
-          "settings": {
-            "video": "shopify://files/videos/0ae6d418803640e288d43f12a3f86150.HD-1080p-7.2Mbps-87559206.mp4",
-            "enable_autoplay": false,
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
-        "carousel_default_video_6k7bGt": {
-          "type": "carousel_default_video",
-          "settings": {
-            "enable_autoplay": false,
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
-        "carousel_default_video_DX3XK4": {
-          "type": "carousel_default_video",
-          "settings": {
-            "enable_autoplay": false,
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
-        "carousel_default_video_eH4e7V": {
-          "type": "carousel_default_video",
-          "settings": {
-            "enable_autoplay": false,
-            "margin_top": 0,
-            "margin_bottom": 0
-          }
-        },
         "faq": {
           "type": "product_faq",
           "settings": {
@@ -710,6 +676,16 @@
             "question_10": "",
             "answer_10": ""
           }
+        },
+        "carousel_default_video_akUGBF": {
+          "type": "carousel_default_video",
+          "disabled": true,
+          "settings": {
+            "video": "shopify://files/videos/0ae6d418803640e288d43f12a3f86150.HD-1080p-7.2Mbps-87559206.mp4",
+            "enable_autoplay": false,
+            "margin_top": 0,
+            "margin_bottom": 0
+          }
         }
       },
       "block_order": [
@@ -732,11 +708,8 @@
         "money_back_guarantee_kbK7cN",
         "replica_warning_Gjgh6b",
         "customer_review_Qyk4Aa",
-        "carousel_default_video_akUGBF",
-        "carousel_default_video_6k7bGt",
-        "carousel_default_video_DX3XK4",
-        "carousel_default_video_eH4e7V",
-        "faq"
+        "faq",
+        "carousel_default_video_akUGBF"
       ],
       "custom_css": [
         ".customer-review-avatar-container {display: none;}"
