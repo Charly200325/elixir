@@ -328,7 +328,7 @@
           "cart_payment_icon_JY9673"
         ],
         "settings": {
-          "cart_customization_mode": true,
+          "cart_customization_mode": false,
           "use_theme_colors_cart_drawer": false,
           "upsell_carousel_mode": false,
           "cart_drawer_primary_background_color": "#ffffff",
