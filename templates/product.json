@@ -68,7 +68,7 @@
             "save_badge_padding_v": 5,
             "save_badge_padding_h": 6,
             "custom_save_text": "Économisez",
-            "save_badge_display_type": "custom_amount",
+            "save_badge_display_type": "dollar_amount",
             "custom_save_amount": ""
           }
         },
