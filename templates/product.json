@@ -24,8 +24,8 @@
             "satisfaction_text": "",
             "satisfaction_text_color": "#ffffff",
             "satisfaction_bg_color": "#211a28",
-            "rating_text_size": 14,
-            "rating_text_size_mobile": 13,
+            "rating_text_size": 16,
+            "rating_text_size_mobile": 15,
             "satisfaction_text_size": 11,
             "satisfaction_text_size_mobile": 9,
             "margin_top": 0,
@@ -36,8 +36,8 @@
         "title": {
           "type": "title",
           "settings": {
-            "use_custom_title": false,
-            "custom_title": "Product Title",
+            "use_custom_title": true,
+            "custom_title": "Ventilateur de Plafond | La solution contre les fortes chaleurs",
             "font_size": 38,
             "margin_top": 3,
             "margin_bottom": 0,
