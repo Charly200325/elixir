@@ -98,7 +98,7 @@
             {% endif %}
         {% endcase %}
       {% endfor %}
-Total : {{ cart.item_count }} article{% if cart.item_count > 1 %}s{% endif %}
+
       <cart-drawer-items
         {% if cart == empty %}
           class=" is-empty"
