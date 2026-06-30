@@ -573,7 +573,9 @@
     "custom_css": [
       "div[data-testid=\"rating-summary-count\"] > span {display: none !important;}",
       "[data-essential-cart-element=\"custom-block-wrapper\"]:has(.social-proof-bar) {background: #c1dcfb !important;}",
-      "[data-essential-cart-element=\"custom-block-wrapper\"]:has(.social-proof-bar) .social-proof-bar {background: transparent !important;}"
+      "[data-essential-cart-element=\"custom-block-wrapper\"]:has(.social-proof-bar) .social-proof-bar {background: transparent !important;}",
+      "[data-essential-cart-element=\"checkout-button-wrapper\"] {padding-bottom: 4px !important;}",
+      "[data-essential-cart-element=\"payment-icons-wrapper\"] {padding-top: 4px !important; margin-top: -6px !important;}"
     ]
   }
 }
