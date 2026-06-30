@@ -572,7 +572,8 @@
   "platform_customizations": {
     "custom_css": [
       "div[data-testid=\"rating-summary-count\"] > span {display: none !important;}",
-      ".cart-drawer,.cart-drawer__inner,.drawer__inner,.drawer {background: #141b4d !important;}"
+      "[data-essential-cart-element=\"custom-block-wrapper\"]:has(.social-proof-bar) {background: #c1dcfb !important;}",
+      "[data-essential-cart-element=\"custom-block-wrapper\"]:has(.social-proof-bar) .social-proof-bar {background: transparent !important;}"
     ]
   }
 }
