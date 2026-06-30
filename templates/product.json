@@ -292,7 +292,6 @@
         },
         "quantity_bundle_QABFpz": {
           "type": "quantity_bundle",
-          "disabled": true,
           "settings": {
             "quantity_1": 1,
             "title_1": "1x Ventilateur de Plafond",
