@@ -789,7 +789,8 @@
     <!-- GB! shipping protection product added ENDS -->
     <!-- gb code ends -->
     <script>
-  function fixSaveText() {
+  function fixCartTexts() {
+    // Corrige "SAVE €40" → "Économisez : €40"
     document.querySelectorAll('.gb-price-drawer-saving').forEach(el => {
       el.childNodes.forEach(node => {
         if (node.nodeType === 3 && node.textContent.includes('SAVE')) {
@@ -797,14 +798,38 @@
         }
       });
     });
+
+    // Corrige "Total: 1 Items" → "Total : 1 article" / "X articles"
+    document.querySelectorAll('.total_count').forEach(el => {
+      const match = el.textContent.match(/(\d+)/);
+      if (match) {
+        const count = parseInt(match[1], 10);
+        const newText = `Total : ${count} ${count > 1 ? 'articles' : 'article'}`;
+        if (el.textContent.trim() !== newText) {
+          el.textContent = newText;
+        }
+      }
+    });
   }
 
-  // Premier passage au chargement
-  fixSaveText();
+  fixCartTexts();
 
-  // Surveille le panier (tiroir) qui s'ouvre dynamiquement
-  const observer = new MutationObserver(fixSaveText);
-  observer.observe(document.body, { childList: true, subtree: true });
+  const observer = new MutationObserver(() => fixCartTexts());
+  observer.observe(document.body, {
+    childList: true,
+    subtree: true,
+    characterData: true
+  });
+
+  // Filet de sécurité supplémentaire : re-vérifie toutes les 500ms pendant 5s après chaque clic sur le panier
+  document.addEventListener('click', () => {
+    let tries = 0;
+    const interval = setInterval(() => {
+      fixCartTexts();
+      tries++;
+      if (tries > 10) clearInterval(interval);
+    }, 500);
+  });
 </script>
     
   </body>
