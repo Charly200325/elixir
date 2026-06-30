@@ -378,6 +378,11 @@
         "type": "shopify://apps/essential-cart-drawer/blocks/app-embed/824bb1f9-5f36-4608-a60c-1f2b6a6f8834",
         "disabled": false,
         "settings": {}
+      },
+      "9589668175390395553": {
+        "type": "shopify://apps/amose-bundle/blocks/quantity_options/50476a12-3ce4-457e-ba71-230751f626b6",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
