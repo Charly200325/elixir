@@ -1,21 +1,71 @@
 <style>
   .cart-drawer .drawer__header {
     background-color: var(--cart-drawer-header-background);
+    /* Permet d'aligner le titre, le bouton fermer ET la bannière en colonne */
+    display: flex;
+    flex-direction: column;
+    gap: 15px; 
+  }
+
+  /* Style de la ligne contenant le titre et le bouton fermer */
+  .drawer__header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+  /* Votre style pour la bannière */
+  .cart-image-banner-cart_image_banner_cixc89 {
+    display: block;
+    width: 100%;
+    height: 70px;
+    margin-top: 0 !important;
+    margin-bottom: 0px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    flex-shrink: 0 !important;
+  }
+
+  .cart-image-banner-cart_image_banner_cixc89 .banner-wrapper {
+    position: relative;
+    width: 100%;
+    height: 70px;
+    overflow: hidden;
+  }
+
+  .cart-image-banner-cart_image_banner_cixc89 .banner-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
   }
 </style>
+
 <div class="drawer__header">
-  <h2 class="drawer__heading">
-    {{ 'sections.cart.title' | t -}}
-    <span class="gb-cart-total-item">{{ cart.item_count }}</span>
-  </h2>
-  <button
-    class="drawer__close"
-    type="button"
-    onclick="this.closest('cart-drawer').close()"
-    aria-label="{{ 'accessibility.close' | t }}"
-  >
-    <span class="svg-wrapper">
-      {{- 'icon-close.svg' | inline_asset_content -}}
-    </span>
-  </button>
+  <!-- Structure regroupant le titre et le bouton de fermeture -->
+  <div class="drawer__header-top">
+    <h2 class="drawer__heading">
+      {{ 'sections.cart.title' | t -}}
+      <span class="gb-cart-total-item">{{ cart.item_count }}</span>
+    </h2>
+    <button
+      class="drawer__close"
+      type="button"
+      onclick="this.closest('cart-drawer').close()"
+      aria-label="{{ 'accessibility.close' | t }}"
+    >
+      <span class="svg-wrapper">
+        {{- 'icon-close.svg' | inline_asset_content -}}
+      </span>
+    </button>
+  </div>
+
+  <!-- Intégration de votre bannière image sous le titre -->
+  <div class="cart-image-banner-cart_image_banner_cixc89">
+    <div class="banner-wrapper">
+      <img src="//baugmann.com/cdn/shop/files/Expedition_sous_24-48h_800_x_100_px_2.png?v=1781721316&amp;width=800" alt="Cart banner" class="banner-image" loading="lazy">
+    </div>
+  </div>
 </div>
