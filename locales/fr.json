@@ -585,17 +585,5 @@
     "amount_away_free_product": "Il vous manque {{ amount }} pour <strong>{{ product_title }}</strong>",
     "free_shipping": "Livraison Gratuite"
   },
-  "economise": "ÉCONOMISE",
-  "shopify": {
-    "checkout": {
-      "marketing": {
-        "accept_marketing_checkbox_label": "★★★★★ +10 000 clients satisfaits | Garantie satisfait ou remboursé de 30 jours"
-      }
-    }
-  },
-  "customer_accounts": {
-    "order_details": {
-      "marketing_checkbox_label": "★★★★★ +10 000 clients satisfaits | Garantie satisfait ou remboursé de 30 jours"
-    }
-  }
+  "economise": "ÉCONOMISE"
 }
