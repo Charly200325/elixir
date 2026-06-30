@@ -328,7 +328,9 @@
           "cart_social_proof_bar_wwnhTa",
           "cart_payment_icon_JY9673"
         ],
-        "custom_css": [],
+        "custom_css": [
+          ".discount_discount-value {display: none !important;}"
+        ],
         "settings": {
           "cart_customization_mode": false,
           "use_theme_colors_cart_drawer": false,
