@@ -1,6 +1,15 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "SAVE": "ÉCONOMISEZ",
-  "save": "ÉCONOMISEZ", 
+  "save": "ÉCONOMISEZ",
   "Save": "ÉCONOMISEZ",
   "ECONOMISEZ": "ÉCONOMISEZ",
   "sections": {
@@ -576,5 +585,17 @@
     "amount_away_free_product": "Il vous manque {{ amount }} pour <strong>{{ product_title }}</strong>",
     "free_shipping": "Livraison Gratuite"
   },
-  "economise": "ÉCONOMISE"
+  "economise": "ÉCONOMISE",
+  "shopify": {
+    "checkout": {
+      "marketing": {
+        "accept_marketing_checkbox_label": "★★★★★ +10 000 clients satisfaits | Garantie satisfait ou remboursé de 30 jours"
+      }
+    }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "marketing_checkbox_label": "★★★★★ +10 000 clients satisfaits | Garantie satisfait ou remboursé de 30 jours"
+    }
+  }
 }
