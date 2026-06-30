@@ -680,7 +680,7 @@
         "video_carousel_standalone_BMEUGm": {
           "type": "video_carousel_standalone",
           "settings": {
-            "heading": "",
+            "heading": "‎",
             "heading_size": 24,
             "heading_color": "#333333",
             "scrollbar_color": "#04c7ff",
@@ -703,7 +703,7 @@
             "use_gradient_text": false,
             "badge_background_color": "#f8f9fa",
             "badge_text_color": "#262626",
-            "margin_top": 0,
+            "margin_top": -20,
             "margin_bottom": 0
           }
         },
