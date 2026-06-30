@@ -635,6 +635,7 @@
         "carousel_default_video_akUGBF": {
           "type": "carousel_default_video",
           "settings": {
+            "video": "shopify://files/videos/0ae6d418803640e288d43f12a3f86150.HD-1080p-7.2Mbps-87559206.mp4",
             "enable_autoplay": false,
             "margin_top": 0,
             "margin_bottom": 0
