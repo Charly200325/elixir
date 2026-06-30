@@ -1,13 +1,13 @@
 <style>
   .cart-drawer .drawer__header {
     background-color: var(--cart-drawer-header-background);
-    /* Permet d'aligner le titre, le bouton fermer ET la bannière en colonne */
     display: flex;
     flex-direction: column;
-    gap: 15px; 
+    gap: 12px; /* Espace équilibré entre le titre et la bannière */
+    padding-bottom: 15px; /* Optionnel : ajuste l'espace avant le badge bleu "LIVRAISON GRATUITE" */
   }
 
-  /* Style de la ligne contenant le titre et le bouton fermer */
+  /* Alignement horizontal du titre et de la croix */
   .drawer__header-top {
     display: flex;
     justify-content: space-between;
@@ -15,12 +15,11 @@
     width: 100%;
   }
 
-  /* Votre style pour la bannière */
+  /* Conteneur de la bannière ajusté pour faire toute la largeur */
   .cart-image-banner-cart_image_banner_cixc89 {
     display: block;
     width: 100%;
-    height: 70px;
-    margin-top: 0 !important;
+    margin-top: 5px;
     margin-bottom: 0px;
     overflow: hidden;
     position: relative;
@@ -31,20 +30,19 @@
   .cart-image-banner-cart_image_banner_cixc89 .banner-wrapper {
     position: relative;
     width: 100%;
-    height: 70px;
     overflow: hidden;
   }
 
+  /* L'image prend désormais 100% de la largeur et ajuste sa hauteur proportionnellement */
   .cart-image-banner-cart_image_banner_cixc89 .banner-image {
     width: 100%;
-    height: 100%;
-    object-fit: contain;
+    height: auto;
     display: block;
+    object-fit: cover; /* Permet d'occuper tout l'espace disponible sans bandes noires/blanches */
   }
 </style>
 
 <div class="drawer__header">
-  <!-- Structure regroupant le titre et le bouton de fermeture -->
   <div class="drawer__header-top">
     <h2 class="drawer__heading">
       {{ 'sections.cart.title' | t -}}
@@ -62,7 +60,6 @@
     </button>
   </div>
 
-  <!-- Intégration de votre bannière image sous le titre -->
   <div class="cart-image-banner-cart_image_banner_cixc89">
     <div class="banner-wrapper">
       <img src="//baugmann.com/cdn/shop/files/Expedition_sous_24-48h_800_x_100_px_2.png?v=1781721316&amp;width=800" alt="Cart banner" class="banner-image" loading="lazy">
