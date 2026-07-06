@@ -537,8 +537,15 @@
             "text_alignment": "center"
           }
         },
+        "rapi_rapi_bundle_mpPMrD": {
+          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{section.settings.current_product}}"
+          }
+        },
         "quantity_bundle_AWkrAp": {
           "type": "quantity_bundle",
+          "disabled": true,
           "settings": {
             "quantity_1": 1,
             "title_1": "1x Ventilateur de Plafond",
@@ -754,6 +761,7 @@
         "bullet_list_zwgrpy",
         "divider_U8hLqJ",
         "shipping_notice_NRr3JY",
+        "rapi_rapi_bundle_mpPMrD",
         "quantity_bundle_AWkrAp",
         "add_to_cart_RD6dGy",
         "guarantee_badges_h7e4V3",
