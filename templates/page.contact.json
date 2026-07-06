@@ -102,7 +102,7 @@
         "subtitle_GEBBVQ": {
           "type": "subtitle",
           "settings": {
-            "subtitle": "<p><strong>Pour chaque demande : </strong>Veuillez nous communiquer votre numéro de commande à quatre chiffres (ex: #6543) ainsi que le numéro de suivi </p><p><strong>Expédition</strong> : Nous expédions vos colis dans un délai de 24 à 48h du lundi au vendredi</p><p><strong>Livraison</strong> : Le délai de livraison vers la France et la Belgique est de 4 à 7 jours ouvrables du lundi au vendredi.</p><p><strong>Suivi de livraison </strong>:<strong> </strong>vous êtes averti par email à chaque étape, veuillez vérifier vos spams.</p><p><strong>Confirmation de commande</strong> : veuillez vérifier vos spams.</p>"
+            "subtitle": "<p><strong>Pour chaque demande : </strong>Veuillez nous communiquer votre numéro de commande à quatre chiffres (ex: #6543) ainsi que le numéro de suivi </p><p><strong>Expédition</strong> : Nous expédions vos colis dans un délai de 24 à 48h du lundi au vendredi</p><p><strong>Livraison</strong> : Le délai de livraison vers la Suisse est de 4 à 7 jours ouvrables du lundi au vendredi.</p><p><strong>Suivi de livraison </strong>:<strong> </strong>vous êtes averti par email à chaque étape, veuillez vérifier vos spams.</p><p><strong>Confirmation de commande</strong> : veuillez vérifier vos spams.</p>"
           }
         }
       },
