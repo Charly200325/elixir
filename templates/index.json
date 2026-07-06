@@ -24,7 +24,7 @@
         "rating_QwgnAk": {
           "type": "rating",
           "settings": {
-            "rating_text": "<p>4.9/5 Excellent</p>",
+            "rating_text": "<p>4.8/5 Excellent</p>",
             "enable_container_background": false,
             "container_background_color": "#f8f9fa",
             "container_padding_vertical": 12,
@@ -125,7 +125,7 @@
         "badge_bg": "#211a28",
         "badge_text_color": "#ffffff",
         "rating_text_color": "#211a28",
-        "star_color": "#FBA302",
+        "star_color": "#fba302",
         "benefit_text_color": "#211a28",
         "benefit_icon_color": "#fba40b",
         "use_global_accent_typography": true,
