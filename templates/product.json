@@ -1120,6 +1120,30 @@
         "accent_text_margin_left": 0
       }
     },
+    "17826455681c0663f5": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_xQhrtz": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_xQhrtz"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "steps_NPBhYa": {
       "type": "steps",
       "blocks": {
@@ -2037,30 +2061,6 @@
         "empty_text_color": "#888888"
       }
     },
-    "17826455681c0663f5": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_xQhrtz": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "reviews_to_display": "",
-            "default_tab": "automatic",
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_xQhrtz"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "custom_liquid_gqprFw": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -2075,6 +2075,7 @@
     "custom_liquid_XRWxXy",
     "main",
     "sticky_add_to_cart_NJqgUd",
+    "17826455681c0663f5",
     "custom_liquid_tjMeaF",
     "product_benefits_NWiWMe",
     "divider_Q7nmRz",
@@ -2095,7 +2096,6 @@
     "before_after_comparison_dg6PAy",
     "statistics_column_M3Cxtb",
     "benefits_carousel_eXPzCJ",
-    "17826455681c0663f5",
     "custom_liquid_gqprFw"
   ]
 }
