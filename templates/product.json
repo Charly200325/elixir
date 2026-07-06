@@ -1647,6 +1647,9 @@
         "feature_row_afwJDU",
         "feature_row_ntHtdD"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 767px) {.comparison-section {padding-top: 0 !important; }}"
+      ],
       "settings": {
         "use_theme_colors": false,
         "show_heading": true,
