@@ -148,7 +148,7 @@
     "show_vendor": false,
     "show_cart_note": false,
     "save_text": "",
-    "cart_drawer_collection": "frontpage",
+    "cart_drawer_collection": "",
     "license_key": "LIC-1757715200878-f6lsug04p",
     "global_section_gradient_color_1": "#f42e75",
     "global_section_gradient_color_2": "#5d5aaf",
@@ -332,7 +332,7 @@
           ".discount_discount-value {display: none !important;}"
         ],
         "settings": {
-          "cart_customization_mode": true,
+          "cart_customization_mode": false,
           "use_theme_colors_cart_drawer": false,
           "upsell_carousel_mode": false,
           "cart_drawer_primary_background_color": "#ffffff",
