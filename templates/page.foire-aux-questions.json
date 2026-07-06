@@ -86,7 +86,7 @@
           "type": "faq_item",
           "settings": {
             "question": "Comment puis-je vous contacter ?",
-            "answer": "<p>Nous vous invitons d’abord à consulter les articles d’aide disponibles sur notre site. Si vous ne trouvez pas la réponse à votre question, vous pouvez nous contacter :</p><ul><li>via le formulaire de notre page de contact<br/></li><li>ou par e-mail à l’adresse suivante : info@pastelmist.com<br/></li></ul><p>La satisfaction de nos clients est très importante pour nous. Nous répondons généralement sous 24 à 48 heures.</p><p>Merci de n’envoyer qu’un seul message à la fois et d’utiliser une seule méthode de contact pour une même demande, afin de ne pas rallonger les délais de réponse.</p><p>Pour que nous puissions vous aider rapidement, pensez à indiquer un maximum d’informations.</p>"
+            "answer": "<p>Nous vous invitons d’abord à consulter les articles d’aide disponibles sur notre site. Si vous ne trouvez pas la réponse à votre question, vous pouvez nous contacter :</p><ul><li>via le formulaire de notre page de contact<br/></li><li>ou par e-mail à l’adresse suivante : contact@polinel.ch<br/></li></ul><p>La satisfaction de nos clients est très importante pour nous. Nous répondons généralement sous 24 à 48 heures.</p><p>Merci de n’envoyer qu’un seul message à la fois et d’utiliser une seule méthode de contact pour une même demande, afin de ne pas rallonger les délais de réponse.</p><p>Pour que nous puissions vous aider rapidement, pensez à indiquer un maximum d’informations.</p>"
           }
         },
         "faq_item_dgBgXh": {
@@ -99,8 +99,8 @@
         "faq_item_CTHGRh": {
           "type": "faq_item",
           "settings": {
-            "question": "Est-ce que Pastelmist possède un magasin physique ?",
-            "answer": "<p>Non, Pastelmist est une boutique en ligne uniquement. Nous n’avons pas de magasin physique.</p><p>Vous pouvez découvrir et acheter tous nos produits directement sur notre site. Ce fonctionnement nous permet de proposer une large gamme d’articles et de les mettre à jour régulièrement.</p><p>Si vous avez des questions sur un produit ou besoin de précisions, vous pouvez nous contacter via notre formulaire en ligne ou notre service client.</p>"
+            "question": "Est-ce que Polinel possède un magasin physique ?",
+            "answer": "<p>Non, Polinel est une boutique en ligne uniquement. Nous n’avons pas de magasin physique.</p><p>Vous pouvez découvrir et acheter tous nos produits directement sur notre site. Ce fonctionnement nous permet de proposer une large gamme d’articles et de les mettre à jour régulièrement.</p><p>Si vous avez des questions sur un produit ou besoin de précisions, vous pouvez nous contacter via notre formulaire en ligne ou notre service client.</p>"
           }
         }
       },
@@ -159,14 +159,14 @@
           "type": "faq_item",
           "settings": {
             "question": "Expédition et livraison",
-            "answer": "<p>Nous offrons la livraison gratuite avec suivi pour toutes les commandes supérieures à 50€, en France et en Belgique.<br/><br/>Délai d’expédition : votre colis est envoyé sous 1 à 2 jours ouvrés.<br/><br/>Délai de livraison : comptez ensuite 7 à 9 jours ouvrés pour recevoir votre commande.</p><p>Nous travaillons avec différents transporteurs nationaux et internationaux afin d’assurer une livraison fiable et dans les meilleurs délais.</p><p>Si vous avez un doute concernant la livraison dans votre région, vous pouvez nous écrire à l’adresse suivante : info@pastelmist.com.</p>"
+            "answer": "<p>Nous offrons la livraison gratuite avec suivi pour toutes les commandes supérieures à 40€, en Suisse.<br/><br/>Délai d’expédition : votre colis est envoyé sous 1 à 2 jours ouvrés.<br/><br/>Délai de livraison : comptez ensuite 7 à 9 jours ouvrés pour recevoir votre commande.</p><p>Nous travaillons avec différents transporteurs nationaux et internationaux afin d’assurer une livraison fiable et dans les meilleurs délais.</p><p>Si vous avez un doute concernant la livraison dans votre région, vous pouvez nous écrire à l’adresse suivante : contact@polinel.ch</p>"
           }
         },
         "faq_item_WNYEPn": {
           "type": "faq_item",
           "settings": {
             "question": "Quel est le délai de livraison de ma commande ?",
-            "answer": "<p>Le délai de livraison en France et en Belgique est de 7 à 9 jours ouvrés.</p><p>Pendant la période de Noël, ce délai peut être plus long en raison du grand nombre de commandes.</p><p>Dans la plupart des cas, nos colis arrivent en moins de 15 jours ouvrables. Cependant, certains événements comme de grosses promotions, des conditions météo difficiles, des situations géopolitiques ou des ruptures de stock peuvent rallonger le délai.</p><p>Si vous trouvez le délai inhabituellement long, vous pouvez suivre votre colis à tout moment grâce au numéro de suivi que vous avez reçu par e-mail.</p>"
+            "answer": "<p>Le délai de livraison en Suisse est de 7 à 9 jours ouvrés.</p><p>Pendant la période de Noël, ce délai peut être plus long en raison du grand nombre de commandes.</p><p>Dans la plupart des cas, nos colis arrivent en moins de 15 jours ouvrables. Cependant, certains événements comme de grosses promotions, des conditions météo difficiles, des situations géopolitiques ou des ruptures de stock peuvent rallonger le délai.</p><p>Si vous trouvez le délai inhabituellement long, vous pouvez suivre votre colis à tout moment grâce au numéro de suivi que vous avez reçu par e-mail.</p>"
           }
         },
         "faq_item_PTKpjz": {
@@ -187,14 +187,14 @@
           "type": "faq_item",
           "settings": {
             "question": "Ma commande est retardée, il n'y a pas de mise à jour sur le lien de suivi ?",
-            "answer": "<p>Ma commande est retardée, il n'y a pas de mise à jour sur le lien de suivi ?</p><p>Pour les clients européens, le délai d’expédition est de 1 à 2 jours ouvrables, puis le délai de livraison est de 7 à 9 jours ouvrables. Il est donc possible que le suivi ne se mette pas à jour immédiatement pendant cette période.</p><p>Si votre commande dépasse ces délais ou si vous avez un doute, vous pouvez nous contacter :</p><ul><li>par e-mail : info@pastelmist.com<br/></li><li>via notre formulaire de contact disponible sur notre site.</li></ul>"
+            "answer": "<p>Ma commande est retardée, il n'y a pas de mise à jour sur le lien de suivi ?</p><p>Pour les clients européens, le délai d’expédition est de 1 à 2 jours ouvrables, puis le délai de livraison est de 7 à 9 jours ouvrables. Il est donc possible que le suivi ne se mette pas à jour immédiatement pendant cette période.</p><p>Si votre commande dépasse ces délais ou si vous avez un doute, vous pouvez nous contacter :</p><ul><li>par e-mail : contact@polinel.ch<br/></li><li>via notre formulaire de contact disponible sur notre site.</li></ul>"
           }
         },
         "faq_item_zHDkam": {
           "type": "faq_item",
           "settings": {
             "question": "Commande marquée comme livrée mais non reçue ?",
-            "answer": "<p></p><p>Si votre colis est indiqué comme livré mais que vous ne l’avez pas reçu, commencez par vérifier auprès de vos voisins ou dans votre immeuble (boîte aux lettres, concierge, etc.).</p><p>Si après trois jours ouvrables vous n’avez toujours rien reçu, contactez-nous à l’adresse suivante :<br/><br/>info@pastelmist.com</p>"
+            "answer": "<p></p><p>Si votre colis est indiqué comme livré mais que vous ne l’avez pas reçu, commencez par vérifier auprès de vos voisins ou dans votre immeuble (boîte aux lettres, concierge, etc.).</p><p>Si après trois jours ouvrables vous n’avez toujours rien reçu, contactez-nous à l’adresse suivante :<br/><br/>contact@polinel.ch</p>"
           }
         }
       },
@@ -319,7 +319,7 @@
           "type": "faq_item",
           "settings": {
             "question": "Que se passe-t-il si je dépasse le délai de retour (30 jours) ?",
-            "answer": "<p>Si vous avez dépassé le délai de 30 jours pour effectuer un retour, contactez-nous dès que possible à l’adresse suivante : info@pastelmist.com</p><p>Dans votre message, précisez votre numéro de commande et expliquez la raison du dépassement du délai.</p><p>Même si nous ne sommes pas obligés d’accepter le retour, nous étudierons votre situation et, dans certains cas, nous pourrons envisager une solution adaptée.</p>"
+            "answer": "<p>Si vous avez dépassé le délai de 30 jours pour effectuer un retour, contactez-nous dès que possible à l’adresse suivante : contact@polinel.ch</p><p>Dans votre message, précisez votre numéro de commande et expliquez la raison du dépassement du délai.</p><p>Même si nous ne sommes pas obligés d’accepter le retour, nous étudierons votre situation et, dans certains cas, nous pourrons envisager une solution adaptée.</p>"
           }
         }
       },
@@ -384,14 +384,14 @@
         "faq_item_XCeePR": {
           "type": "faq_item",
           "settings": {
-            "question": "Comment passer une commande sur Pastelmist ?",
-            "answer": "<p>Pour passer une commande sur Pastelmist, suivez ces étapes :</p><ol><li>Trouvez le produit que vous souhaitez commander sur notre site.<br/></li><li>Si nécessaire, choisissez la couleur et la taille souhaitées.<br/></li><li>Vérifiez la quantité que vous voulez commander.<br/></li><li>Cliquez sur \"Ajouter au panier\".<br/></li><li>Consultez votre panier et, lorsque vous êtes prêt, cliquez sur \"Valider le panier\".<br/></li><li>Renseignez les informations demandées : coordonnées, adresse de livraison, numéro de téléphone.<br/></li><li>Si vous avez un code promo, saisissez-le dans le champ prévu et validez-le.</li></ol>"
+            "question": "Comment passer une commande sur Polinel ?",
+            "answer": "<p>Pour passer une commande sur Polinel, suivez ces étapes :</p><ol><li>Trouvez le produit que vous souhaitez commander sur notre site.<br/></li><li>Si nécessaire, choisissez la couleur et la taille souhaitées.<br/></li><li>Vérifiez la quantité que vous voulez commander.<br/></li><li>Cliquez sur \"Ajouter au panier\".<br/></li><li>Consultez votre panier et, lorsque vous êtes prêt, cliquez sur \"Valider le panier\".<br/></li><li>Renseignez les informations demandées : coordonnées, adresse de livraison, numéro de téléphone.<br/></li><li>Si vous avez un code promo, saisissez-le dans le champ prévu et validez-le.</li></ol>"
           }
         },
         "faq_item_7ydbV7": {
           "type": "faq_item",
           "settings": {
-            "question": "Quelle est la sécurité de la boutique en ligne Pastelmist ?",
+            "question": "Quelle est la sécurité de la boutique en ligne Polinel ?",
             "answer": "<p>Nous appliquons des normes de sécurité très strictes pour protéger vos données.</p><p>Lors de vos paiements, vos informations de carte bancaire et vos données personnelles sont chiffrées grâce à la technologie SSL (Secure Socket Layer) et respectent le niveau 1 de la norme PCI, utilisée pour sécuriser les paiements en ligne.</p><p>Nous ne vendons, ne louons et ne partageons jamais vos informations personnelles avec des tiers.</p><p>Si vous avez des questions concernant la sécurité ou la protection de vos données, vous pouvez nous contacter et nous vous répondrons avec plaisir.</p>"
           }
         },
@@ -406,7 +406,7 @@
           "type": "faq_item",
           "settings": {
             "question": "Quels sont les modes de paiement acceptés ?",
-            "answer": "<p></p><ol><li>Nous acceptons les cartes de crédit et de débit suivantes :<br/>VISA<br/>Mastercard<br/>American Express<br/>Maestro<br/></li><li>Vous pouvez aussi payer via :<br/>Apple Pay<br/>Google Pay<br/></li><li>Notre devise de base est l’euro (€). Si vous commandez depuis l’étranger, le montant final dépendra du taux de change appliqué par votre banque ou votre fournisseur de paiement.<br/></li><li>Les cartes cadeaux prépayées sont également acceptées pour régler votre commande.</li></ol>"
+            "answer": "<p></p><ol><li>Nous acceptons les cartes de crédit et de débit suivantes :<br/>VISA<br/>Mastercard<br/>American Express<br/>Maestro<br/></li><li>Vous pouvez aussi payer via :<br/>Apple Pay<br/>Google Pay<br/></li><li>Notre devise de base est le franc Suisse (CHF). Si vous commandez depuis l’étranger, le montant final dépendra du taux de change appliqué par votre banque ou votre fournisseur de paiement.<br/></li><li>Les cartes cadeaux prépayées sont également acceptées pour régler votre commande.</li></ol>"
           }
         },
         "faq_item_H46pzP": {
@@ -420,7 +420,7 @@
           "type": "faq_item",
           "settings": {
             "question": "Je n'ai pas reçu d'e-mail de confirmation de commande. Que dois-je faire ?",
-            "answer": "<p></p><ol><li>Commencez par vérifier votre dossier \"Courrier indésirable\" ou \"Spams\". Il arrive que les e-mails automatiques y soient envoyés.<br/></li><li>Si, après 15 à 20 minutes, vous n’avez toujours rien reçu, contactez-nous.<br/></li></ol><p>Vous pouvez nous écrire à l’adresse suivante : info@baugmann.com.<br/></p>"
+            "answer": "<p></p><ol><li>Commencez par vérifier votre dossier \"Courrier indésirable\" ou \"Spams\". Il arrive que les e-mails automatiques y soient envoyés.<br/></li><li>Si, après 15 à 20 minutes, vous n’avez toujours rien reçu, contactez-nous.<br/></li></ol><p>Vous pouvez nous écrire à l’adresse suivante : contact@polinel.ch<br/></p>"
           }
         },
         "faq_item_QAcjhU": {
@@ -434,14 +434,14 @@
           "type": "faq_item",
           "settings": {
             "question": "L'article que je souhaite est en rupture de stock. Que dois-je faire ?",
-            "answer": "<p>Si l’article que vous voulez n’est pas disponible pour le moment, voici ce que vous pouvez faire :</p><ol><li>Malgré nos efforts pour conserver un stock suffisant, certains produits peuvent être temporairement épuisés.<br/></li><li>Si vous souhaitez savoir quand l’article sera de nouveau disponible, vous pouvez nous écrire à l’adresse suivante : info@pastelmist.com.<br/></li><li>Notre équipe d’assistance vous informera de la date prévue de réapprovisionnement dès que possible.<br/></li></ol><p>Nous ferons de notre mieux pour vous aider. Merci de votre compréhension.</p>"
+            "answer": "<p>Si l’article que vous voulez n’est pas disponible pour le moment, voici ce que vous pouvez faire :</p><ol><li>Malgré nos efforts pour conserver un stock suffisant, certains produits peuvent être temporairement épuisés.<br/></li><li>Si vous souhaitez savoir quand l’article sera de nouveau disponible, vous pouvez nous écrire à l’adresse suivante : contact@polinel.ch<br/></li><li>Notre équipe d’assistance vous informera de la date prévue de réapprovisionnement dès que possible.<br/></li></ol><p>Nous ferons de notre mieux pour vous aider. Merci de votre compréhension.</p>"
           }
         },
         "faq_item_p6cJ4N": {
           "type": "faq_item",
           "settings": {
             "question": "Avez-vous des revendeurs ?",
-            "answer": "<p>Non, nos produits Pastelmist ne sont pas vendus chez des revendeurs. Ils sont uniquement disponibles en ligne.</p><p>Vous pouvez découvrir et acheter toute notre collection directement sur notre site officiel :<br/><br/>www.pastelmist.com</p><p>Pour être informé des nouveautés, des retours en stock et des offres, vous pouvez aussi vous inscrire à notre newsletter.</p>"
+            "answer": "<p>Non, nos produits Pastelmist ne sont pas vendus chez des revendeurs. Ils sont uniquement disponibles en ligne.</p><p>Vous pouvez découvrir et acheter toute notre collection directement sur notre site officiel :<br/><br/>www.polinel.ch</p><p>Pour être informé des nouveautés, des retours en stock et des offres, vous pouvez aussi vous inscrire à notre newsletter.</p>"
           }
         }
       },
