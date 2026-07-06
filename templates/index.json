@@ -84,7 +84,7 @@
           "type": "button",
           "settings": {
             "button_text": "J’EN PROFITE",
-            "button_link": "shopify://products/ceiling-lamp-185-265v-e27-with-remote-led-30w-ceiling-fan-light-dimming-function-suitable-for-living-room-study-and-home-use-85-265v-lamp-120421646678-xkndx",
+            "button_link": "shopify://products/ventilateur-de-plafond",
             "full_width": false,
             "full_width_mobile_only": false,
             "margin_top": 0,
@@ -769,7 +769,7 @@
       "name": "Product Details",
       "settings": {
         "use_theme_colors": false,
-        "current_product": "ceiling-lamp-185-265v-e27-with-remote-led-30w-ceiling-fan-light-dimming-function-suitable-for-living-room-study-and-home-use-85-265v-lamp-120421646678-xkndx",
+        "current_product": "ventilateur-de-plafond",
         "section_bg_color": "#ffffff",
         "blocks_spacing": 4,
         "text_color": "#000000",
@@ -1147,7 +1147,7 @@
             "reviewer_age": "",
             "show_verified_badge": false,
             "show_purchased_product": false,
-            "product_reference": "ceiling-lamp-185-265v-e27-with-remote-led-30w-ceiling-fan-light-dimming-function-suitable-for-living-room-study-and-home-use-85-265v-lamp-120421646678-xkndx",
+            "product_reference": "ventilateur-de-plafond",
             "product_title": "Product Name",
             "product_price": "$29.99",
             "product_compare_price": "$39.99",
