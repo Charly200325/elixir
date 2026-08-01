@@ -38,7 +38,7 @@
     "global_button_padding_y": 18,
     "disable_button_font_weight_override": false,
     "global_button_letter_spacing": -0.6,
-    "global_button_radius": 40,
+    "global_button_radius": 0,
     "apply_button_radius_to_all": true,
     "global_button_background_color": "#211a28",
     "enable_button_box_shadow": false,

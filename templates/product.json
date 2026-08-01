@@ -400,12 +400,6 @@
             "margin_bottom": 5
           }
         },
-        "rapi_rapi_bundle_RUXbFh": {
-          "type": "shopify://apps/rapi-bundle/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
-          "settings": {
-            "product": "ventilateur-de-plafond"
-          }
-        },
         "quantity_break_BwGDzW": {
           "type": "quantity_break",
           "disabled": true,
@@ -613,7 +607,7 @@
           "settings": {
             "use_theme_colors": false,
             "use_global_button_styling": false,
-            "show_fast_payment": false,
+            "show_fast_payment": true,
             "button_behavior": "add_to_cart",
             "button_text_override": "AJOUTER AU PANIER",
             "show_price_in_button": false,
@@ -627,7 +621,7 @@
             "price_color": "#ffffff",
             "custom_button_padding_y": 18,
             "custom_button_font_size": 18,
-            "card_border_radius": 10
+            "card_border_radius": 20
           }
         },
         "guarantee_badges_QyjYFA": {
@@ -706,6 +700,7 @@
         },
         "replica_warning_Gjgh6b": {
           "type": "replica_warning",
+          "disabled": true,
           "settings": {
             "warning_title": "Dernières unités disponibles",
             "warning_text": "Forte demande en ce moment. Commandez maintenant avant rupture de stock - prochain réassort prévu en septembre.",
@@ -725,6 +720,7 @@
         },
         "customer_review_Qyk4Aa": {
           "type": "customer_review",
+          "disabled": true,
           "settings": {
             "reviewer_name": "Sophie L.",
             "review_text": "Les nuits étaient insupportable dans mon appart, et poser une clim n'était pas une option en location. Installé en 10 min, le ventilateur a tout changé, l’air circule enfin et je dors beaucoup mieux.",
@@ -865,7 +861,6 @@
         "shipping_notice",
         "custom_text_CwrTfG",
         "quantity_bundle_QABFpz",
-        "rapi_rapi_bundle_RUXbFh",
         "quantity_break_BwGDzW",
         "simple_variant_picker_BKQGW9",
         "add_to_cart_T6xGgJ",
