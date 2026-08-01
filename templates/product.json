@@ -674,6 +674,7 @@
         },
         "divider_9kcrFc": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "color": "#e0e0e0",
             "style": "solid",
@@ -836,6 +837,7 @@
         },
         "carousel_default_video_fxecF4": {
           "type": "carousel_default_video",
+          "disabled": true,
           "settings": {
             "video": "shopify://files/videos/0ae6d418803640e288d43f12a3f86150.HD-1080p-7.2Mbps-87559206.mp4",
             "enable_autoplay": false,
@@ -845,6 +847,7 @@
         },
         "carousel_default_video_AA88aY": {
           "type": "carousel_default_video",
+          "disabled": true,
           "settings": {
             "video": "shopify://files/videos/c1046eb9cc5041ebafee864f1d71a37c.HD-1080p-7.2Mbps-87559213.mp4",
             "enable_autoplay": false,
@@ -854,6 +857,7 @@
         },
         "carousel_default_video_iTAYQC": {
           "type": "carousel_default_video",
+          "disabled": true,
           "settings": {
             "video": "shopify://files/videos/ce0603a4718142d4a7227a0d252e17e6.HD-1080p-7.2Mbps-87559208.mp4",
             "enable_autoplay": false,
@@ -970,12 +974,6 @@
         "delivery_text_prefix": "Get It By"
       }
     },
-    "17826455681c0663f5": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
-    },
     "custom_liquid_7nbizj": {
       "type": "custom-liquid",
       "disabled": true,
@@ -993,9 +991,9 @@
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
-        "custom_liquid": "<style>\n.skluv-story{\nmax-width:1400px;\nmargin:90px auto;\npadding:0 40px;\ndisplay:grid;\ngrid-template-columns:1fr 1fr;\ngap:80px;\nalign-items:center;\n}\n\n.skluv-story-content{\nmax-width:430px;\n}\n\n.skluv-story-subtitle{\nfont-size:12px;\nletter-spacing:.18em;\ntext-transform:uppercase;\ncolor:#888;\nmargin-bottom:18px;\n}\n\n.skluv-story h2{\nfont-size:54px;\nfont-weight:500;\nline-height:1.05;\nletter-spacing:-.04em;\nmargin:0 0 30px;\ncolor:#111;\n}\n\n.skluv-story p{\nfont-size:19px;\nline-height:1.8;\ncolor:#555;\nmargin:0;\n}\n\n.skluv-story-image img{\nwidth:100%;\ndisplay:block;\nborder-radius:4px;\n}\n\n@media(max-width:900px){\n\n.skluv-story{\ngrid-template-columns:1fr;\ngap:40px;\npadding:0 22px;\nmargin:60px auto;\n}\n\n.skluv-story-content{\nmax-width:100%;\n}\n\n.skluv-story h2{\nfont-size:38px;\n}\n\n.skluv-story p{\nfont-size:17px;\n}\n\n}\n</style>\n\n<section class=\"skluv-story\">\n\n<div class=\"skluv-story-content\">\n\n<div class=\"skluv-story-subtitle\">\nSKLUV NOTEBOOK 01\n</div>\n\n<h2>\nBuilt for people<br>\nwho create.\n</h2>\n\n<p>\nIdeas disappear.<br>\nGood ones don't deserve to.<br><br>\n\nSKLUV keeps your thoughts where they belong:\non paper.\n</p>\n\n</div>\n\n<div class=\"skluv-story-image\">\n\n<img src=\"https://cdn.shopify.com/s/files/1/1033/6495/2406/files/IMG-1059.png?v=1785600840\" alt=\"SKLUV Notebook\">\n\n</div>\n\n</section>",
+        "custom_liquid": "<style>\n.skluv-story{\nmax-width:1400px;\nmargin:90px auto;\npadding:0 40px;\ndisplay:grid;\ngrid-template-columns:1fr 1fr;\ngap:80px;\nalign-items:center;\n}\n\n.skluv-story-content{\nmax-width:430px;\n}\n\n.skluv-story-subtitle{\nfont-size:12px;\nletter-spacing:.18em;\ntext-transform:uppercase;\ncolor:#888;\nmargin-bottom:18px;\n}\n\n.skluv-story h2{\nfont-size:54px;\nfont-weight:500;\nline-height:1.05;\nletter-spacing:-.04em;\nmargin:0 0 30px;\ncolor:#111;\n}\n\n.skluv-story p{\nfont-size:19px;\nline-height:1.8;\ncolor:#555;\nmargin:0;\n}\n\n.skluv-story-image img{\nwidth:100%;\ndisplay:block;\nborder-radius:4px;\n}\n\n@media(max-width:900px){\n\n.skluv-story{\ngrid-template-columns:1fr;\ngap:40px;\npadding:0 22px;\nmargin:60px auto;\n}\n\n.skluv-story-content{\nmax-width:100%;\n}\n\n.skluv-story h2{\nfont-size:38px;\n}\n\n.skluv-story p{\nfont-size:17px;\n}\n\n}\n</style>\n\n<section class=\"skluv-story\">\n\n<div class=\"skluv-story-content\">\n\n<div class=\"skluv-story-subtitle\">\nSKLUV NOTEBOOK 01\n</div>\n\n<h2>\nBuilt for people<br>\nwho create.\n</h2>\n\n<p>\nIdeas disappear.<br>\nGood ones don't deserve to.<br><br>\n\nSKLUV keeps your thoughts where they belong:\non paper.\n</p>\n\n</div>\n\n<div class=\"skluv-story-image\">\n\n<img src=\"https://cdn.shopify.com/s/files/1/1033/6495/2406/files/0B9B929A-4913-4BBF-9318-0DD20621CA1E.png?v=1785625572\" alt=\"SKLUV Notebook\">\n\n</div>\n\n</section>",
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "custom_liquid_tjMeaF": {
@@ -1976,7 +1974,6 @@
     "custom_liquid_XRWxXy",
     "main",
     "sticky_add_to_cart_NJqgUd",
-    "17826455681c0663f5",
     "custom_liquid_7nbizj",
     "custom_liquid_YECiKg",
     "custom_liquid_tjMeaF",
