@@ -602,6 +602,16 @@
             "container_margin_right": 0
           }
         },
+        "quantity_selector_BpYUdC": {
+          "type": "quantity_selector",
+          "settings": {
+            "background_color": "#FFFFFF",
+            "button_color": "#ffffff",
+            "text_color": "#000000",
+            "margin_top": 0,
+            "margin_bottom": 12
+          }
+        },
         "add_to_cart_T6xGgJ": {
           "type": "add_to_cart",
           "settings": {
@@ -863,6 +873,7 @@
         "quantity_bundle_QABFpz",
         "quantity_break_BwGDzW",
         "simple_variant_picker_BKQGW9",
+        "quantity_selector_BpYUdC",
         "add_to_cart_T6xGgJ",
         "guarantee_badges_QyjYFA",
         "payment_icons_4M99Bi",
