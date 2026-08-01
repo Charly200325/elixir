@@ -996,6 +996,24 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_6ArCrp": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n.skluv-features{\n  max-width:1200px;\n  margin:90px auto;\n  padding:0 20px;\n}\n\n.skluv-features-grid{\n  display:grid;\n  grid-template-columns:1.2fr 1fr;\n  gap:70px;\n  align-items:center;\n}\n\n.skluv-features-image img{\n  width:100%;\n  display:block;\n}\n\n.skluv-features h2{\n  font-size:46px;\n  line-height:1.05;\n  font-weight:500;\n  margin:0 0 35px;\n  letter-spacing:-1px;\n  color:#111;\n}\n\n.skluv-feature{\n  display:flex;\n  align-items:flex-start;\n  gap:16px;\n  margin-bottom:22px;\n}\n\n.skluv-feature svg{\n  width:22px;\n  height:22px;\n  flex:none;\n  stroke:#111;\n}\n\n.skluv-feature strong{\n  display:block;\n  font-size:17px;\n  font-weight:600;\n  margin-bottom:4px;\n  color:#111;\n}\n\n.skluv-feature p{\n  margin:0;\n  color:#666;\n  font-size:15px;\n  line-height:1.6;\n}\n\n@media(max-width:768px){\n\n.skluv-features{\nmargin:60px auto;\npadding:0 18px;\n}\n\n.skluv-features-grid{\ngrid-template-columns:1fr;\ngap:40px;\n}\n\n.skluv-features h2{\nfont-size:34px;\n}\n\n.skluv-feature{\ngap:14px;\n}\n\n}\n</style>\n\n<section class=\"skluv-features\">\n\n<div class=\"skluv-features-grid\">\n\n<div class=\"skluv-features-image\">\n<img src=\"VOTRE_IMAGE_ICI.jpg\" alt=\"SKLUV Notebook\">\n</div>\n\n<div>\n\n<h2>Everything you need.<br>Nothing you don't.</h2>\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.8\">\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 3h7l5 5v13H7z\"/>\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M14 3v5h5\"/>\n</svg>\n\n<div>\n<strong>144 premium pages</strong>\n<p>Thick 160gsm paper with a smooth writing experience.</p>\n</div>\n\n</div>\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.8\">\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 21h8\"/>\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 17V3\"/>\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 7l8 8\"/>\n</svg>\n\n<div>\n<strong>Lay-flat binding</strong>\n<p>Opens completely flat for effortless writing.</p>\n</div>\n\n</div>\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.8\">\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/>\n</svg>\n\n<div>\n<strong>Pen holder included</strong>\n<p>Your pen stays attached wherever inspiration strikes.</p>\n</div>\n\n</div>\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.8\">\n<rect x=\"4\" y=\"6\" width=\"16\" height=\"12\" rx=\"2\"/>\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M8 6V4M16 6V4\"/>\n</svg>\n\n<div>\n<strong>Elastic organizer</strong>\n<p>Keeps your notebook securely closed and ready to travel.</p>\n</div>\n\n</div>\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.8\">\n<circle cx=\"12\" cy=\"12\" r=\"9\"/>\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 8v4l3 3\"/>\n</svg>\n\n<div>\n<strong>Minimal design</strong>\n<p>Built to keep your focus on ideas, not distractions.</p>\n</div>\n\n</div>\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.8\">\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 2l2.7 5.5L21 8.4l-4.5 4.4 1 6.2L12 16.8 6.5 19l1-6.2L3 8.4l6.3-.9z\"/>\n</svg>\n\n<div>\n<strong>Built to last</strong>\n<p>Designed for years of notes, sketches and ideas.</p>\n</div>\n\n</div>\n\n</div>\n\n</div>\n\n</section>",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_j4a9Xr": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n.skluv-open{\nmax-width:1200px;\nmargin:100px auto;\npadding:0 20px;\n}\n\n.skluv-open-grid{\ndisplay:grid;\ngrid-template-columns:420px 1fr;\nalign-items:center;\ngap:70px;\n}\n\n.skluv-open h2{\nfont-size:52px;\nline-height:0.95;\nfont-weight:500;\nletter-spacing:-1.8px;\nmargin:0 0 30px;\ncolor:#111;\n}\n\n.skluv-open p{\nfont-size:18px;\nline-height:1.9;\ncolor:#666;\nmargin:8px 0;\n}\n\n.skluv-open-image img{\nwidth:100%;\ndisplay:block;\n}\n\n@media(max-width:768px){\n\n.skluv-open{\nmargin:70px auto;\npadding:0 20px;\n}\n\n.skluv-open-grid{\ngrid-template-columns:1fr;\ngap:40px;\n}\n\n.skluv-open h2{\nfont-size:40px;\n}\n\n.skluv-open p{\nfont-size:17px;\nline-height:1.7;\n}\n\n}\n</style>\n\n<section class=\"skluv-open\">\n\n<div class=\"skluv-open-grid\">\n\n<div>\n\n<h2>Every page<br>starts clean.</h2>\n\n<p>No templates.</p>\n\n<p>No distractions.</p>\n\n<p>Just space to think.</p>\n\n</div>\n\n<div class=\"skluv-open-image\">\n\n<img src=\"VOTRE_IMAGE_CARNET_OUVERT.jpg\" alt=\"Open notebook\">\n\n</div>\n\n</div>\n\n</section>",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "custom_liquid_tjMeaF": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -1437,204 +1455,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_GjkNm6": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom-liquid.presets.name",
-      "settings": {
-        "custom_liquid": "<div class=\"alz-section alz-silmtr alz-reveal is-visible\" style=\"padding: 60px 0; background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;\">\n  <div class=\"alz-container\" style=\"max-width: 1000px; margin: 0 auto; padding: 0 20px;\">\n\n    <header class=\"alz-silmtr__head\" style=\"text-align: center; margin-bottom: 40px;\">\n      <p class=\"alz-eyebrow\" style=\"text-transform: uppercase; letter-spacing: 2px; font-size: 13px; margin-bottom: 12px; color: #0d1b3e; font-weight: 600;\">Performance</p>\n      <h2 class=\"alz-silmtr__title\" style=\"font-size: 2.8rem; margin: 0 0 20px 0; font-weight: 500; color: #0d1b3e; letter-spacing: -1px;\">\n        Moteur DC : silence garanti.\n      </h2>\n      <p class=\"alz-lede\" style=\"font-size: 1.25rem; color: #555; max-width: 650px; margin: 0 auto; line-height: 1.5; letter-spacing: normal;\">\n        Ce modèle tourne à 28 dB en utilisation normale. Vous dormez tranquille, vous travaillez sans gêne.\n      </p>\n    </header>\n\n    <div class=\"alz-silmtr__chart\" style=\"display: flex; flex-direction: column; gap: 16px; max-width: 800px; margin: 0 auto;\">\n      \n      <div class=\"alz-silmtr__row\" style=\"display: flex; align-items: center; justify-content: space-between;\">\n        <div class=\"alz-silmtr__label\" style=\"width: 160px; font-weight: 500; color: #555; font-size: 16px; flex-shrink: 0; letter-spacing: normal;\">Chuchotement</div>\n        <div class=\"alz-silmtr__bar-wrap\" style=\"flex: 1; background-color: #eef2fb; border-radius: 20px; height: 42px; overflow: hidden;\">\n          <div class=\"alz-silmtr__bar\" style=\"background-color: #aab8d6; height: 100%; width: 40%; border-radius: 20px; display: flex; align-items: center; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;\">\n            <span class=\"alz-silmtr__value\" style=\"color: #fff; font-weight: 600; font-size: 14px; letter-spacing: normal;\">20 dB</span>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"alz-silmtr__row\" style=\"display: flex; align-items: center; justify-content: space-between;\">\n        <div class=\"alz-silmtr__label\" style=\"width: 160px; font-weight: 700; color: #0d1b3e; font-size: 16px; flex-shrink: 0; letter-spacing: normal;\">Ce ventilateur</div>\n        <div class=\"alz-silmtr__bar-wrap\" style=\"flex: 1; background-color: #eef2fb; border-radius: 20px; height: 42px; overflow: hidden;\">\n          <div class=\"alz-silmtr__bar\" style=\"background-color: #f5a623; height: 100%; width: 56%; border-radius: 20px; display: flex; align-items: center; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;\">\n            <span class=\"alz-silmtr__value\" style=\"color: #0d1b3e; font-weight: 700; font-size: 14px; letter-spacing: normal;\">28 dB</span>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"alz-silmtr__row\" style=\"display: flex; align-items: center; justify-content: space-between;\">\n        <div class=\"alz-silmtr__label\" style=\"width: 160px; font-weight: 500; color: #555; font-size: 16px; flex-shrink: 0; letter-spacing: normal;\">Conversation</div>\n        <div class=\"alz-silmtr__bar-wrap\" style=\"flex: 1; background-color: #eef2fb; border-radius: 20px; height: 42px; overflow: hidden;\">\n          <div class=\"alz-silmtr__bar\" style=\"background-color: #aab8d6; height: 100%; width: 70%; border-radius: 20px; display: flex; align-items: center; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;\">\n            <span class=\"alz-silmtr__value\" style=\"color: #fff; font-weight: 600; font-size: 14px; letter-spacing: normal;\">35 dB</span>\n          </div>\n        </div>\n      </div>\n\n      <div class=\"alz-silmtr__row\" style=\"display: flex; align-items: center; justify-content: space-between;\">\n        <div class=\"alz-silmtr__label\" style=\"width: 160px; font-weight: 500; color: #555; font-size: 16px; flex-shrink: 0; letter-spacing: normal;\">Climatisation</div>\n        <div class=\"alz-silmtr__bar-wrap\" style=\"flex: 1; background-color: #eef2fb; border-radius: 20px; height: 42px; overflow: hidden;\">\n          <div class=\"alz-silmtr__bar\" style=\"background-color: #aab8d6; height: 100%; width: 100%; border-radius: 20px; display: flex; align-items: center; justify-content: flex-end; padding-right: 20px; box-sizing: border-box;\">\n            <span class=\"alz-silmtr__value\" style=\"color: #fff; font-weight: 600; font-size: 14px; letter-spacing: normal;\">50 dB</span>\n          </div>\n        </div>\n      </div>\n\n    </div>\n\n    <p class=\"alz-silmtr__footnote\" style=\"text-align: center; font-size: 13px; color: #8c8984; margin-top: 35px; font-style: italic; letter-spacing: normal;\">\n      Mesures à 1,5 m, vitesse 3/6. Tolérance ±2 dB.\n    </p>\n\n  </div>\n</div>",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "product_comparison_ahRqAP": {
-      "type": "product-comparison",
-      "blocks": {
-        "product_column_HQQ9kd": {
-          "type": "product_column",
-          "settings": {
-            "product_name": "Ventilateur de plafond",
-            "product_subtitle": "",
-            "product_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_21.03.19.png",
-            "product_image_size": 80,
-            "product_image_size_tablet": 80,
-            "product_image_size_mobile": 75,
-            "subtitle_custom_icon": "",
-            "show_subtitle_icon": true,
-            "use_subtitle_background": true,
-            "subtitle_border_color": "#ffffff",
-            "highlight_column": true,
-            "highlight_color": "#c2e9fb",
-            "use_highlight_gradient": true,
-            "highlight_gradient_start_color": "#fffdfd47",
-            "highlight_gradient_end_color": "#ffffff45",
-            "highlight_gradient_angle": 90,
-            "subtitle_glass_color": "#ffffff",
-            "subtitle_icon_color": "#000000"
-          }
-        },
-        "product_column_8iR6JG": {
-          "type": "product_column",
-          "settings": {
-            "product_name": "Ventilateur sur pied",
-            "product_subtitle": "",
-            "product_image": "shopify://shop_images/Capture_d_ecran_2026-06-25_a_21.08.30.png",
-            "product_image_size": 80,
-            "product_image_size_tablet": 60,
-            "product_image_size_mobile": 50,
-            "subtitle_custom_icon": "",
-            "show_subtitle_icon": true,
-            "use_subtitle_background": true,
-            "subtitle_border_color": "#ffffff",
-            "highlight_column": false,
-            "highlight_color": "#ef4a65",
-            "use_highlight_gradient": false,
-            "highlight_gradient_start_color": "#ef4a65",
-            "highlight_gradient_end_color": "#ff6b9d",
-            "highlight_gradient_angle": 45,
-            "subtitle_glass_color": "#ffffff",
-            "subtitle_icon_color": "#000000"
-          }
-        },
-        "feature_row_k4jmQ9": {
-          "type": "feature_row",
-          "settings": {
-            "feature_name": "Ne prend aucune place au sol",
-            "show_icon": true,
-            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
-            "value_type": "checkmark",
-            "value_1": "yes",
-            "text_value_1": "Yes",
-            "value_2": "no",
-            "text_value_2": "No"
-          }
-        },
-        "feature_row_DrAYGc": {
-          "type": "feature_row",
-          "settings": {
-            "feature_name": "Aucun câble, aucune gaine",
-            "show_icon": true,
-            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
-            "value_type": "checkmark",
-            "value_1": "yes",
-            "text_value_1": "Yes",
-            "value_2": "no",
-            "text_value_2": "No"
-          }
-        },
-        "feature_row_W4Fwxw": {
-          "type": "feature_row",
-          "settings": {
-            "feature_name": "Éclaire aussi la pièce (2-en-1)",
-            "show_icon": true,
-            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
-            "value_type": "checkmark",
-            "value_1": "yes",
-            "text_value_1": "Yes",
-            "value_2": "no",
-            "text_value_2": "No"
-          }
-        },
-        "feature_row_afwJDU": {
-          "type": "feature_row",
-          "settings": {
-            "feature_name": "Prix abordable",
-            "show_icon": true,
-            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
-            "value_type": "checkmark",
-            "value_1": "yes",
-            "text_value_1": "Yes",
-            "value_2": "no",
-            "text_value_2": "No"
-          }
-        },
-        "feature_row_ntHtdD": {
-          "type": "feature_row",
-          "settings": {
-            "feature_name": "Installation sans électricien",
-            "show_icon": true,
-            "feature_icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewbox=\"0 0 256 256\">\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" opacity=\"0.2\"></path>\n  <path d=\"M54.46,201.54c-9.2-9.2-3.1-28.53-7.78-39.85C41.82,150,24,140.5,24,128s17.82-22,22.68-33.69C51.36,83,45.26,63.66,54.46,54.46S83,51.36,94.31,46.68C106.05,41.82,115.5,24,128,24S150,41.82,161.69,46.68c11.32,4.68,30.65-1.42,39.85,7.78s3.1,28.53,7.78,39.85C214.18,106.05,232,115.5,232,128S214.18,150,209.32,161.69c-4.68,11.32,1.42,30.65-7.78,39.85s-28.53,3.1-39.85,7.78C150,214.18,140.5,232,128,232s-22-17.82-33.69-22.68C83,204.64,63.66,210.74,54.46,201.54Z\" fill=\"white\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></path>\n  <polyline points=\"88 136 112 160 168 104\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"16\"></polyline>\n</svg>",
-            "value_type": "checkmark",
-            "value_1": "yes",
-            "text_value_1": "Yes",
-            "value_2": "yes",
-            "text_value_2": "No"
-          }
-        }
-      },
-      "block_order": [
-        "product_column_HQQ9kd",
-        "product_column_8iR6JG",
-        "feature_row_k4jmQ9",
-        "feature_row_DrAYGc",
-        "feature_row_W4Fwxw",
-        "feature_row_afwJDU",
-        "feature_row_ntHtdD"
-      ],
-      "custom_css": [
-        "@media screen and (max-width: 767px) {.comparison-section {padding-top: 0 !important; }}"
-      ],
-      "settings": {
-        "use_theme_colors": false,
-        "show_heading": true,
-        "title_part_1": "",
-        "title_part_2": "Versa?",
-        "title_part_1_color": "#ffffff",
-        "title_part_2_color": "#ffffff",
-        "subheading": "",
-        "desktop_description": "",
-        "show_description_on_mobile": false,
-        "heading_size": 40,
-        "subheading_size": 13,
-        "heading_line_height": 1.2,
-        "subheading_color": "#ffffff",
-        "desktop_description_size_mobile": 14,
-        "desktop_description_size_desktop": 16,
-        "override_global_accent": false,
-        "accent_text_margin_left": 4,
-        "use_accent_gradient": true,
-        "accent_text_gradient": "linear-gradient(177deg, rgba(25, 23, 77, 1) 2.158%, rgba(20, 27, 77, 1) 87%, rgba(255, 107, 157, 1) 100%)",
-        "accent_font_family": "serif",
-        "accent_font_style": "italic",
-        "accent_font_weight": "300",
-        "table_column_width": 47,
-        "center_text_column_desktop": false,
-        "table_width": 1400,
-        "text_column_padding_mobile": 20,
-        "text_column_padding_desktop": 40,
-        "product_title_size": 21,
-        "subtitle_size": 10,
-        "feature_name_size": 17,
-        "text_value_size": 14,
-        "product_title_size_mobile": 16,
-        "subtitle_size_mobile": 10,
-        "feature_name_size_mobile": 12,
-        "text_value_size_mobile": 11,
-        "use_gradient_background": true,
-        "background_color": "#ffffff",
-        "gradient_direction": 175,
-        "gradient_color_1": "#141b4d",
-        "gradient_color_2": "#141b4d",
-        "text_color": "#211a28",
-        "subtitle_color": "#211a28",
-        "highlighted_text_color": "#ffffff",
-        "highlighted_subtitle_color": "#ffffff",
-        "highlighted_check_color": "#ffffff",
-        "highlighted_x_color": "#ffffff",
-        "border_color": "#ffffff45",
-        "icon_color": "#ffffff",
-        "check_color": "#ffffff",
-        "x_color": "#ffffff",
-        "highlight_border_radius": 8,
-        "use_highlight_border": true,
-        "highlight_border_color": "#ffffff33",
-        "highlight_border_width": 1,
-        "unhighlighted_text_color": "#ffffff",
-        "unhighlighted_subtitle_color": "#ffffff",
-        "unhighlighted_icon_color": "#ffffff",
-        "unhighlighted_check_color": "#ffffff",
-        "unhighlighted_x_color": "#ffffff"
-      }
-    },
     "custom_liquid_xPTEgn": {
       "type": "custom-liquid",
       "disabled": true,
@@ -1976,6 +1796,8 @@
     "sticky_add_to_cart_NJqgUd",
     "custom_liquid_7nbizj",
     "custom_liquid_YECiKg",
+    "custom_liquid_6ArCrp",
+    "custom_liquid_j4a9Xr",
     "custom_liquid_tjMeaF",
     "product_benefits_NWiWMe",
     "divider_Q7nmRz",
@@ -1985,8 +1807,6 @@
     "statistics_column_XrYU7w",
     "custom_liquid_pUttRQ",
     "custom_liquid_BQd7Dd",
-    "custom_liquid_GjkNm6",
-    "product_comparison_ahRqAP",
     "custom_liquid_xPTEgn",
     "custom_liquid_fhdLnB",
     "custom_liquid_AGGrxV",
