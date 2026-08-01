@@ -1150,7 +1150,7 @@
         "product_border_color": "#eeeeee",
         "product_border_width": 1,
         "product_border_style": "solid",
-        "summary_star_color": "#f42d2d",
+        "summary_star_color": "rgba(0,0,0,0)",
         "summary_text_color": "#000000",
         "rating_summary_text": "<p> </p>",
         "rating_summary_font_size": 13,
