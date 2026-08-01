@@ -216,6 +216,7 @@
         },
         "divider_7L3TAA": {
           "type": "divider",
+          "disabled": true,
           "settings": {
             "color": "#e0e0e0",
             "style": "solid",
@@ -758,6 +759,7 @@
         },
         "faq": {
           "type": "product_faq",
+          "disabled": true,
           "settings": {
             "use_theme_colors": true,
             "items_limit": 5,
@@ -803,6 +805,7 @@
         },
         "video_carousel_standalone_BMEUGm": {
           "type": "video_carousel_standalone",
+          "disabled": true,
           "settings": {
             "heading": "‎",
             "heading_size": 24,
@@ -969,24 +972,6 @@
     },
     "17826455681c0663f5": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_xQhrtz": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "reviews_to_display": "",
-            "default_tab": "automatic",
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_xQhrtz"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -1062,6 +1047,7 @@
         "benefit_GRe7dT",
         "custom_benefits_grid"
       ],
+      "disabled": true,
       "settings": {
         "padding_top": 50,
         "padding_bottom": 50,
