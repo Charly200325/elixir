@@ -46,7 +46,7 @@
           "type": "title",
           "settings": {
             "use_custom_title": true,
-            "custom_title": "Ventilateur de Plafond | La solution contre les fortes chaleurs",
+            "custom_title": "Notebook 01",
             "font_size": 38,
             "margin_top": 3,
             "margin_bottom": 0,
@@ -350,7 +350,7 @@
           }
         },
         "rapi_rapi_bundle_RUXbFh": {
-          "type": "shopify://apps/rapi/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "type": "shopify://apps/rapi-bundle/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
             "product": "ventilateur-de-plafond"
           }
@@ -850,6 +850,30 @@
         "delivery_text_prefix": "Get It By"
       }
     },
+    "17826455681c0663f5": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_xQhrtz": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "reviews_to_display": "",
+            "default_tab": "automatic",
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_xQhrtz"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "custom_liquid_tjMeaF": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -1118,30 +1142,6 @@
         "use_accent_gradient": true,
         "accent_text_gradient": "linear-gradient(45deg, rgba(239, 74, 101, 1), rgba(255, 107, 157, 1) 100%)",
         "accent_text_margin_left": 0
-      }
-    },
-    "17826455681c0663f5": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_section_xQhrtz": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "reviews_to_display": "",
-            "default_tab": "automatic",
-            "only_photos": false,
-            "aggregated": false,
-            "limit": 20,
-            "hide_thumbnails": false,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_section_xQhrtz"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "steps_NPBhYa": {
