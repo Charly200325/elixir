@@ -1037,49 +1037,69 @@
             "purchase_date": "July 14th, 2026"
           }
         },
-        "review_cpiKid": {
+        "review_69tdpn": {
           "type": "review",
           "settings": {
             "image_position": "center center",
-            "wrap_image": false,
+            "wrap_image": true,
             "rating": 5,
-            "review_text": "I was skeptical at first, but after using this for a month, I'm a true believer. The quality is outstanding!",
-            "reviewer_name": "Michael",
-            "reviewer_age": "35",
+            "review_text": "Genuinely noticed a difference in creativity within the first thinking session. Writes beautifully",
+            "reviewer_name": "David K.",
+            "reviewer_age": "",
             "show_verified_badge": true,
             "show_purchased_product": true,
-            "product_reference": "",
+            "product_reference": "notebook-01",
             "product_title": "Product Name",
             "product_price": "$29.99",
             "product_compare_price": "$39.99",
             "show_purchase_date": true,
-            "purchase_date": "March 14th, 2025"
+            "purchase_date": "July 14th, 2026"
           }
         },
-        "review_W7KyVC": {
+        "review_3rQRhY": {
           "type": "review",
           "settings": {
             "image_position": "center center",
-            "wrap_image": false,
-            "rating": 4,
-            "review_text": "Great product that delivers on its promises. Would definitely recommend to friends and family.",
-            "reviewer_name": "Jessica",
-            "reviewer_age": "42",
+            "wrap_image": true,
+            "rating": 5,
+            "review_text": "Genuinely noticed a difference in creativity within the first thinking session. Writes beautifully",
+            "reviewer_name": "David K.",
+            "reviewer_age": "",
             "show_verified_badge": true,
             "show_purchased_product": true,
-            "product_reference": "",
+            "product_reference": "notebook-01",
             "product_title": "Product Name",
             "product_price": "$29.99",
             "product_compare_price": "$39.99",
             "show_purchase_date": true,
-            "purchase_date": "March 14th, 2025"
+            "purchase_date": "July 14th, 2026"
+          }
+        },
+        "review_zad6BQ": {
+          "type": "review",
+          "settings": {
+            "image_position": "center center",
+            "wrap_image": true,
+            "rating": 5,
+            "review_text": "Genuinely noticed a difference in creativity within the first thinking session. Writes beautifully",
+            "reviewer_name": "David K.",
+            "reviewer_age": "",
+            "show_verified_badge": true,
+            "show_purchased_product": true,
+            "product_reference": "notebook-01",
+            "product_title": "Product Name",
+            "product_price": "$29.99",
+            "product_compare_price": "$39.99",
+            "show_purchase_date": true,
+            "purchase_date": "July 14th, 2026"
           }
         }
       },
       "block_order": [
         "review_frqdFY",
-        "review_cpiKid",
-        "review_W7KyVC"
+        "review_69tdpn",
+        "review_3rQRhY",
+        "review_zad6BQ"
       ],
       "name": "Customer Reviews",
       "settings": {
