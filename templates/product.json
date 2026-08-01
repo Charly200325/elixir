@@ -1101,7 +1101,9 @@
         "review_3rQRhY",
         "review_zad6BQ"
       ],
-      "custom_css": [],
+      "custom_css": [
+        "{margin-top: -60px;}"
+      ],
       "name": "Customer Reviews",
       "settings": {
         "use_theme_colors": false,
