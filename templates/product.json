@@ -976,6 +976,15 @@
         "include_margins": true
       }
     },
+    "custom_liquid_7nbizj": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n.skluv-features {\n  display: grid;\n  grid-template-columns: repeat(4,1fr);\n  gap: 35px;\n  margin: 50px 0;\n  padding: 0;\n}\n\n.skluv-feature{\n  text-align:left;\n}\n\n.skluv-feature svg{\n  width:26px;\n  height:26px;\n  margin-bottom:16px;\n  stroke:#111;\n}\n\n.skluv-feature h4{\n  margin:0 0 8px;\n  font-size:15px;\n  font-weight:600;\n  letter-spacing:.08em;\n  text-transform:uppercase;\n  color:#111;\n}\n\n.skluv-feature p{\n  margin:0;\n  font-size:14px;\n  line-height:1.6;\n  color:#666;\n}\n\n@media(max-width:990px){\n\n.skluv-features{\ngrid-template-columns:repeat(2,1fr);\ngap:30px 20px;\n}\n\n}\n\n@media(max-width:640px){\n\n.skluv-features{\ngrid-template-columns:1fr;\ngap:28px;\n}\n\n.skluv-feature{\ndisplay:flex;\nalign-items:flex-start;\ngap:18px;\n}\n\n.skluv-feature svg{\nmargin:0;\nflex-shrink:0;\n}\n\n}\n</style>\n\n<div class=\"skluv-features\">\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.7\" stroke=\"currentColor\">\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M7 3h7l5 5v13H7z\"/>\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M14 3v5h5\"/>\n</svg>\n\n<div>\n<h4>144 Pages</h4>\n<p>Premium 160gsm blue paper.</p>\n</div>\n\n</div>\n\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.7\" stroke=\"currentColor\">\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M16.5 3.5l4 4L8 20H4v-4L16.5 3.5z\"/>\n</svg>\n\n<div>\n<h4>Smooth Writing</h4>\n<p>Designed for pen lovers.</p>\n</div>\n\n</div>\n\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.7\" stroke=\"currentColor\">\n<rect x=\"6\" y=\"3\" width=\"12\" height=\"18\" rx=\"2\"/>\n<path d=\"M9 3v18\"/>\n</svg>\n\n<div>\n<h4>Built to Last</h4>\n<p>Lay-flat binding. Soft-touch cover.</p>\n</div>\n\n</div>\n\n\n<div class=\"skluv-feature\">\n\n<svg fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.7\" stroke=\"currentColor\">\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 3a6 6 0 016 6c0 4-6 12-6 12S6 13 6 9a6 6 0 016-6z\"/>\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 7v4\"/>\n<path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 15h.01\"/>\n</svg>\n\n<div>\n<h4>Made to Create</h4>\n<p>For ideas, plans, lists and everything between.</p>\n</div>\n\n</div>\n\n</div>",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "custom_liquid_tjMeaF": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
@@ -1955,6 +1964,7 @@
     "main",
     "sticky_add_to_cart_NJqgUd",
     "17826455681c0663f5",
+    "custom_liquid_7nbizj",
     "custom_liquid_tjMeaF",
     "product_benefits_NWiWMe",
     "divider_Q7nmRz",
