@@ -1022,19 +1022,19 @@
           "type": "review",
           "settings": {
             "image_position": "center center",
-            "wrap_image": false,
+            "wrap_image": true,
             "rating": 5,
-            "review_text": "The product has completely transformed my routine. I'm seeing amazing results and couldn't be happier with my purchase.",
-            "reviewer_name": "Sarah",
-            "reviewer_age": "28",
+            "review_text": "Genuinely noticed a difference in creativity within the first thinking session. Writes beautifully",
+            "reviewer_name": "David K.",
+            "reviewer_age": "",
             "show_verified_badge": true,
             "show_purchased_product": true,
-            "product_reference": "",
+            "product_reference": "notebook-01",
             "product_title": "Product Name",
             "product_price": "$29.99",
             "product_compare_price": "$39.99",
             "show_purchase_date": true,
-            "purchase_date": "March 14th, 2025"
+            "purchase_date": "July 14th, 2026"
           }
         },
         "review_cpiKid": {
