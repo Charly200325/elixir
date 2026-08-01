@@ -11,6 +11,7 @@
   "sections": {
     "custom_liquid_XRWxXy": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<section id=\"shopify-section-sections--28478095196542__scrolling_features_bar_mVzJVB\" class=\"shopify-section shopify-section-group-header-group section\"><link href=\"//baugmann.com/cdn/shop/t/22/assets/scrolling-features-bar.css?v=112724044729450329911781255830\" rel=\"stylesheet\" type=\"text/css\" media=\"all\">\n<script src=\"//baugmann.com/cdn/shop/t/22/assets/scrolling-features-bar.js?v=81799221736613260541781255830\" defer=\"\"></script>\n\n<style>\n  @keyframes marquee-horizontal-left {\n    0% {\n      transform: translateX(0);\n    }\n    100% {\n      transform: translateX(-25%);\n    }\n  }\n\n  @keyframes marquee-horizontal-right {\n    0% {\n      transform: translateX(-25%);\n    }\n    100% {\n      transform: translateX(0);\n    }\n  }\n\n  .section-sections--28478095196542__scrolling_features_bar_mVzJVB {\n    --vertical-padding: 6px;\n    --item-gap: 60px;\n    --mobile-item-gap: 30px;\n    --font-size: 12px;\n    --mobile-font-size: 12px;\n    --letter-spacing: 1px !important;\n    --text-transform: uppercase;\n    --icon-size: 16px;\n    --mobile-icon-size: 16px;\n    --icon-spacing: 10px;\n    \n    \n        --text-color: #141b4d;\n        --icon-color: #141b4d;\n        \n          --background-color: #d3e8fe;\n        \n    \n    \n    \n    \n    \n    \n    \n  }\n\n  .section-sections--28478095196542__scrolling_features_bar_mVzJVB .features-track {\n    animation: marquee-horizontal-left 24000ms linear infinite;\n  }\n  \n  \n</style>\n\n<div class=\"scrolling-features-bar section-sections--28478095196542__scrolling_features_bar_mVzJVB\">\n  <div class=\"features-track-container\" style=\"height: 17px;\">\n    <div class=\"features-track\" style=\"width: 4272px;\">\n      \n        <div class=\"feature-items\">\n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>\n                </div>\n              \n              <span>30 JOURS SATISFAIT OU REMBOURSÉ</span>\n            </div>\n            \n              <div class=\"feature-item-separator\"></div>\n            \n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zm-6 0H5V6h9v2zm-9 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm12 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z\"></path></svg>\n                </div>\n              \n              <span>LIVRAISON GRATUITE</span>\n            </div>\n            \n              <div class=\"feature-item-separator\"></div>\n            \n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"></path></svg>\n                </div>\n              \n              <span>SUPPORT FRANÇAIS</span>\n            </div>\n            \n          \n        </div>\n      \n        <div class=\"feature-items\">\n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>\n                </div>\n              \n              <span>30 JOURS SATISFAIT OU REMBOURSÉ</span>\n            </div>\n            \n              <div class=\"feature-item-separator\"></div>\n            \n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zm-6 0H5V6h9v2zm-9 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm12 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z\"></path></svg>\n                </div>\n              \n              <span>LIVRAISON GRATUITE</span>\n            </div>\n            \n              <div class=\"feature-item-separator\"></div>\n            \n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"></path></svg>\n                </div>\n              \n              <span>SUPPORT FRANÇAIS</span>\n            </div>\n            \n          \n        </div>\n      \n        <div class=\"feature-items\">\n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>\n                </div>\n              \n              <span>30 JOURS SATISFAIT OU REMBOURSÉ</span>\n            </div>\n            \n              <div class=\"feature-item-separator\"></div>\n            \n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zm-6 0H5V6h9v2zm-9 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm12 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z\"></path></svg>\n                </div>\n              \n              <span>LIVRAISON GRATUITE</span>\n            </div>\n            \n              <div class=\"feature-item-separator\"></div>\n            \n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"></path></svg>\n                </div>\n              \n              <span>SUPPORT FRANÇAIS</span>\n            </div>\n            \n          \n        </div>\n      \n        <div class=\"feature-items\">\n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>\n                </div>\n              \n              <span>30 JOURS SATISFAIT OU REMBOURSÉ</span>\n            </div>\n            \n              <div class=\"feature-item-separator\"></div>\n            \n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M20 8h-3V4H3c-1.1 0-2 .9-2 2v11h2c0 1.66 1.34 3 3 3s3-1.34 3-3h6c0 1.66 1.34 3 3 3s3-1.34 3-3h2v-5l-3-4zm-6 0H5V6h9v2zm-9 11.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm12 0c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z\"></path></svg>\n                </div>\n              \n              <span>LIVRAISON GRATUITE</span>\n            </div>\n            \n              <div class=\"feature-item-separator\"></div>\n            \n          \n            <div class=\"feature-item\">\n              \n                <div class=\"feature-icon\">\n                  <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z\"></path></svg>\n                </div>\n              \n              <span>SUPPORT FRANÇAIS</span>\n            </div>\n            \n          \n        </div>\n      \n    </div>\n  </div>\n</div>\n\n\n</section>",
@@ -21,25 +22,51 @@
     "main": {
       "type": "shop-product-details",
       "blocks": {
-        "reviews_R4dtXw": {
-          "type": "reviews",
+        "custom_text_bTJ97z": {
+          "type": "custom_text",
           "settings": {
-            "use_theme_colors": false,
-            "star_color": "#fba302",
-            "empty_star_color": "#e0e0e0",
-            "star_spacing": -5,
-            "rating_text_content": "<p>4,8 sur 2489 avis</p>",
-            "rating_text_color": "#000000",
-            "satisfaction_text": "",
-            "satisfaction_text_color": "#ffffff",
-            "satisfaction_bg_color": "#211a28",
-            "rating_text_size": 16,
-            "rating_text_size_mobile": 15,
-            "satisfaction_text_size": 11,
-            "satisfaction_text_size_mobile": 9,
-            "margin_top": 0,
-            "margin_bottom": -5,
-            "element_gap": 4
+            "text": "<p>NOTEBOOK 01</p>",
+            "show_description": false,
+            "description": "<p>Add additional descriptive text here</p>",
+            "description_font_size": 12,
+            "description_spacing": 4,
+            "description_color": "#666666",
+            "description_opacity": 0.8,
+            "show_accent_text": false,
+            "accent_text": "Accent Text",
+            "accent_text_position": "before",
+            "use_accent_gradient": true,
+            "accent_text_gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+            "accent_text_color": "#667eea",
+            "accent_text_font_size": 16,
+            "accent_text_font_weight": "semibold",
+            "accent_text_spacing": 8,
+            "show_icon": false,
+            "custom_icon": "<svg width=\"24\" height=\"24\" viewbox=\"0 0 16 16\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"currentColor\" class=\"bi bi-stars\"><path d=\"M7.657 6.247c.11-.33.576-.33.686 0l.645 1.937a2.89 2.89 0 0 0 1.829 1.828l1.936.645c.33.11.33.576 0 .686l-1.937.645a2.89 2.89 0 0 0-1.828 1.829l-.645 1.936a.361.361 0 0 1-.686 0l-.645-1.937a2.89 2.89 0 0 0-1.828-1.828l-1.937-.645a.361.361 0 0 1 0-.686l1.937-.645a2.89 2.89 0 0 0 1.828-1.828l.645-1.937zM3.794 1.148a.217.217 0 0 1 .412 0l.387 1.162c.173.518.579.924 1.097 1.097l1.162.387a.217.217 0 0 1 0 .412l-1.162.387A1.734 1.734 0 0 0 4.593 5.69l-.387 1.162a.217.217 0 0 1-.412 0L3.407 5.69A1.734 1.734 0 0 0 2.31 4.593l-1.162-.387a.217.217 0 0 1 0-.412l1.162-.387A1.734 1.734 0 0 0 3.407 2.31l.387-1.162zM10.863.099a.145.145 0 0 1 .274 0l.258.774c.115.346.386.617.732.732l.774.258a.145.145 0 0 1 0 .274l-.774.258a1.156 1.156 0 0 0-.732.732l-.258.774a.145.145 0 0 1-.274 0l-.258-.774a1.156 1.156 0 0 0-.732-.732L9.1 2.137a.145.145 0 0 1 0-.274l.774-.258c.346-.115.617-.386.732-.732L10.863.1z\"></path></svg>",
+            "icon_color": "#333333",
+            "icon_size": 20,
+            "icon_spacing": 8,
+            "icon_alignment": "center",
+            "text_align": "left",
+            "font_size": 14,
+            "text_color": "#333333",
+            "margin_top": 8,
+            "margin_bottom": -8,
+            "padding_top": 0,
+            "padding_bottom": 0,
+            "use_container": false,
+            "container_bg_type": "color",
+            "container_bg": "#f8f8f8",
+            "container_bg_gradient": "linear-gradient(180deg, #F8F8F8 0%, #E5E5E5 100%)",
+            "container_padding_top": 10,
+            "container_padding_bottom": 10,
+            "container_padding_h": 14,
+            "border_radius": 4,
+            "show_divider": false,
+            "divider_color": "#e0e0e0",
+            "divider_height": 1,
+            "divider_style": "solid",
+            "divider_spacing": 12
           }
         },
         "title": {
@@ -54,37 +81,10 @@
             "line_height": 1
           }
         },
-        "price": {
-          "type": "price",
-          "settings": {
-            "price_color": "#211a28",
-            "compare_price_color": "#c2c2c2",
-            "sale_badge_bg_color": "#d3e8fe",
-            "sale_badge_text_color": "#141b4d",
-            "save_badge_enable_border": false,
-            "save_badge_border_color": "#000000",
-            "save_badge_border_width": 1,
-            "save_badge_border_style": "solid",
-            "price_font_size": 28,
-            "compare_price_font_size": 21,
-            "save_badge_font_size": 12,
-            "price_font_weight": "600",
-            "price_margin_top": 0,
-            "price_margin_bottom": 0,
-            "show_save_icon": true,
-            "save_icon_size_ratio": 0.9,
-            "save_icon_position_y": 0,
-            "save_badge_padding_v": 5,
-            "save_badge_padding_h": 6,
-            "custom_save_text": "Économisez",
-            "save_badge_display_type": "dollar_amount",
-            "custom_save_amount": ""
-          }
-        },
         "custom_text_VEHNzL": {
           "type": "custom_text",
           "settings": {
-            "text": "<p>Rafraîchissez vos pièces sans climatisation.</p>",
+            "text": "<p>The notebook designed for builders, thinkers and creators. </p>",
             "show_description": false,
             "description": "<p>Add additional descriptive text here</p>",
             "description_font_size": 14,
@@ -128,8 +128,58 @@
             "divider_spacing": 12
           }
         },
+        "reviews_R4dtXw": {
+          "type": "reviews",
+          "disabled": true,
+          "settings": {
+            "use_theme_colors": false,
+            "star_color": "#000000",
+            "empty_star_color": "#e0e0e0",
+            "star_spacing": -5,
+            "rating_text_content": "",
+            "rating_text_color": "#000000",
+            "satisfaction_text": "",
+            "satisfaction_text_color": "#ffffff",
+            "satisfaction_bg_color": "#211a28",
+            "rating_text_size": 16,
+            "rating_text_size_mobile": 15,
+            "satisfaction_text_size": 11,
+            "satisfaction_text_size_mobile": 9,
+            "margin_top": 0,
+            "margin_bottom": -5,
+            "element_gap": 4
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_color": "#211a28",
+            "compare_price_color": "#c2c2c2",
+            "sale_badge_bg_color": "#d3e8fe",
+            "sale_badge_text_color": "#141b4d",
+            "save_badge_enable_border": false,
+            "save_badge_border_color": "#000000",
+            "save_badge_border_width": 1,
+            "save_badge_border_style": "solid",
+            "price_font_size": 28,
+            "compare_price_font_size": 21,
+            "save_badge_font_size": 12,
+            "price_font_weight": "600",
+            "price_margin_top": 0,
+            "price_margin_bottom": 0,
+            "show_save_icon": true,
+            "save_icon_size_ratio": 0.9,
+            "save_icon_position_y": 0,
+            "save_badge_padding_v": 5,
+            "save_badge_padding_h": 6,
+            "custom_save_text": "Économisez",
+            "save_badge_display_type": "dollar_amount",
+            "custom_save_amount": ""
+          }
+        },
         "bullet_list_CV8Fqx": {
           "type": "bullet_list",
+          "disabled": true,
           "settings": {
             "bullet_1": "Ventilation et lumière LED réglables",
             "bullet_2": "Installation simple en 5 minutes",
@@ -227,6 +277,7 @@
         },
         "shipping_notice": {
           "type": "shipping_notice",
+          "disabled": true,
           "settings": {
             "notice_text_before": "Stock limité - expédition le :",
             "notice_text_after": "",
@@ -501,6 +552,62 @@
             "preselected_option": "first_visible"
           }
         },
+        "simple_variant_picker_BKQGW9": {
+          "type": "simple_variant_picker",
+          "settings": {
+            "first_variant_auto_selected": false,
+            "use_dropdown": false,
+            "enable_color_swatches": true,
+            "show_labels": true,
+            "enable_size_preset": true,
+            "show_variant_images": true,
+            "show_images_for_all_variants": false,
+            "image_variant_size": 60,
+            "variant_image_border_width": 1,
+            "variant_image_border_color": "#e5e5e5",
+            "variant_image_border_radius": 4,
+            "variant_image_selected_border_color": "#007acc",
+            "variant_image_selected_border_width": 2,
+            "show_variant_shadows": true,
+            "color_option_label": "Color",
+            "size_option_label": "Size",
+            "custom_option_label_1": "",
+            "custom_option_label_2": "",
+            "custom_option_label_3": "",
+            "label_color": "#000000",
+            "label_size": 14,
+            "option_bg_color": "#ffffff",
+            "option_border_color": "#dddddd",
+            "option_text_color": "#000000",
+            "option_size": 14,
+            "option_border_radius": 4,
+            "hide_option_1": false,
+            "hide_option_2": false,
+            "hide_option_3": false,
+            "quantity_circle_size": 24,
+            "quantity_circle_size_mobile": 20,
+            "quantity_circle_bg_color": "#f5f5f5",
+            "quantity_circle_text_color": "#333333",
+            "selected_bg_color": "#000000",
+            "selected_text_color": "#ffffff",
+            "selected_border_color": "#000000",
+            "selected_variant_color": "#000000",
+            "swatch_size": 30,
+            "swatch_bg_color": "#cccccc",
+            "outline_color": "#e5e5e5",
+            "custom_color_mappings": "red=#FF0000\nblue=#0000FF\ngreen=#00FF00\nyellow=#FFFF00\nblack=#000000\nwhite=#FFFFFF",
+            "show_selected_variant": false,
+            "hide_selected_option_text": false,
+            "text_color": "#000000",
+            "option_padding_vertical": 8,
+            "option_padding_horizontal": 15,
+            "option_font_size": 14,
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "container_margin_left": 5,
+            "container_margin_right": 0
+          }
+        },
         "add_to_cart_T6xGgJ": {
           "type": "add_to_cart",
           "settings": {
@@ -525,6 +632,7 @@
         },
         "guarantee_badges_QyjYFA": {
           "type": "guarantee_badges",
+          "disabled": true,
           "settings": {
             "badge_1_show": true,
             "badge_1_text": "30 jours satisfait ou remboursé",
@@ -549,6 +657,7 @@
         },
         "payment_icons_4M99Bi": {
           "type": "payment_icons",
+          "disabled": true,
           "settings": {
             "custom_payment_icons": "visa, american_express, apple_pay, paypal, google_pay, mastercard, shopify_pay, klarna, maestro",
             "alignment": "center",
@@ -745,10 +854,11 @@
         }
       },
       "block_order": [
-        "reviews_R4dtXw",
+        "custom_text_bTJ97z",
         "title",
-        "price",
         "custom_text_VEHNzL",
+        "reviews_R4dtXw",
+        "price",
         "bullet_list_CV8Fqx",
         "divider_7L3TAA",
         "custom_text_Qra839",
@@ -757,6 +867,7 @@
         "quantity_bundle_QABFpz",
         "rapi_rapi_bundle_RUXbFh",
         "quantity_break_BwGDzW",
+        "simple_variant_picker_BKQGW9",
         "add_to_cart_T6xGgJ",
         "guarantee_badges_QyjYFA",
         "payment_icons_4M99Bi",
