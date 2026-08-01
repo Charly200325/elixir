@@ -609,7 +609,7 @@
             "use_global_button_styling": false,
             "show_fast_payment": true,
             "button_behavior": "add_to_cart",
-            "button_text_override": "AJOUTER AU PANIER",
+            "button_text_override": "ADD TO CART",
             "show_price_in_button": false,
             "button_icon": "none",
             "custom_icon": "",
