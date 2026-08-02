@@ -24,6 +24,9 @@
     },
     "header": {
       "type": "header",
+      "custom_css": [
+        ".header {max-width: 1450px; margin: 20px auto; border-radius: 30px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,.08);}"
+      ],
       "settings": {
         "logo_position": "middle-left",
         "mobile_logo_position": "center",
