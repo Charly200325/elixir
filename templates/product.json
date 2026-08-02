@@ -77,7 +77,7 @@
             "font_size": 38,
             "margin_top": 3,
             "margin_bottom": 0,
-            "title_color": "#211a28",
+            "title_color": "#FFFFFF",
             "line_height": 1
           }
         },
@@ -153,8 +153,8 @@
         "price": {
           "type": "price",
           "settings": {
-            "price_color": "#211a28",
-            "compare_price_color": "#c2c2c2",
+            "price_color": "#FFFFFF",
+            "compare_price_color": "#F8F3F3",
             "sale_badge_bg_color": "#d3e8fe",
             "sale_badge_text_color": "#141b4d",
             "save_badge_enable_border": false,
@@ -569,7 +569,7 @@
             "custom_option_label_1": "",
             "custom_option_label_2": "",
             "custom_option_label_3": "",
-            "label_color": "#000000",
+            "label_color": "#DFDCDC",
             "label_size": 14,
             "option_bg_color": "#ffffff",
             "option_border_color": "#dddddd",
@@ -583,10 +583,10 @@
             "quantity_circle_size_mobile": 20,
             "quantity_circle_bg_color": "#f5f5f5",
             "quantity_circle_text_color": "#333333",
-            "selected_bg_color": "#000000",
+            "selected_bg_color": "#8C3333",
             "selected_text_color": "#ffffff",
             "selected_border_color": "#000000",
-            "selected_variant_color": "#000000",
+            "selected_variant_color": "#FEFEFE",
             "swatch_size": 30,
             "swatch_bg_color": "#cccccc",
             "outline_color": "#e5e5e5",
@@ -900,7 +900,7 @@
       "settings": {
         "use_theme_colors": false,
         "current_product": "notebook-01",
-        "section_bg_color": "#0D0D0D",
+        "section_bg_color": "#000000",
         "blocks_spacing": 4,
         "text_color": "#333333",
         "accent_color": "#1a281c",
