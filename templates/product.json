@@ -900,7 +900,7 @@
       "settings": {
         "use_theme_colors": false,
         "current_product": "notebook-01",
-        "section_bg_color": "#110606",
+        "section_bg_color": "#0D0D0D",
         "blocks_spacing": 4,
         "text_color": "#333333",
         "accent_color": "#1a281c",
@@ -914,7 +914,7 @@
         "dots_color": "#cccccc",
         "enable_full_width_image": false,
         "enable_mobile_full_width_image": false,
-        "image_aspect_ratio": "1:1",
+        "image_aspect_ratio": "3:4",
         "hide_thumbnails": false,
         "dot_size": 8,
         "dot_color": "#cccccc",
