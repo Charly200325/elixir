@@ -900,7 +900,7 @@
       "settings": {
         "use_theme_colors": false,
         "current_product": "notebook-01",
-        "section_bg_color": "#ffffff",
+        "section_bg_color": "#000000",
         "blocks_spacing": 4,
         "text_color": "#333333",
         "accent_color": "#1a281c",
@@ -1129,7 +1129,7 @@
         "description_color": "#000000",
         "prev_button_bg": "#ffffff",
         "prev_button_color": "#000000",
-        "prev_button_border": "#CB1E1E",
+        "prev_button_border": "#cb1e1e",
         "next_button_bg": "#000000",
         "next_button_color": "#ffffff",
         "next_button_border": "#000000",
