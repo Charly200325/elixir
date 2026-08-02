@@ -25,14 +25,14 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".header {max-width: 1450px; margin: 20px auto; border-radius: 30px; overflow: hidden; box-shadow: 0 8px 30px rgba(0,0,0,.08);}"
+        ".header {max-width: 1450px; margin: 20px auto; border-radius: 30px; overflow: hidden; box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);}"
       ],
       "settings": {
         "logo_position": "middle-left",
         "mobile_logo_position": "center",
         "menu": "main-menu",
         "menu_type_desktop": "dropdown",
-        "sticky_header_type": "on-scroll-up",
+        "sticky_header_type": "always",
         "show_line_separator": true,
         "use_theme_colors": false,
         "use_global_gradient": false,
